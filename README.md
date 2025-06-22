@@ -20,6 +20,7 @@
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0075-sort-colors](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0283-move-zeroes) |
@@ -44,6 +45,7 @@
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0075-sort-colors](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0075-sort-colors) |
 | [0283-move-zeroes](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0344-reverse-string) |
@@ -82,5 +84,6 @@
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0075-sort-colors) |
 | [0268-missing-number](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
