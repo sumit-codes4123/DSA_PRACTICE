@@ -30,6 +30,7 @@
 | [0268-missing-number](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0287-find-the-duplicate-number) |
+| [0349-intersection-of-two-arrays](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0349-intersection-of-two-arrays) |
 | [0792-binary-search](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0792-binary-search) |
 | [0945-snakes-and-ladders](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0945-snakes-and-ladders) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -39,6 +40,7 @@
 | ------- |
 | [0268-missing-number](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0287-find-the-duplicate-number) |
+| [0349-intersection-of-two-arrays](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0349-intersection-of-two-arrays) |
 | [0792-binary-search](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0792-binary-search) |
 ## Dynamic Programming
 |  |
@@ -58,6 +60,7 @@
 | [0283-move-zeroes](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0344-reverse-string) |
+| [0349-intersection-of-two-arrays](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0349-intersection-of-two-arrays) |
 | [0953-reverse-only-letters](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0953-reverse-only-letters) |
 ## Bit Manipulation
 |  |
@@ -92,6 +95,7 @@
 | [0169-majority-element](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0349-intersection-of-two-arrays) |
 | [2486-most-frequent-even-element](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2486-most-frequent-even-element) |
 ## Sorting
 |  |
@@ -100,6 +104,7 @@
 | [0169-majority-element](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0349-intersection-of-two-arrays) |
 ## Divide and Conquer
 |  |
 | ------- |
