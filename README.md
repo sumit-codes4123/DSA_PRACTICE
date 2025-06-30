@@ -31,6 +31,7 @@
 | [0283-move-zeroes](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0349-intersection-of-two-arrays) |
+| [0485-max-consecutive-ones](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0485-max-consecutive-ones) |
 | [0792-binary-search](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0792-binary-search) |
 | [0945-snakes-and-ladders](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0945-snakes-and-ladders) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/1878-check-if-array-is-sorted-and-rotated) |
