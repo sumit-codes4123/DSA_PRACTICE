@@ -42,6 +42,7 @@
 | [0941-sort-array-by-parity](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0941-sort-array-by-parity) |
 | [0945-snakes-and-ladders](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0945-snakes-and-ladders) |
 | [0958-sort-array-by-parity-ii](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0958-sort-array-by-parity-ii) |
+| [1742-widest-vertical-area-between-two-points-containing-no-points](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/1742-widest-vertical-area-between-two-points-containing-no-points) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2283-sort-even-and-odd-indices-independently](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2283-sort-even-and-odd-indices-independently) |
@@ -127,6 +128,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0349-intersection-of-two-arrays) |
 | [0941-sort-array-by-parity](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0941-sort-array-by-parity) |
 | [0958-sort-array-by-parity-ii](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0958-sort-array-by-parity-ii) |
+| [1742-widest-vertical-area-between-two-points-containing-no-points](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/1742-widest-vertical-area-between-two-points-containing-no-points) |
 | [2283-sort-even-and-odd-indices-independently](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2283-sort-even-and-odd-indices-independently) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 ## Divide and Conquer
