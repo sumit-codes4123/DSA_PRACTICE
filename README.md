@@ -29,6 +29,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0136-single-number) |
+| [0164-maximum-gap](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0164-maximum-gap) |
 | [0169-majority-element](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0189-rotate-array) |
 | [0229-majority-element-ii](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0229-majority-element-ii) |
@@ -119,6 +120,7 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0075-sort-colors) |
+| [0164-maximum-gap](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0164-maximum-gap) |
 | [0169-majority-element](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0268-missing-number) |
@@ -151,4 +153,12 @@
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0128-longest-consecutive-sequence) |
+## Bucket Sort
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0164-maximum-gap) |
+## Radix Sort
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0164-maximum-gap) |
 <!---LeetCode Topics End-->
