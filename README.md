@@ -6,6 +6,7 @@
 | ------- |
 | [0007-reverse-integer](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0009-palindrome-number) |
+| [0048-rotate-image](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0050-powx-n) |
 | [0189-rotate-array](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0268-missing-number) |
@@ -24,6 +25,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0031-next-permutation) |
+| [0048-rotate-image](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -108,6 +110,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0048-rotate-image) |
 | [0945-snakes-and-ladders](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0945-snakes-and-ladders) |
 ## Hash Table
 |  |
