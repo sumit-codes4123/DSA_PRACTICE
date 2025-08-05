@@ -27,6 +27,7 @@
 | [0031-next-permutation](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0031-next-permutation) |
 | [0048-rotate-image](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0054-spiral-matrix) |
 | [0075-sort-colors](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0128-longest-consecutive-sequence) |
@@ -116,6 +117,7 @@
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0054-spiral-matrix) |
 | [0777-toeplitz-matrix](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0777-toeplitz-matrix) |
 | [0898-transpose-matrix](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0898-transpose-matrix) |
 | [0945-snakes-and-ladders](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0945-snakes-and-ladders) |
@@ -163,6 +165,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0054-spiral-matrix) |
 | [0898-transpose-matrix](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0898-transpose-matrix) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2278-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2278-find-three-consecutive-integers-that-sum-to-a-given-number) |
