@@ -11,6 +11,7 @@
 | [0189-rotate-array](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0268-missing-number) |
 | [1013-fibonacci-number](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/1013-fibonacci-number) |
+| [2032-largest-odd-number-in-string](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2032-largest-odd-number-in-string) |
 | [2278-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2278-find-three-consecutive-integers-that-sum-to-a-given-number) |
 | [2383-add-two-integers](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2383-add-two-integers) |
 | [2713-find-the-divisibility-array-of-a-string](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2713-find-the-divisibility-array-of-a-string) |
@@ -119,6 +120,7 @@
 | ------- |
 | [0344-reverse-string](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0344-reverse-string) |
 | [0953-reverse-only-letters](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0953-reverse-only-letters) |
+| [2032-largest-odd-number-in-string](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2032-largest-odd-number-in-string) |
 | [2492-length-of-the-longest-alphabetical-continuous-substring](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2492-length-of-the-longest-alphabetical-continuous-substring) |
 | [2713-find-the-divisibility-array-of-a-string](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2713-find-the-divisibility-array-of-a-string) |
 ## Combinatorics
@@ -186,6 +188,7 @@
 ## Greedy
 |  |
 | ------- |
+| [2032-largest-odd-number-in-string](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2032-largest-odd-number-in-string) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 ## Simulation
 |  |
