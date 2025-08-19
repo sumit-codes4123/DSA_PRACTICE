@@ -95,6 +95,7 @@
 | [1742-widest-vertical-area-between-two-points-containing-no-points](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/1742-widest-vertical-area-between-two-points-containing-no-points) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2015-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2015-determine-whether-matrix-can-be-obtained-by-rotation) |
+| [2047-find-a-peak-element-ii](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2047-find-a-peak-element-ii) |
 | [2102-find-the-middle-index-in-array](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2102-find-the-middle-index-in-array) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -137,6 +138,7 @@
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1646-kth-missing-positive-number](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/1646-kth-missing-positive-number) |
+| [2047-find-a-peak-element-ii](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2047-find-a-peak-element-ii) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Dynamic Programming
@@ -217,6 +219,7 @@
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1677-matrix-diagonal-sum](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/1677-matrix-diagonal-sum) |
 | [2015-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2015-determine-whether-matrix-can-be-obtained-by-rotation) |
+| [2047-find-a-peak-element-ii](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2047-find-a-peak-element-ii) |
 | [2398-check-if-matrix-is-x-matrix](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2398-check-if-matrix-is-x-matrix) |
 ## Hash Table
 |  |
