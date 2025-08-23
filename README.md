@@ -6,6 +6,7 @@
 | ------- |
 | [0007-reverse-integer](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0069-sqrtx) |
@@ -192,6 +193,7 @@
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0013-roman-to-integer) |
 | [0344-reverse-string](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0344-reverse-string) |
 | [0953-reverse-only-letters](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0953-reverse-only-letters) |
 | [2032-largest-odd-number-in-string](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2032-largest-odd-number-in-string) |
@@ -229,6 +231,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0013-roman-to-integer) |
 | [0128-longest-consecutive-sequence](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0229-majority-element-ii) |
