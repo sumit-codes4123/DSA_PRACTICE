@@ -12,6 +12,7 @@
 | [0069-sqrtx](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0231-power-of-two) |
+| [0258-add-digits](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0342-power-of-four) |
@@ -290,6 +291,7 @@
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0054-spiral-matrix) |
+| [0258-add-digits](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0258-add-digits) |
 | [0898-transpose-matrix](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0898-transpose-matrix) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2278-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2278-find-three-consecutive-integers-that-sum-to-a-given-number) |
@@ -364,4 +366,8 @@
 | ------- |
 | [0203-remove-linked-list-elements](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0203-remove-linked-list-elements) |
 | [0237-delete-node-in-a-linked-list](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0237-delete-node-in-a-linked-list) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
