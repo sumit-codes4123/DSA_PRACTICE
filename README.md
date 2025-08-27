@@ -12,6 +12,7 @@
 | [0069-sqrtx](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0202-happy-number) |
+| [0204-count-primes](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0268-missing-number) |
@@ -67,6 +68,7 @@
 | [0169-majority-element](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0198-house-robber) |
+| [0204-count-primes](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0204-count-primes) |
 | [0229-majority-element-ii](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0229-majority-element-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0268-missing-number) |
@@ -212,6 +214,7 @@
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0204-count-primes) |
 | [3201-distribute-candies-among-children-ii](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/3201-distribute-candies-among-children-ii) |
 | [3221-find-the-peaks](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/3221-find-the-peaks) |
 ## Breadth-First Search
@@ -373,5 +376,6 @@
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
