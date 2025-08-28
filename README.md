@@ -20,6 +20,7 @@
 | [0342-power-of-four](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0342-power-of-four) |
 | [0628-maximum-product-of-three-numbers](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0628-maximum-product-of-three-numbers) |
 | [1013-fibonacci-number](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/1013-fibonacci-number) |
+| [1421-find-numbers-with-even-number-of-digits](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [2032-largest-odd-number-in-string](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2032-largest-odd-number-in-string) |
 | [2278-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2278-find-three-consecutive-integers-that-sum-to-a-given-number) |
 | [2298-count-integers-with-even-digit-sum](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2298-count-integers-with-even-digit-sum) |
@@ -100,6 +101,7 @@
 | [1019-squares-of-a-sorted-array](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/1019-squares-of-a-sorted-array) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
+| [1421-find-numbers-with-even-number-of-digits](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1646-kth-missing-positive-number](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/1646-kth-missing-positive-number) |
