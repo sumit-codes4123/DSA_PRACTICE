@@ -32,6 +32,7 @@
 | [2713-find-the-divisibility-array-of-a-string](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2713-find-the-divisibility-array-of-a-string) |
 | [3201-distribute-candies-among-children-ii](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/3201-distribute-candies-among-children-ii) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/3515-find-if-digit-game-can-be-won) |
+| [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
 ## Recursion
 |  |
 | ------- |
@@ -129,6 +130,7 @@
 | [3221-find-the-peaks](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/3221-find-the-peaks) |
 | [3331-minimum-operations-to-exceed-threshold-value-i](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/3331-minimum-operations-to-exceed-threshold-value-i) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/3515-find-if-digit-game-can-be-won) |
+| [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
 ## Binary Search
 |  |
 | ------- |
