@@ -127,6 +127,7 @@
 | [2486-most-frequent-even-element](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2486-most-frequent-even-element) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
+| [2639-separate-the-digits-in-an-array](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2639-separate-the-digits-in-an-array) |
 | [2713-find-the-divisibility-array-of-a-string](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2713-find-the-divisibility-array-of-a-string) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2876-number-of-employees-who-met-the-target) |
 | [3221-find-the-peaks](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/3221-find-the-peaks) |
@@ -323,6 +324,7 @@
 | [2278-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2278-find-three-consecutive-integers-that-sum-to-a-given-number) |
 | [2298-count-integers-with-even-digit-sum](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2298-count-integers-with-even-digit-sum) |
 | [2386-min-max-game](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2386-min-max-game) |
+| [2639-separate-the-digits-in-an-array](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2639-separate-the-digits-in-an-array) |
 ## Union Find
 |  |
 | ------- |
