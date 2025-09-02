@@ -404,6 +404,7 @@
 | [0002-add-two-numbers](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0002-add-two-numbers) |
 | [0203-remove-linked-list-elements](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0203-remove-linked-list-elements) |
 | [0237-delete-node-in-a-linked-list](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0237-delete-node-in-a-linked-list) |
+| [0328-odd-even-linked-list](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0328-odd-even-linked-list) |
 ## Number Theory
 |  |
 | ------- |
