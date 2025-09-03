@@ -20,6 +20,7 @@
 | [0268-missing-number](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0342-power-of-four) |
+| [0507-perfect-number](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0507-perfect-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0628-maximum-product-of-three-numbers) |
 | [0728-self-dividing-numbers](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0728-self-dividing-numbers) |
 | [1013-fibonacci-number](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/1013-fibonacci-number) |
