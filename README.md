@@ -204,6 +204,7 @@
 | ------- |
 | [0015-3sum](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0018-4sum) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0031-next-permutation) |
@@ -441,6 +442,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0002-add-two-numbers) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0141-linked-list-cycle](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0142-linked-list-cycle-ii) |
 | [0203-remove-linked-list-elements](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0203-remove-linked-list-elements) |
