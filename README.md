@@ -89,6 +89,7 @@
 | [0189-rotate-array](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0198-house-robber) |
 | [0204-count-primes](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0204-count-primes) |
+| [0217-contains-duplicate](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0240-search-a-2d-matrix-ii) |
@@ -295,6 +296,7 @@
 | [0142-linked-list-cycle-ii](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0202-happy-number) |
+| [0217-contains-duplicate](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0349-intersection-of-two-arrays) |
@@ -317,6 +319,7 @@
 | [0148-sort-list](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0148-sort-list) |
 | [0164-maximum-gap](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0164-maximum-gap) |
 | [0169-majority-element](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0349-intersection-of-two-arrays) |
