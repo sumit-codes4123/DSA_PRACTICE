@@ -250,6 +250,7 @@
 | [0344-reverse-string](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0344-reverse-string) |
 | [0389-find-the-difference](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0409-longest-palindrome) |
+| [0812-rotate-string](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0812-rotate-string) |
 | [0953-reverse-only-letters](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0953-reverse-only-letters) |
 | [1205-defanging-an-ip-address](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/1205-defanging-an-ip-address) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/1960-check-if-the-sentence-is-pangram) |
@@ -486,4 +487,8 @@
 |  |
 | ------- |
 | [3462-vowels-game-in-a-string](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/3462-vowels-game-in-a-string) |
+## String Matching
+|  |
+| ------- |
+| [0812-rotate-string](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0812-rotate-string) |
 <!---LeetCode Topics End-->
