@@ -265,6 +265,7 @@
 | [2713-find-the-divisibility-array-of-a-string](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2713-find-the-divisibility-array-of-a-string) |
 | [2887-sort-vowels-in-a-string](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2887-sort-vowels-in-a-string) |
 | [3462-vowels-game-in-a-string](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/3462-vowels-game-in-a-string) |
+| [3811-reverse-degree-of-a-string](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/3811-reverse-degree-of-a-string) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Combinatorics
 |  |
@@ -393,6 +394,7 @@
 | [2298-count-integers-with-even-digit-sum](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2298-count-integers-with-even-digit-sum) |
 | [2386-min-max-game](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2386-min-max-game) |
 | [2639-separate-the-digits-in-an-array](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2639-separate-the-digits-in-an-array) |
+| [3811-reverse-degree-of-a-string](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/3811-reverse-degree-of-a-string) |
 ## Union Find
 |  |
 | ------- |
