@@ -145,6 +145,7 @@
 | [2271-rearrange-array-elements-by-sign](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2283-sort-even-and-odd-indices-independently](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2283-sort-even-and-odd-indices-independently) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2316-count-hills-and-valleys-in-an-array) |
+| [2320-find-all-k-distant-indices-in-an-array](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2386-min-max-game](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2386-min-max-game) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2398-check-if-matrix-is-x-matrix](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2398-check-if-matrix-is-x-matrix) |
@@ -239,6 +240,7 @@
 | [1019-squares-of-a-sorted-array](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/1019-squares-of-a-sorted-array) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2320-find-all-k-distant-indices-in-an-array](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [3165-find-indices-with-index-and-value-difference-i](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/3165-find-indices-with-index-and-value-difference-i) |
 ## Bit Manipulation
 |  |
