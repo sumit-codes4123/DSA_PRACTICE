@@ -38,6 +38,7 @@
 | [2630-alternating-digit-sum](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2630-alternating-digit-sum) |
 | [2713-find-the-divisibility-array-of-a-string](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2713-find-the-divisibility-array-of-a-string) |
 | [3201-distribute-candies-among-children-ii](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/3201-distribute-candies-among-children-ii) |
+| [3422-find-the-n-th-value-after-k-seconds](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/3422-find-the-n-th-value-after-k-seconds) |
 | [3462-vowels-game-in-a-string](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/3462-vowels-game-in-a-string) |
 | [3511-find-the-winning-player-in-coin-game](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/3511-find-the-winning-player-in-coin-game) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/3515-find-if-digit-game-can-be-won) |
@@ -160,6 +161,7 @@
 | [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3331-minimum-operations-to-exceed-threshold-value-i](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/3331-minimum-operations-to-exceed-threshold-value-i) |
+| [3422-find-the-n-th-value-after-k-seconds](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/3422-find-the-n-th-value-after-k-seconds) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/3515-find-if-digit-game-can-be-won) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
 | [3778-transform-array-by-parity](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/3778-transform-array-by-parity) |
@@ -279,6 +281,7 @@
 |  |
 | ------- |
 | [3201-distribute-candies-among-children-ii](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/3201-distribute-candies-among-children-ii) |
+| [3422-find-the-n-th-value-after-k-seconds](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/3422-find-the-n-th-value-after-k-seconds) |
 ## Enumeration
 |  |
 | ------- |
@@ -404,6 +407,7 @@
 | [2298-count-integers-with-even-digit-sum](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2298-count-integers-with-even-digit-sum) |
 | [2386-min-max-game](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2386-min-max-game) |
 | [2639-separate-the-digits-in-an-array](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2639-separate-the-digits-in-an-array) |
+| [3422-find-the-n-th-value-after-k-seconds](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/3422-find-the-n-th-value-after-k-seconds) |
 | [3511-find-the-winning-player-in-coin-game](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/3511-find-the-winning-player-in-coin-game) |
 | [3811-reverse-degree-of-a-string](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/3811-reverse-degree-of-a-string) |
 ## Union Find
@@ -428,6 +432,7 @@
 | [0724-find-pivot-index](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0724-find-pivot-index) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/1016-subarray-sums-divisible-by-k) |
 | [2102-find-the-middle-index-in-array](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2102-find-the-middle-index-in-array) |
+| [3422-find-the-n-th-value-after-k-seconds](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/3422-find-the-n-th-value-after-k-seconds) |
 ## Sliding Window
 |  |
 | ------- |
