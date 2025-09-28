@@ -274,6 +274,7 @@
 | [2492-length-of-the-longest-alphabetical-continuous-substring](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2492-length-of-the-longest-alphabetical-continuous-substring) |
 | [2713-find-the-divisibility-array-of-a-string](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2713-find-the-divisibility-array-of-a-string) |
 | [2887-sort-vowels-in-a-string](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2887-sort-vowels-in-a-string) |
+| [3447-clear-digits](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/3447-clear-digits) |
 | [3462-vowels-game-in-a-string](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/3462-vowels-game-in-a-string) |
 | [3553-check-if-two-chessboard-squares-have-the-same-color](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/3553-check-if-two-chessboard-squares-have-the-same-color) |
 | [3811-reverse-degree-of-a-string](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/3811-reverse-degree-of-a-string) |
@@ -409,6 +410,7 @@
 | [2386-min-max-game](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2386-min-max-game) |
 | [2639-separate-the-digits-in-an-array](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2639-separate-the-digits-in-an-array) |
 | [3422-find-the-n-th-value-after-k-seconds](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/3422-find-the-n-th-value-after-k-seconds) |
+| [3447-clear-digits](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/3447-clear-digits) |
 | [3450-find-the-child-who-has-the-ball-after-k-seconds](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/3450-find-the-child-who-has-the-ball-after-k-seconds) |
 | [3511-find-the-winning-player-in-coin-game](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/3511-find-the-winning-player-in-coin-game) |
 | [3811-reverse-degree-of-a-string](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/3811-reverse-degree-of-a-string) |
@@ -464,6 +466,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0145-binary-tree-postorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0234-palindrome-linked-list) |
+| [3447-clear-digits](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/3447-clear-digits) |
 ## Tree
 |  |
 | ------- |
