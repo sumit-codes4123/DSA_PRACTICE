@@ -38,6 +38,7 @@
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2630-alternating-digit-sum](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2630-alternating-digit-sum) |
 | [2713-find-the-divisibility-array-of-a-string](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2713-find-the-divisibility-array-of-a-string) |
+| [2752-sum-multiples](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2752-sum-multiples) |
 | [3201-distribute-candies-among-children-ii](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/3201-distribute-candies-among-children-ii) |
 | [3422-find-the-n-th-value-after-k-seconds](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/3422-find-the-n-th-value-after-k-seconds) |
 | [3450-find-the-child-who-has-the-ball-after-k-seconds](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/3450-find-the-child-who-has-the-ball-after-k-seconds) |
