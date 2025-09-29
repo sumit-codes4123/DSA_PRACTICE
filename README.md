@@ -144,6 +144,7 @@
 | [2015-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2015-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2047-find-a-peak-element-ii](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2047-find-a-peak-element-ii) |
 | [2102-find-the-middle-index-in-array](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2102-find-the-middle-index-in-array) |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2181-smallest-index-with-equal-value](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2181-smallest-index-with-equal-value) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2212-removing-minimum-and-maximum-from-array](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2212-removing-minimum-and-maximum-from-array) |
@@ -271,6 +272,7 @@
 | [1960-check-if-the-sentence-is-pangram](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [1970-sorting-the-sentence](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/1970-sorting-the-sentence) |
 | [2032-largest-odd-number-in-string](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2032-largest-odd-number-in-string) |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2337-remove-digit-from-number-to-maximize-result](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2337-remove-digit-from-number-to-maximize-result) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2377-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2377-check-if-number-has-equal-digit-count-and-digit-value) |
@@ -409,6 +411,7 @@
 | [0054-spiral-matrix](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0054-spiral-matrix) |
 | [0258-add-digits](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0258-add-digits) |
 | [0898-transpose-matrix](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0898-transpose-matrix) |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2278-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2278-find-three-consecutive-integers-that-sum-to-a-given-number) |
 | [2298-count-integers-with-even-digit-sum](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2298-count-integers-with-even-digit-sum) |
