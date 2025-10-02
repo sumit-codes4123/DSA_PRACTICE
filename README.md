@@ -129,6 +129,7 @@
 | [0941-sort-array-by-parity](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0941-sort-array-by-parity) |
 | [0945-snakes-and-ladders](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0945-snakes-and-ladders) |
 | [0958-sort-array-by-parity-ii](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0958-sort-array-by-parity-ii) |
+| [1001-n-repeated-element-in-size-2n-array](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1018-largest-perimeter-triangle](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/1018-largest-perimeter-triangle) |
 | [1019-squares-of-a-sorted-array](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/1019-squares-of-a-sorted-array) |
@@ -340,6 +341,7 @@
 | [0409-longest-palindrome](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0409-longest-palindrome) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0560-subarray-sum-equals-k) |
+| [1001-n-repeated-element-in-size-2n-array](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/1960-check-if-the-sentence-is-pangram) |
