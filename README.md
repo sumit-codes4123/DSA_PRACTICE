@@ -172,6 +172,7 @@
 | [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3331-minimum-operations-to-exceed-threshold-value-i](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/3331-minimum-operations-to-exceed-threshold-value-i) |
+| [3334-apple-redistribution-into-boxes](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/3334-apple-redistribution-into-boxes) |
 | [3355-minimum-levels-to-gain-more-points](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/3355-minimum-levels-to-gain-more-points) |
 | [3422-find-the-n-th-value-after-k-seconds](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/3422-find-the-n-th-value-after-k-seconds) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/3515-find-if-digit-game-can-be-won) |
@@ -380,6 +381,7 @@
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2887-sort-vowels-in-a-string](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2887-sort-vowels-in-a-string) |
 | [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3334-apple-redistribution-into-boxes](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/3334-apple-redistribution-into-boxes) |
 | [3778-transform-array-by-parity](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/3778-transform-array-by-parity) |
 ## Divide and Conquer
 |  |
@@ -415,6 +417,7 @@
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2337-remove-digit-from-number-to-maximize-result](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2337-remove-digit-from-number-to-maximize-result) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
+| [3334-apple-redistribution-into-boxes](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/3334-apple-redistribution-into-boxes) |
 ## Simulation
 |  |
 | ------- |
