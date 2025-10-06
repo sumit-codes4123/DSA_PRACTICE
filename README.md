@@ -298,6 +298,7 @@
 | [1970-sorting-the-sentence](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/1970-sorting-the-sentence) |
 | [2032-largest-odd-number-in-string](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2032-largest-odd-number-in-string) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2243-check-if-all-as-appears-before-all-bs](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2243-check-if-all-as-appears-before-all-bs) |
 | [2337-remove-digit-from-number-to-maximize-result](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2337-remove-digit-from-number-to-maximize-result) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2377-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2377-check-if-number-has-equal-digit-count-and-digit-value) |
