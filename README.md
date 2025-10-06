@@ -173,6 +173,7 @@
 | [2876-number-of-employees-who-met-the-target](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2876-number-of-employees-who-met-the-target) |
 | [3165-find-indices-with-index-and-value-difference-i](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/3165-find-indices-with-index-and-value-difference-i) |
 | [3221-find-the-peaks](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/3221-find-the-peaks) |
+| [3226-minimum-number-game](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/3226-minimum-number-game) |
 | [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3244-minimize-length-of-array-using-operations](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/3244-minimize-length-of-array-using-operations) |
@@ -391,6 +392,7 @@
 | [2283-sort-even-and-odd-indices-independently](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2283-sort-even-and-odd-indices-independently) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2887-sort-vowels-in-a-string](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2887-sort-vowels-in-a-string) |
+| [3226-minimum-number-game](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/3226-minimum-number-game) |
 | [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3321-type-of-triangle](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/3321-type-of-triangle) |
 | [3334-apple-redistribution-into-boxes](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/3334-apple-redistribution-into-boxes) |
@@ -445,6 +447,7 @@
 | [2298-count-integers-with-even-digit-sum](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2298-count-integers-with-even-digit-sum) |
 | [2386-min-max-game](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2386-min-max-game) |
 | [2639-separate-the-digits-in-an-array](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2639-separate-the-digits-in-an-array) |
+| [3226-minimum-number-game](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/3226-minimum-number-game) |
 | [3422-find-the-n-th-value-after-k-seconds](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/3422-find-the-n-th-value-after-k-seconds) |
 | [3447-clear-digits](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/3447-clear-digits) |
 | [3450-find-the-child-who-has-the-ball-after-k-seconds](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/3450-find-the-child-who-has-the-ball-after-k-seconds) |
@@ -561,4 +564,8 @@
 |  |
 | ------- |
 | [0812-rotate-string](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0812-rotate-string) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [3226-minimum-number-game](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/3226-minimum-number-game) |
 <!---LeetCode Topics End-->
