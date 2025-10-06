@@ -79,6 +79,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0035-search-insert-position) |
+| [0042-trapping-rain-water](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0054-spiral-matrix) |
@@ -223,6 +224,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0119-pascals-triangle-ii) |
@@ -246,6 +248,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0031-next-permutation) |
+| [0042-trapping-rain-water](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0141-linked-list-cycle) |
@@ -505,6 +508,7 @@
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0145-binary-tree-postorder-traversal) |
@@ -570,4 +574,8 @@
 |  |
 | ------- |
 | [3226-minimum-number-game](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/3226-minimum-number-game) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
