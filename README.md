@@ -178,6 +178,7 @@
 | [2844-sum-of-squares-of-special-elements](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2844-sum-of-squares-of-special-elements) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2876-number-of-employees-who-met-the-target) |
 | [3165-find-indices-with-index-and-value-difference-i](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/3165-find-indices-with-index-and-value-difference-i) |
+| [3193-maximum-strong-pair-xor-i](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/3193-maximum-strong-pair-xor-i) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/3206-find-common-elements-between-two-arrays) |
 | [3215-matrix-similarity-after-cyclic-shifts](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/3215-matrix-similarity-after-cyclic-shifts) |
 | [3220-count-tested-devices-after-test-operations](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/3220-count-tested-devices-after-test-operations) |
@@ -291,6 +292,7 @@
 | [0287-find-the-duplicate-number](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0287-find-the-duplicate-number) |
 | [0342-power-of-four](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0389-find-the-difference) |
+| [3193-maximum-strong-pair-xor-i](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/3193-maximum-strong-pair-xor-i) |
 ## String
 |  |
 | ------- |
@@ -377,6 +379,7 @@
 | [1960-check-if-the-sentence-is-pangram](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2377-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2377-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2486-most-frequent-even-element](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2486-most-frequent-even-element) |
+| [3193-maximum-strong-pair-xor-i](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/3193-maximum-strong-pair-xor-i) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/3206-find-common-elements-between-two-arrays) |
 | [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/3242-count-elements-with-maximum-frequency) |
@@ -506,6 +509,7 @@
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0219-contains-duplicate-ii) |
 | [0713-subarray-product-less-than-k](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0713-subarray-product-less-than-k) |
+| [3193-maximum-strong-pair-xor-i](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/3193-maximum-strong-pair-xor-i) |
 ## Binary Indexed Tree
 |  |
 | ------- |
@@ -575,6 +579,7 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0014-longest-common-prefix) |
+| [3193-maximum-strong-pair-xor-i](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/3193-maximum-strong-pair-xor-i) |
 ## Brainteaser
 |  |
 | ------- |
