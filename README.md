@@ -35,6 +35,7 @@
 | [2278-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2278-find-three-consecutive-integers-that-sum-to-a-given-number) |
 | [2298-count-integers-with-even-digit-sum](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2298-count-integers-with-even-digit-sum) |
 | [2383-add-two-integers](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2383-add-two-integers) |
+| [2481-strictly-palindromic-number](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2481-strictly-palindromic-number) |
 | [2608-count-the-digits-that-divide-a-number](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2608-count-the-digits-that-divide-a-number) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2630-alternating-digit-sum](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2630-alternating-digit-sum) |
@@ -272,6 +273,7 @@
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2320-find-all-k-distant-indices-in-an-array) |
+| [2481-strictly-palindromic-number](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2481-strictly-palindromic-number) |
 | [3165-find-indices-with-index-and-value-difference-i](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/3165-find-indices-with-index-and-value-difference-i) |
 ## Bit Manipulation
 |  |
@@ -566,6 +568,7 @@
 ## Brainteaser
 |  |
 | ------- |
+| [2481-strictly-palindromic-number](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2481-strictly-palindromic-number) |
 | [3462-vowels-game-in-a-string](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/3462-vowels-game-in-a-string) |
 ## Game Theory
 |  |
