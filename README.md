@@ -170,6 +170,7 @@
 | [2358-number-of-ways-to-split-array](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2358-number-of-ways-to-split-array) |
 | [2386-min-max-game](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2386-min-max-game) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2398-check-if-matrix-is-x-matrix](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2398-check-if-matrix-is-x-matrix) |
 | [2486-most-frequent-even-element](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2486-most-frequent-even-element) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
@@ -230,6 +231,7 @@
 | [1646-kth-missing-positive-number](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/1646-kth-missing-positive-number) |
 | [2047-find-a-peak-element-ii](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2047-find-a-peak-element-ii) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2210-find-target-indices-after-sorting-array) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Dynamic Programming
 |  |
@@ -281,6 +283,7 @@
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2320-find-all-k-distant-indices-in-an-array) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2481-strictly-palindromic-number](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2481-strictly-palindromic-number) |
 | [3165-find-indices-with-index-and-value-difference-i](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/3165-find-indices-with-index-and-value-difference-i) |
 | [3195-separate-black-and-white-balls](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/3195-separate-black-and-white-balls) |
@@ -414,6 +417,7 @@
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2283-sort-even-and-odd-indices-independently](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2283-sort-even-and-odd-indices-independently) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2887-sort-vowels-in-a-string](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2887-sort-vowels-in-a-string) |
 | [3226-minimum-number-game](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/3226-minimum-number-game) |
 | [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
