@@ -627,4 +627,8 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0042-trapping-rain-water) |
+## Graph
+|  |
+| ------- |
+| [1916-find-center-of-star-graph](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/1916-find-center-of-star-graph) |
 <!---LeetCode Topics End-->
