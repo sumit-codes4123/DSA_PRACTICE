@@ -56,6 +56,7 @@
 | [3553-check-if-two-chessboard-squares-have-the-same-color](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/3553-check-if-two-chessboard-squares-have-the-same-color) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
 | [3830-find-closest-person](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/3830-find-closest-person) |
+| [3859-maximum-product-of-two-digits](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/3859-maximum-product-of-two-digits) |
 | [3918-check-divisibility-by-digit-sum-and-product](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/3918-check-divisibility-by-digit-sum-and-product) |
 ## Recursion
 |  |
@@ -444,6 +445,7 @@
 | [3321-type-of-triangle](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/3321-type-of-triangle) |
 | [3334-apple-redistribution-into-boxes](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/3334-apple-redistribution-into-boxes) |
 | [3778-transform-array-by-parity](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/3778-transform-array-by-parity) |
+| [3859-maximum-product-of-two-digits](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/3859-maximum-product-of-two-digits) |
 ## Divide and Conquer
 |  |
 | ------- |
