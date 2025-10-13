@@ -182,6 +182,7 @@
 | [2713-find-the-divisibility-array-of-a-string](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2713-find-the-divisibility-array-of-a-string) |
 | [2844-sum-of-squares-of-special-elements](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2844-sum-of-squares-of-special-elements) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2876-number-of-employees-who-met-the-target) |
+| [3034-points-that-intersect-with-cars](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/3034-points-that-intersect-with-cars) |
 | [3081-minimum-array-length-after-pair-removals](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/3081-minimum-array-length-after-pair-removals) |
 | [3094-minimum-number-of-operations-to-make-array-empty](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/3094-minimum-number-of-operations-to-make-array-empty) |
 | [3104-happy-students](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/3104-happy-students) |
@@ -400,6 +401,7 @@
 | [1960-check-if-the-sentence-is-pangram](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2377-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2377-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2486-most-frequent-even-element](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2486-most-frequent-even-element) |
+| [3034-points-that-intersect-with-cars](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/3034-points-that-intersect-with-cars) |
 | [3081-minimum-array-length-after-pair-removals](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/3081-minimum-array-length-after-pair-removals) |
 | [3094-minimum-number-of-operations-to-make-array-empty](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/3094-minimum-number-of-operations-to-make-array-empty) |
 | [3193-maximum-strong-pair-xor-i](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/3193-maximum-strong-pair-xor-i) |
@@ -537,6 +539,7 @@
 | [1603-running-sum-of-1d-array](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/1603-running-sum-of-1d-array) |
 | [2102-find-the-middle-index-in-array](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2102-find-the-middle-index-in-array) |
 | [2358-number-of-ways-to-split-array](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2358-number-of-ways-to-split-array) |
+| [3034-points-that-intersect-with-cars](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/3034-points-that-intersect-with-cars) |
 | [3355-minimum-levels-to-gain-more-points](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/3355-minimum-levels-to-gain-more-points) |
 | [3422-find-the-n-th-value-after-k-seconds](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/3422-find-the-n-th-value-after-k-seconds) |
 ## Sliding Window
