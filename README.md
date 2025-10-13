@@ -42,6 +42,7 @@
 | [2630-alternating-digit-sum](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2630-alternating-digit-sum) |
 | [2713-find-the-divisibility-array-of-a-string](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2713-find-the-divisibility-array-of-a-string) |
 | [2752-sum-multiples](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2752-sum-multiples) |
+| [3046-minimum-operations-to-make-a-special-number](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/3046-minimum-operations-to-make-a-special-number) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3201-distribute-candies-among-children-ii](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/3201-distribute-candies-among-children-ii) |
 | [3215-matrix-similarity-after-cyclic-shifts](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/3215-matrix-similarity-after-cyclic-shifts) |
@@ -336,6 +337,7 @@
 | [2492-length-of-the-longest-alphabetical-continuous-substring](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2492-length-of-the-longest-alphabetical-continuous-substring) |
 | [2713-find-the-divisibility-array-of-a-string](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2713-find-the-divisibility-array-of-a-string) |
 | [2887-sort-vowels-in-a-string](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2887-sort-vowels-in-a-string) |
+| [3046-minimum-operations-to-make-a-special-number](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/3046-minimum-operations-to-make-a-special-number) |
 | [3195-separate-black-and-white-balls](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/3195-separate-black-and-white-balls) |
 | [3447-clear-digits](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/3447-clear-digits) |
 | [3462-vowels-game-in-a-string](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/3462-vowels-game-in-a-string) |
@@ -353,6 +355,7 @@
 | [0204-count-primes](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0204-count-primes) |
 | [2337-remove-digit-from-number-to-maximize-result](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2337-remove-digit-from-number-to-maximize-result) |
 | [2844-sum-of-squares-of-special-elements](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2844-sum-of-squares-of-special-elements) |
+| [3046-minimum-operations-to-make-a-special-number](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/3046-minimum-operations-to-make-a-special-number) |
 | [3104-happy-students](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/3104-happy-students) |
 | [3201-distribute-candies-among-children-ii](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/3201-distribute-candies-among-children-ii) |
 | [3221-find-the-peaks](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/3221-find-the-peaks) |
@@ -487,6 +490,7 @@
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2337-remove-digit-from-number-to-maximize-result](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2337-remove-digit-from-number-to-maximize-result) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
+| [3046-minimum-operations-to-make-a-special-number](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/3046-minimum-operations-to-make-a-special-number) |
 | [3081-minimum-array-length-after-pair-removals](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/3081-minimum-array-length-after-pair-removals) |
 | [3094-minimum-number-of-operations-to-make-array-empty](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/3094-minimum-number-of-operations-to-make-array-empty) |
 | [3151-minimum-processing-time](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/3151-minimum-processing-time) |
