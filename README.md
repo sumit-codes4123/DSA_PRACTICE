@@ -213,6 +213,7 @@
 | [3422-find-the-n-th-value-after-k-seconds](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/3422-find-the-n-th-value-after-k-seconds) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/3515-find-if-digit-game-can-be-won) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
+| [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 | [3778-transform-array-by-parity](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/3778-transform-array-by-parity) |
 ## Binary Search
 |  |
@@ -250,6 +251,7 @@
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3081-minimum-array-length-after-pair-removals](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/3081-minimum-array-length-after-pair-removals) |
+| [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
