@@ -184,6 +184,7 @@
 | [2639-separate-the-digits-in-an-array](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2639-separate-the-digits-in-an-array) |
 | [2713-find-the-divisibility-array-of-a-string](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2713-find-the-divisibility-array-of-a-string) |
 | [2844-sum-of-squares-of-special-elements](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2844-sum-of-squares-of-special-elements) |
+| [2872-largest-element-in-an-array-after-merge-operations](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2872-largest-element-in-an-array-after-merge-operations) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2876-number-of-employees-who-met-the-target) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3034-points-that-intersect-with-cars](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/3034-points-that-intersect-with-cars) |
@@ -500,6 +501,7 @@
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2337-remove-digit-from-number-to-maximize-result](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2337-remove-digit-from-number-to-maximize-result) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
+| [2872-largest-element-in-an-array-after-merge-operations](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2872-largest-element-in-an-array-after-merge-operations) |
 | [3046-minimum-operations-to-make-a-special-number](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/3046-minimum-operations-to-make-a-special-number) |
 | [3081-minimum-array-length-after-pair-removals](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/3081-minimum-array-length-after-pair-removals) |
 | [3094-minimum-number-of-operations-to-make-array-empty](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/3094-minimum-number-of-operations-to-make-array-empty) |
