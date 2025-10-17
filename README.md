@@ -186,6 +186,7 @@
 | [2713-find-the-divisibility-array-of-a-string](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2713-find-the-divisibility-array-of-a-string) |
 | [2834-relocate-marbles](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2834-relocate-marbles) |
 | [2844-sum-of-squares-of-special-elements](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2844-sum-of-squares-of-special-elements) |
+| [2845-find-the-value-of-the-partition](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2845-find-the-value-of-the-partition) |
 | [2872-largest-element-in-an-array-after-merge-operations](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2872-largest-element-in-an-array-after-merge-operations) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2876-number-of-employees-who-met-the-target) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
@@ -455,6 +456,7 @@
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2834-relocate-marbles](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2834-relocate-marbles) |
+| [2845-find-the-value-of-the-partition](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2845-find-the-value-of-the-partition) |
 | [2887-sort-vowels-in-a-string](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2887-sort-vowels-in-a-string) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3104-happy-students](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/3104-happy-students) |
