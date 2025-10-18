@@ -220,6 +220,7 @@
 | [3515-find-if-digit-game-can-be-won](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/3515-find-if-digit-game-can-be-won) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
+| [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3778-transform-array-by-parity](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/3778-transform-array-by-parity) |
 ## Binary Search
 |  |
@@ -465,6 +466,7 @@
 | [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3321-type-of-triangle](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/3321-type-of-triangle) |
 | [3334-apple-redistribution-into-boxes](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/3334-apple-redistribution-into-boxes) |
+| [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3778-transform-array-by-parity](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/3778-transform-array-by-parity) |
 | [3859-maximum-product-of-two-digits](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/3859-maximum-product-of-two-digits) |
 ## Divide and Conquer
@@ -516,6 +518,7 @@
 | [3195-separate-black-and-white-balls](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/3195-separate-black-and-white-balls) |
 | [3244-minimize-length-of-array-using-operations](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/3244-minimize-length-of-array-using-operations) |
 | [3334-apple-redistribution-into-boxes](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/3334-apple-redistribution-into-boxes) |
+| [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 ## Simulation
 |  |
 | ------- |
