@@ -42,6 +42,7 @@
 | [2630-alternating-digit-sum](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2630-alternating-digit-sum) |
 | [2713-find-the-divisibility-array-of-a-string](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2713-find-the-divisibility-array-of-a-string) |
 | [2752-sum-multiples](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2752-sum-multiples) |
+| [2802-find-the-punishment-number-of-an-integer](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2802-find-the-punishment-number-of-an-integer) |
 | [2812-find-the-maximum-achievable-number](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2812-find-the-maximum-achievable-number) |
 | [2824-check-if-the-number-is-fascinating](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2824-check-if-the-number-is-fascinating) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
@@ -689,4 +690,5 @@
 |  |
 | ------- |
 | [2754-maximum-strength-of-a-group](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2754-maximum-strength-of-a-group) |
+| [2802-find-the-punishment-number-of-an-integer](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2802-find-the-punishment-number-of-an-integer) |
 <!---LeetCode Topics End-->
