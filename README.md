@@ -190,6 +190,7 @@
 | [2728-sum-in-a-matrix](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2728-sum-in-a-matrix) |
 | [2754-maximum-strength-of-a-group](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2754-maximum-strength-of-a-group) |
 | [2756-buy-two-chocolates](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2756-buy-two-chocolates) |
+| [2767-maximum-sum-with-exactly-k-elements](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2767-maximum-sum-with-exactly-k-elements) |
 | [2834-relocate-marbles](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2834-relocate-marbles) |
 | [2844-sum-of-squares-of-special-elements](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2844-sum-of-squares-of-special-elements) |
 | [2845-find-the-value-of-the-partition](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2845-find-the-value-of-the-partition) |
@@ -526,6 +527,7 @@
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2754-maximum-strength-of-a-group](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2754-maximum-strength-of-a-group) |
 | [2756-buy-two-chocolates](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2756-buy-two-chocolates) |
+| [2767-maximum-sum-with-exactly-k-elements](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2767-maximum-sum-with-exactly-k-elements) |
 | [2872-largest-element-in-an-array-after-merge-operations](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2872-largest-element-in-an-array-after-merge-operations) |
 | [3046-minimum-operations-to-make-a-special-number](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/3046-minimum-operations-to-make-a-special-number) |
 | [3081-minimum-array-length-after-pair-removals](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/3081-minimum-array-length-after-pair-removals) |
