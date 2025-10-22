@@ -41,6 +41,7 @@
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2630-alternating-digit-sum](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2630-alternating-digit-sum) |
 | [2713-find-the-divisibility-array-of-a-string](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2713-find-the-divisibility-array-of-a-string) |
+| [2722-prime-in-diagonal](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2722-prime-in-diagonal) |
 | [2752-sum-multiples](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2752-sum-multiples) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2802-find-the-punishment-number-of-an-integer) |
@@ -190,6 +191,7 @@
 | [2684-determine-the-winner-of-a-bowling-game](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2684-determine-the-winner-of-a-bowling-game) |
 | [2694-find-the-maximum-divisibility-score](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2694-find-the-maximum-divisibility-score) |
 | [2713-find-the-divisibility-array-of-a-string](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2713-find-the-divisibility-array-of-a-string) |
+| [2722-prime-in-diagonal](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2722-prime-in-diagonal) |
 | [2728-sum-in-a-matrix](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2728-sum-in-a-matrix) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [2754-maximum-strength-of-a-group](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2754-maximum-strength-of-a-group) |
@@ -406,6 +408,7 @@
 | [2015-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2015-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2047-find-a-peak-element-ii](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2047-find-a-peak-element-ii) |
 | [2398-check-if-matrix-is-x-matrix](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2398-check-if-matrix-is-x-matrix) |
+| [2722-prime-in-diagonal](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2722-prime-in-diagonal) |
 | [2728-sum-in-a-matrix](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2728-sum-in-a-matrix) |
 | [3215-matrix-similarity-after-cyclic-shifts](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/3215-matrix-similarity-after-cyclic-shifts) |
 | [3330-modify-the-matrix](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/3330-modify-the-matrix) |
@@ -665,6 +668,7 @@
 | ------- |
 | [0204-count-primes](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0258-add-digits) |
+| [2722-prime-in-diagonal](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2722-prime-in-diagonal) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [3244-minimize-length-of-array-using-operations](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/3244-minimize-length-of-array-using-operations) |
