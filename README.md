@@ -187,6 +187,7 @@
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2639-separate-the-digits-in-an-array](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2639-separate-the-digits-in-an-array) |
+| [2664-maximize-greatness-of-an-array](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2664-maximize-greatness-of-an-array) |
 | [2676-find-the-score-of-all-prefixes-of-an-array](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2676-find-the-score-of-all-prefixes-of-an-array) |
 | [2684-determine-the-winner-of-a-bowling-game](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2684-determine-the-winner-of-a-bowling-game) |
 | [2694-find-the-maximum-divisibility-score](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2694-find-the-maximum-divisibility-score) |
@@ -327,6 +328,7 @@
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2481-strictly-palindromic-number](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2481-strictly-palindromic-number) |
+| [2664-maximize-greatness-of-an-array](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2664-maximize-greatness-of-an-array) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3081-minimum-array-length-after-pair-removals](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/3081-minimum-array-length-after-pair-removals) |
 | [3165-find-indices-with-index-and-value-difference-i](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/3165-find-indices-with-index-and-value-difference-i) |
@@ -478,6 +480,7 @@
 | [2283-sort-even-and-odd-indices-independently](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2283-sort-even-and-odd-indices-independently) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2392-successful-pairs-of-spells-and-potions) |
+| [2664-maximize-greatness-of-an-array](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2664-maximize-greatness-of-an-array) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2728-sum-in-a-matrix](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2728-sum-in-a-matrix) |
 | [2754-maximum-strength-of-a-group](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2754-maximum-strength-of-a-group) |
@@ -535,6 +538,7 @@
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2337-remove-digit-from-number-to-maximize-result](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2337-remove-digit-from-number-to-maximize-result) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
+| [2664-maximize-greatness-of-an-array](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2664-maximize-greatness-of-an-array) |
 | [2754-maximum-strength-of-a-group](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2754-maximum-strength-of-a-group) |
 | [2756-buy-two-chocolates](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2756-buy-two-chocolates) |
 | [2767-maximum-sum-with-exactly-k-elements](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2767-maximum-sum-with-exactly-k-elements) |
