@@ -116,6 +116,7 @@
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0162-find-peak-element) |
 | [0164-maximum-gap](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0164-maximum-gap) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0198-house-robber) |
@@ -254,6 +255,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0162-find-peak-element) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0240-search-a-2d-matrix-ii](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0287-find-the-duplicate-number) |
@@ -314,6 +316,7 @@
 | [0141-linked-list-cycle](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0148-sort-list) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0234-palindrome-linked-list) |
