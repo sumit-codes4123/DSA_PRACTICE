@@ -31,6 +31,7 @@
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1642-water-bottles](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/1642-water-bottles) |
+| [1817-calculate-money-in-leetcode-bank](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [2032-largest-odd-number-in-string](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2032-largest-odd-number-in-string) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
