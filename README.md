@@ -201,6 +201,7 @@
 | [2664-maximize-greatness-of-an-array](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2664-maximize-greatness-of-an-array) |
 | [2676-find-the-score-of-all-prefixes-of-an-array](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2676-find-the-score-of-all-prefixes-of-an-array) |
 | [2684-determine-the-winner-of-a-bowling-game](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2684-determine-the-winner-of-a-bowling-game) |
+| [2690-house-robber-iv](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2690-house-robber-iv) |
 | [2694-find-the-maximum-divisibility-score](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2694-find-the-maximum-divisibility-score) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2699-count-the-number-of-fair-pairs) |
@@ -285,6 +286,7 @@
 | [2210-find-target-indices-after-sorting-array](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [2690-house-robber-iv](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2690-house-robber-iv) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2712-find-the-maximum-number-of-marked-indices](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2712-find-the-maximum-number-of-marked-indices) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
@@ -305,6 +307,7 @@
 | [0435-non-overlapping-intervals](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0435-non-overlapping-intervals) |
 | [0909-stone-game](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0909-stone-game) |
 | [1013-fibonacci-number](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/1013-fibonacci-number) |
+| [2690-house-robber-iv](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2690-house-robber-iv) |
 | [2754-maximum-strength-of-a-group](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2754-maximum-strength-of-a-group) |
 ## Memoization
 |  |
@@ -572,6 +575,7 @@
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2655-rearrange-array-to-maximize-prefix-score](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2655-rearrange-array-to-maximize-prefix-score) |
 | [2664-maximize-greatness-of-an-array](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2664-maximize-greatness-of-an-array) |
+| [2690-house-robber-iv](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2690-house-robber-iv) |
 | [2712-find-the-maximum-number-of-marked-indices](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2712-find-the-maximum-number-of-marked-indices) |
 | [2754-maximum-strength-of-a-group](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2754-maximum-strength-of-a-group) |
 | [2756-buy-two-chocolates](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2756-buy-two-chocolates) |
