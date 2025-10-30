@@ -202,6 +202,7 @@
 | [2676-find-the-score-of-all-prefixes-of-an-array](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2676-find-the-score-of-all-prefixes-of-an-array) |
 | [2684-determine-the-winner-of-a-bowling-game](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2684-determine-the-winner-of-a-bowling-game) |
 | [2690-house-robber-iv](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2690-house-robber-iv) |
+| [2691-count-vowel-strings-in-ranges](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2694-find-the-maximum-divisibility-score](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2694-find-the-maximum-divisibility-score) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2699-count-the-number-of-fair-pairs) |
@@ -392,6 +393,7 @@
 | [2377-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2377-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2492-length-of-the-longest-alphabetical-continuous-substring](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2492-length-of-the-longest-alphabetical-continuous-substring) |
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
+| [2691-count-vowel-strings-in-ranges](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2713-find-the-divisibility-array-of-a-string](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2713-find-the-divisibility-array-of-a-string) |
 | [2819-remove-trailing-zeros-from-a-string](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2819-remove-trailing-zeros-from-a-string) |
 | [2887-sort-vowels-in-a-string](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2887-sort-vowels-in-a-string) |
@@ -642,6 +644,7 @@
 | [2358-number-of-ways-to-split-array](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2358-number-of-ways-to-split-array) |
 | [2655-rearrange-array-to-maximize-prefix-score](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2655-rearrange-array-to-maximize-prefix-score) |
 | [2676-find-the-score-of-all-prefixes-of-an-array](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2676-find-the-score-of-all-prefixes-of-an-array) |
+| [2691-count-vowel-strings-in-ranges](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3034-points-that-intersect-with-cars](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/3034-points-that-intersect-with-cars) |
 | [3355-minimum-levels-to-gain-more-points](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/3355-minimum-levels-to-gain-more-points) |
 | [3422-find-the-n-th-value-after-k-seconds](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/3422-find-the-n-th-value-after-k-seconds) |
