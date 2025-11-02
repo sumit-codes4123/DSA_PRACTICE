@@ -100,6 +100,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0035-search-insert-position) |
+| [0039-combination-sum](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0039-combination-sum) |
 | [0042-trapping-rain-water](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0053-maximum-subarray) |
@@ -782,6 +783,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0039-combination-sum](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0039-combination-sum) |
 | [0078-subsets](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0078-subsets) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2754-maximum-strength-of-a-group](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2754-maximum-strength-of-a-group) |
