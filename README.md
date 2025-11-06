@@ -202,6 +202,7 @@
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2398-check-if-matrix-is-x-matrix](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2398-check-if-matrix-is-x-matrix) |
 | [2486-most-frequent-even-element](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2486-most-frequent-even-element) |
+| [2581-divide-players-into-teams-of-equal-skill](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2639-separate-the-digits-in-an-array](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2639-separate-the-digits-in-an-array) |
@@ -364,6 +365,7 @@
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2481-strictly-palindromic-number](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2481-strictly-palindromic-number) |
+| [2581-divide-players-into-teams-of-equal-skill](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2664-maximize-greatness-of-an-array](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2664-maximize-greatness-of-an-array) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2712-find-the-maximum-number-of-marked-indices](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2712-find-the-maximum-number-of-marked-indices) |
@@ -491,6 +493,7 @@
 | [2174-next-greater-numerically-balanced-number](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2377-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2377-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2486-most-frequent-even-element](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2486-most-frequent-even-element) |
+| [2581-divide-players-into-teams-of-equal-skill](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2824-check-if-the-number-is-fascinating](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2824-check-if-the-number-is-fascinating) |
 | [2834-relocate-marbles](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2834-relocate-marbles) |
@@ -535,6 +538,7 @@
 | [2283-sort-even-and-odd-indices-independently](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2283-sort-even-and-odd-indices-independently) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2392-successful-pairs-of-spells-and-potions) |
+| [2581-divide-players-into-teams-of-equal-skill](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2655-rearrange-array-to-maximize-prefix-score](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2655-rearrange-array-to-maximize-prefix-score) |
 | [2664-maximize-greatness-of-an-array](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2664-maximize-greatness-of-an-array) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
