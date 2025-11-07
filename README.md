@@ -316,6 +316,7 @@
 | [0119-pascals-triangle-ii](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0119-pascals-triangle-ii) |
 | [0120-triangle](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0131-palindrome-partitioning](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0131-palindrome-partitioning) |
 | [0152-maximum-product-subarray](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0198-house-robber) |
 | [0410-split-array-largest-sum](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0410-split-array-largest-sum) |
@@ -395,6 +396,7 @@
 | [0013-roman-to-integer](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0014-longest-common-prefix) |
 | [0022-generate-parentheses](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0022-generate-parentheses) |
+| [0131-palindrome-partitioning](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0131-palindrome-partitioning) |
 | [0344-reverse-string](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0344-reverse-string) |
 | [0389-find-the-difference](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0409-longest-palindrome) |
@@ -807,6 +809,7 @@
 | [0022-generate-parentheses](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0039-combination-sum) |
 | [0078-subsets](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0078-subsets) |
+| [0131-palindrome-partitioning](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0131-palindrome-partitioning) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2754-maximum-strength-of-a-group](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2754-maximum-strength-of-a-group) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2802-find-the-punishment-number-of-an-integer) |
