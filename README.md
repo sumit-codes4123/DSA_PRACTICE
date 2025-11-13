@@ -44,6 +44,7 @@
 | [2298-count-integers-with-even-digit-sum](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2298-count-integers-with-even-digit-sum) |
 | [2383-add-two-integers](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2383-add-two-integers) |
 | [2481-strictly-palindromic-number](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2481-strictly-palindromic-number) |
+| [2541-sum-of-number-and-its-reverse](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2541-sum-of-number-and-its-reverse) |
 | [2608-count-the-digits-that-divide-a-number](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2608-count-the-digits-that-divide-a-number) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2630-alternating-digit-sum](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2630-alternating-digit-sum) |
@@ -447,6 +448,7 @@
 | [0204-count-primes](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0204-count-primes) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2337-remove-digit-from-number-to-maximize-result](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2337-remove-digit-from-number-to-maximize-result) |
+| [2541-sum-of-number-and-its-reverse](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2541-sum-of-number-and-its-reverse) |
 | [2754-maximum-strength-of-a-group](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2754-maximum-strength-of-a-group) |
 | [2844-sum-of-squares-of-special-elements](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2844-sum-of-squares-of-special-elements) |
 | [3046-minimum-operations-to-make-a-special-number](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/3046-minimum-operations-to-make-a-special-number) |
