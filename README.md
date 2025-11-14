@@ -93,6 +93,7 @@
 | [0342-power-of-four](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0342-power-of-four) |
 | [1013-fibonacci-number](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/1013-fibonacci-number) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2573-remove-nodes-from-linked-list](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2573-remove-nodes-from-linked-list) |
 ## Array
 |  |
 | ------- |
@@ -740,6 +741,7 @@
 | [0155-min-stack](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0234-palindrome-linked-list) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
+| [2573-remove-nodes-from-linked-list](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2573-remove-nodes-from-linked-list) |
 | [3447-clear-digits](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/3447-clear-digits) |
 ## Tree
 |  |
@@ -778,6 +780,7 @@
 | [0908-middle-of-the-linked-list](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0908-middle-of-the-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
+| [2573-remove-nodes-from-linked-list](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2573-remove-nodes-from-linked-list) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Number Theory
@@ -821,6 +824,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0042-trapping-rain-water) |
+| [2573-remove-nodes-from-linked-list](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2573-remove-nodes-from-linked-list) |
 ## Graph
 |  |
 | ------- |
