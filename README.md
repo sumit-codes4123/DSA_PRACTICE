@@ -204,6 +204,7 @@
 | [2210-find-target-indices-after-sorting-array](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2212-removing-minimum-and-maximum-from-array](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2212-removing-minimum-and-maximum-from-array) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2219-maximum-number-of-words-found-in-sentences) |
+| [2227-sum-of-subarray-ranges](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2227-sum-of-subarray-ranges) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2269-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2269-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -749,6 +750,7 @@
 | [0503-next-greater-element-ii](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0735-asteroid-collision) |
 | [0943-sum-of-subarray-minimums](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0943-sum-of-subarray-minimums) |
+| [2227-sum-of-subarray-ranges](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2227-sum-of-subarray-ranges) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2573-remove-nodes-from-linked-list](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2573-remove-nodes-from-linked-list) |
 | [3447-clear-digits](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/3447-clear-digits) |
@@ -835,6 +837,7 @@
 | [0042-trapping-rain-water](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0042-trapping-rain-water) |
 | [0503-next-greater-element-ii](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0503-next-greater-element-ii) |
 | [0943-sum-of-subarray-minimums](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0943-sum-of-subarray-minimums) |
+| [2227-sum-of-subarray-ranges](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2227-sum-of-subarray-ranges) |
 | [2573-remove-nodes-from-linked-list](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2573-remove-nodes-from-linked-list) |
 ## Graph
 |  |
