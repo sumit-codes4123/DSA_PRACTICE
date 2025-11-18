@@ -752,6 +752,7 @@
 | [0402-remove-k-digits](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0402-remove-k-digits) |
 | [0503-next-greater-element-ii](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0735-asteroid-collision) |
+| [0937-online-stock-span](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0937-online-stock-span) |
 | [0943-sum-of-subarray-minimums](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0943-sum-of-subarray-minimums) |
 | [2227-sum-of-subarray-ranges](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2227-sum-of-subarray-ranges) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
@@ -840,6 +841,7 @@
 | [0042-trapping-rain-water](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0042-trapping-rain-water) |
 | [0402-remove-k-digits](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0402-remove-k-digits) |
 | [0503-next-greater-element-ii](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0503-next-greater-element-ii) |
+| [0937-online-stock-span](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0937-online-stock-span) |
 | [0943-sum-of-subarray-minimums](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0943-sum-of-subarray-minimums) |
 | [2227-sum-of-subarray-ranges](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2227-sum-of-subarray-ranges) |
 | [2573-remove-nodes-from-linked-list](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2573-remove-nodes-from-linked-list) |
@@ -869,4 +871,9 @@
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0155-min-stack) |
+| [0937-online-stock-span](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0937-online-stock-span) |
+## Data Stream
+|  |
+| ------- |
+| [0937-online-stock-span](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0937-online-stock-span) |
 <!---LeetCode Topics End-->
