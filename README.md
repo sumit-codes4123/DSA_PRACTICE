@@ -162,6 +162,7 @@
 | [0713-subarray-product-less-than-k](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0735-asteroid-collision) |
+| [0739-daily-temperatures](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0739-daily-temperatures) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0777-toeplitz-matrix](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0777-toeplitz-matrix) |
 | [0792-binary-search](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0792-binary-search) |
@@ -758,6 +759,7 @@
 | [0402-remove-k-digits](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0402-remove-k-digits) |
 | [0503-next-greater-element-ii](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0735-asteroid-collision) |
+| [0739-daily-temperatures](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0739-daily-temperatures) |
 | [0937-online-stock-span](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0937-online-stock-span) |
 | [0943-sum-of-subarray-minimums](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0943-sum-of-subarray-minimums) |
 | [2227-sum-of-subarray-ranges](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2227-sum-of-subarray-ranges) |
@@ -848,6 +850,7 @@
 | [0042-trapping-rain-water](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0042-trapping-rain-water) |
 | [0402-remove-k-digits](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0402-remove-k-digits) |
 | [0503-next-greater-element-ii](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0503-next-greater-element-ii) |
+| [0739-daily-temperatures](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0739-daily-temperatures) |
 | [0937-online-stock-span](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0937-online-stock-span) |
 | [0943-sum-of-subarray-minimums](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0943-sum-of-subarray-minimums) |
 | [2227-sum-of-subarray-ranges](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2227-sum-of-subarray-ranges) |
