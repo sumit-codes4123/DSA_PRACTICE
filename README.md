@@ -213,6 +213,7 @@
 | [2283-sort-even-and-odd-indices-independently](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2283-sort-even-and-odd-indices-independently) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2320-find-all-k-distant-indices-in-an-array) |
+| [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2358-number-of-ways-to-split-array](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2358-number-of-ways-to-split-array) |
 | [2362-minimum-rounds-to-complete-all-tasks](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2362-minimum-rounds-to-complete-all-tasks) |
 | [2386-min-max-game](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2386-min-max-game) |
@@ -406,6 +407,7 @@
 | [0287-find-the-duplicate-number](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0287-find-the-duplicate-number) |
 | [0342-power-of-four](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0389-find-the-difference) |
+| [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2754-maximum-strength-of-a-group](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2754-maximum-strength-of-a-group) |
 | [3193-maximum-strong-pair-xor-i](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/3193-maximum-strong-pair-xor-i) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/3676-smallest-number-with-all-set-bits) |
@@ -519,6 +521,7 @@
 | [1960-check-if-the-sentence-is-pangram](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2274-keep-multiplying-found-values-by-two) |
+| [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2362-minimum-rounds-to-complete-all-tasks](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2362-minimum-rounds-to-complete-all-tasks) |
 | [2377-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2377-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2486-most-frequent-even-element](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2486-most-frequent-even-element) |
@@ -610,6 +613,7 @@
 | [1510-find-lucky-integer-in-an-array](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/1510-find-lucky-integer-in-an-array) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2269-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2269-count-elements-with-strictly-smaller-and-greater-elements) |
+| [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2362-minimum-rounds-to-complete-all-tasks](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2362-minimum-rounds-to-complete-all-tasks) |
 | [2377-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2377-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2486-most-frequent-even-element](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2486-most-frequent-even-element) |
