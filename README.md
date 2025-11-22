@@ -143,6 +143,7 @@
 | [0219-contains-duplicate-ii](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0238-product-of-array-except-self) |
+| [0239-sliding-window-maximum](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0239-sliding-window-maximum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0283-move-zeroes) |
@@ -731,6 +732,7 @@
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0219-contains-duplicate-ii) |
+| [0239-sliding-window-maximum](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0239-sliding-window-maximum) |
 | [0713-subarray-product-less-than-k](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0713-subarray-product-less-than-k) |
 | [3193-maximum-strong-pair-xor-i](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/3193-maximum-strong-pair-xor-i) |
 ## Binary Indexed Tree
@@ -843,6 +845,7 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0347-top-k-frequent-elements) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
@@ -880,6 +883,7 @@
 ## Queue
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0239-sliding-window-maximum) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Design
 |  |
@@ -890,4 +894,8 @@
 |  |
 | ------- |
 | [0937-online-stock-span](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0937-online-stock-span) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
