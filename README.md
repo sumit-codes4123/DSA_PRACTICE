@@ -208,6 +208,7 @@
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2227-sum-of-subarray-ranges](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2227-sum-of-subarray-ranges) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2244-number-of-laser-beams-in-a-bank) |
+| [2260-minimum-consecutive-cards-to-pick-up](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2260-minimum-consecutive-cards-to-pick-up) |
 | [2269-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2269-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2274-keep-multiplying-found-values-by-two) |
@@ -521,6 +522,7 @@
 | [1510-find-lucky-integer-in-an-array](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2174-next-greater-numerically-balanced-number) |
+| [2260-minimum-consecutive-cards-to-pick-up](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2260-minimum-consecutive-cards-to-pick-up) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2362-minimum-rounds-to-complete-all-tasks](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2362-minimum-rounds-to-complete-all-tasks) |
@@ -734,6 +736,7 @@
 | [0219-contains-duplicate-ii](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0219-contains-duplicate-ii) |
 | [0239-sliding-window-maximum](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0239-sliding-window-maximum) |
 | [0713-subarray-product-less-than-k](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0713-subarray-product-less-than-k) |
+| [2260-minimum-consecutive-cards-to-pick-up](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2260-minimum-consecutive-cards-to-pick-up) |
 | [3193-maximum-strong-pair-xor-i](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/3193-maximum-strong-pair-xor-i) |
 ## Binary Indexed Tree
 |  |
