@@ -86,6 +86,7 @@
 | [0024-swap-nodes-in-pairs](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0025-reverse-nodes-in-k-group) |
 | [0050-powx-n](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0050-powx-n) |
+| [0143-reorder-list](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0143-reorder-list) |
 | [0203-remove-linked-list-elements](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0231-power-of-two) |
@@ -372,6 +373,7 @@
 | [0088-merge-sorted-array](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0142-linked-list-cycle-ii) |
+| [0143-reorder-list](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0148-sort-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0189-rotate-array) |
@@ -768,6 +770,7 @@
 | [0084-largest-rectangle-in-histogram](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0085-maximal-rectangle) |
 | [0094-binary-tree-inorder-traversal](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0094-binary-tree-inorder-traversal) |
+| [0143-reorder-list](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0143-reorder-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0145-binary-tree-postorder-traversal) |
 | [0155-min-stack](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0155-min-stack) |
@@ -812,6 +815,7 @@
 | [0083-remove-duplicates-from-sorted-list](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0142-linked-list-cycle-ii) |
+| [0143-reorder-list](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0148-sort-list) |
 | [0203-remove-linked-list-elements](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0206-reverse-linked-list) |
