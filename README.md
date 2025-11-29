@@ -327,6 +327,7 @@
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1646-kth-missing-positive-number](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/1646-kth-missing-positive-number) |
+| [2024-maximize-the-confusion-of-an-exam](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2047-find-a-peak-element-ii](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2047-find-a-peak-element-ii) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2392-successful-pairs-of-spells-and-potions) |
@@ -447,6 +448,7 @@
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [1970-sorting-the-sentence](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/1970-sorting-the-sentence) |
+| [2024-maximize-the-confusion-of-an-exam](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2032-largest-odd-number-in-string](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2032-largest-odd-number-in-string) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2219-maximum-number-of-words-found-in-sentences) |
@@ -740,6 +742,7 @@
 | [1016-subarray-sums-divisible-by-k](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1603-running-sum-of-1d-array](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/1603-running-sum-of-1d-array) |
+| [2024-maximize-the-confusion-of-an-exam](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2102-find-the-middle-index-in-array](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2102-find-the-middle-index-in-array) |
 | [2358-number-of-ways-to-split-array](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2358-number-of-ways-to-split-array) |
 | [2655-rearrange-array-to-maximize-prefix-score](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2655-rearrange-array-to-maximize-prefix-score) |
@@ -758,6 +761,7 @@
 | [1004-max-consecutive-ones-iii](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+| [2024-maximize-the-confusion-of-an-exam](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2260-minimum-consecutive-cards-to-pick-up](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2260-minimum-consecutive-cards-to-pick-up) |
 | [3193-maximum-strong-pair-xor-i](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/3193-maximum-strong-pair-xor-i) |
 ## Binary Indexed Tree
