@@ -230,6 +230,7 @@
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2398-check-if-matrix-is-x-matrix](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2398-check-if-matrix-is-x-matrix) |
+| [2401-longest-nice-subarray](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2401-longest-nice-subarray) |
 | [2486-most-frequent-even-element](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2486-most-frequent-even-element) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2581-divide-players-into-teams-of-equal-skill) |
@@ -424,6 +425,7 @@
 | [0342-power-of-four](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0389-find-the-difference) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
+| [2401-longest-nice-subarray](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2401-longest-nice-subarray) |
 | [2754-maximum-strength-of-a-group](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2754-maximum-strength-of-a-group) |
 | [3193-maximum-strong-pair-xor-i](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/3193-maximum-strong-pair-xor-i) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/3676-smallest-number-with-all-set-bits) |
@@ -763,6 +765,7 @@
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2260-minimum-consecutive-cards-to-pick-up](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2260-minimum-consecutive-cards-to-pick-up) |
+| [2401-longest-nice-subarray](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2401-longest-nice-subarray) |
 | [3193-maximum-strong-pair-xor-i](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/3193-maximum-strong-pair-xor-i) |
 ## Binary Indexed Tree
 |  |
