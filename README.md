@@ -175,6 +175,7 @@
 | [0882-peak-index-in-a-mountain-array](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0890-lemonade-change](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0890-lemonade-change) |
 | [0898-transpose-matrix](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0898-transpose-matrix) |
+| [0904-fruit-into-baskets](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0904-fruit-into-baskets) |
 | [0907-koko-eating-bananas](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0907-koko-eating-bananas) |
 | [0909-stone-game](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0909-stone-game) |
 | [0932-monotonic-array](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0932-monotonic-array) |
@@ -537,6 +538,7 @@
 | [0409-longest-palindrome](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0409-longest-palindrome) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0560-subarray-sum-equals-k) |
+| [0904-fruit-into-baskets](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0904-fruit-into-baskets) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/1510-find-lucky-integer-in-an-array) |
@@ -760,6 +762,7 @@
 | [0219-contains-duplicate-ii](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0219-contains-duplicate-ii) |
 | [0239-sliding-window-maximum](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0239-sliding-window-maximum) |
 | [0713-subarray-product-less-than-k](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0713-subarray-product-less-than-k) |
+| [0904-fruit-into-baskets](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
