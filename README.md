@@ -76,6 +76,7 @@
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/3515-find-if-digit-game-can-be-won) |
 | [3553-check-if-two-chessboard-squares-have-the-same-color](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/3553-check-if-two-chessboard-squares-have-the-same-color) |
+| [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3830-find-closest-person](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/3830-find-closest-person) |
@@ -294,6 +295,7 @@
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/3515-find-if-digit-game-can-be-won) |
+| [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
@@ -483,6 +485,7 @@
 | ------- |
 | [3201-distribute-candies-among-children-ii](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/3201-distribute-candies-among-children-ii) |
 | [3422-find-the-n-th-value-after-k-seconds](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/3422-find-the-n-th-value-after-k-seconds) |
+| [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 ## Enumeration
 |  |
 | ------- |
@@ -880,6 +883,7 @@
 | ------- |
 | [2481-strictly-palindromic-number](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2481-strictly-palindromic-number) |
 | [3462-vowels-game-in-a-string](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/3462-vowels-game-in-a-string) |
+| [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 ## Game Theory
 |  |
 | ------- |
