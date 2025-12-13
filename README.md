@@ -67,6 +67,7 @@
 | [3201-distribute-candies-among-children-ii](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/3201-distribute-candies-among-children-ii) |
 | [3215-matrix-similarity-after-cyclic-shifts](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/3215-matrix-similarity-after-cyclic-shifts) |
 | [3244-minimize-length-of-array-using-operations](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/3244-minimize-length-of-array-using-operations) |
+| [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/3279-alice-and-bob-playing-flower-game) |
 | [3321-type-of-triangle](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/3321-type-of-triangle) |
 | [3371-harshad-number](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/3371-harshad-number) |
@@ -287,6 +288,7 @@
 | [3242-count-elements-with-maximum-frequency](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3244-minimize-length-of-array-using-operations](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/3244-minimize-length-of-array-using-operations) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
+| [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3321-type-of-triangle](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/3321-type-of-triangle) |
 | [3330-modify-the-matrix](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/3330-modify-the-matrix) |
 | [3331-minimum-operations-to-exceed-threshold-value-i](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/3331-minimum-operations-to-exceed-threshold-value-i) |
@@ -726,6 +728,7 @@
 | [3215-matrix-similarity-after-cyclic-shifts](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/3215-matrix-similarity-after-cyclic-shifts) |
 | [3220-count-tested-devices-after-test-operations](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/3220-count-tested-devices-after-test-operations) |
 | [3226-minimum-number-game](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/3226-minimum-number-game) |
+| [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3422-find-the-n-th-value-after-k-seconds](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/3422-find-the-n-th-value-after-k-seconds) |
 | [3447-clear-digits](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/3447-clear-digits) |
 | [3450-find-the-child-who-has-the-ball-after-k-seconds](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/3450-find-the-child-who-has-the-ball-after-k-seconds) |
@@ -904,6 +907,7 @@
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2728-sum-in-a-matrix](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2728-sum-in-a-matrix) |
 | [3226-minimum-number-game](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/3226-minimum-number-game) |
+| [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 ## Monotonic Stack
 |  |
 | ------- |
