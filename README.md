@@ -39,6 +39,7 @@
 | [1925-count-square-sum-triples](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/1925-count-square-sum-triples) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2032-largest-odd-number-in-string](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2032-largest-odd-number-in-string) |
+| [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2238-a-number-after-a-double-reversal](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2238-a-number-after-a-double-reversal) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2244-number-of-laser-beams-in-a-bank) |
@@ -214,6 +215,7 @@
 | [2015-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2015-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2047-find-a-peak-element-ii](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2047-find-a-peak-element-ii) |
 | [2102-find-the-middle-index-in-array](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2102-find-the-middle-index-in-array) |
+| [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2181-smallest-index-with-equal-value](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2181-smallest-index-with-equal-value) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2210-find-target-indices-after-sorting-array) |
@@ -367,6 +369,7 @@
 | [1013-fibonacci-number](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/1013-fibonacci-number) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2690-house-robber-iv](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2690-house-robber-iv) |
 | [2754-maximum-strength-of-a-group](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2754-maximum-strength-of-a-group) |
 ## Memoization
