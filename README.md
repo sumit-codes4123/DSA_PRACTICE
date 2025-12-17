@@ -449,6 +449,7 @@
 | [0020-valid-parentheses](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0022-generate-parentheses) |
 | [0131-palindrome-partitioning](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0131-palindrome-partitioning) |
+| [0242-valid-anagram](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0344-reverse-string) |
 | [0389-find-the-difference](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0389-find-the-difference) |
 | [0402-remove-k-digits](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0402-remove-k-digits) |
@@ -544,6 +545,7 @@
 | [0217-contains-duplicate](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0349-intersection-of-two-arrays) |
@@ -592,6 +594,7 @@
 | [0169-majority-element](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0349-intersection-of-two-arrays) |
