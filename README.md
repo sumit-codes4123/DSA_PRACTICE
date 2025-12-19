@@ -449,6 +449,7 @@
 | [0014-longest-common-prefix](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0022-generate-parentheses) |
+| [0076-minimum-window-substring](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0076-minimum-window-substring) |
 | [0131-palindrome-partitioning](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0131-palindrome-partitioning) |
 | [0242-valid-anagram](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0344-reverse-string) |
@@ -538,6 +539,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0013-roman-to-integer) |
+| [0076-minimum-window-substring](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0076-minimum-window-substring) |
 | [0128-longest-consecutive-sequence](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0142-linked-list-cycle-ii) |
@@ -781,6 +783,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0076-minimum-window-substring](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0076-minimum-window-substring) |
 | [0219-contains-duplicate-ii](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0219-contains-duplicate-ii) |
 | [0239-sliding-window-maximum](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0424-longest-repeating-character-replacement) |
