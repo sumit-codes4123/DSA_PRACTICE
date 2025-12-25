@@ -272,6 +272,7 @@
 | [2876-number-of-employees-who-met-the-target](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2876-number-of-employees-who-met-the-target) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3034-points-that-intersect-with-cars](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/3034-points-that-intersect-with-cars) |
+| [3075-maximize-happiness-of-selected-children](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3081-minimum-array-length-after-pair-removals](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/3081-minimum-array-length-after-pair-removals) |
 | [3094-minimum-number-of-operations-to-make-array-empty](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/3094-minimum-number-of-operations-to-make-array-empty) |
 | [3104-happy-students](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/3104-happy-students) |
@@ -638,6 +639,7 @@
 | [2845-find-the-value-of-the-partition](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2845-find-the-value-of-the-partition) |
 | [2887-sort-vowels-in-a-string](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2887-sort-vowels-in-a-string) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
+| [3075-maximize-happiness-of-selected-children](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3104-happy-students](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/3104-happy-students) |
 | [3151-minimum-processing-time](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/3151-minimum-processing-time) |
 | [3226-minimum-number-game](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/3226-minimum-number-game) |
@@ -712,6 +714,7 @@
 | [2767-maximum-sum-with-exactly-k-elements](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2767-maximum-sum-with-exactly-k-elements) |
 | [2872-largest-element-in-an-array-after-merge-operations](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2872-largest-element-in-an-array-after-merge-operations) |
 | [3046-minimum-operations-to-make-a-special-number](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/3046-minimum-operations-to-make-a-special-number) |
+| [3075-maximize-happiness-of-selected-children](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3081-minimum-array-length-after-pair-removals](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/3081-minimum-array-length-after-pair-removals) |
 | [3094-minimum-number-of-operations-to-make-array-empty](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/3094-minimum-number-of-operations-to-make-array-empty) |
 | [3151-minimum-processing-time](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/3151-minimum-processing-time) |
