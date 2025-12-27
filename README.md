@@ -29,6 +29,7 @@
 | [1013-fibonacci-number](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/1013-fibonacci-number) |
 | [1018-largest-perimeter-triangle](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/1018-largest-perimeter-triangle) |
 | [1031-add-to-array-form-of-integer](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/1031-add-to-array-form-of-integer) |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1303-minimum-moves-to-reach-target-score](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/1303-minimum-moves-to-reach-target-score) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
@@ -888,6 +889,7 @@
 | [0237-delete-node-in-a-linked-list](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0328-odd-even-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0908-middle-of-the-linked-list) |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
