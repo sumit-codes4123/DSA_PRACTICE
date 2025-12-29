@@ -180,6 +180,7 @@
 | [0745-find-smallest-letter-greater-than-target](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0777-toeplitz-matrix](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0777-toeplitz-matrix) |
 | [0792-binary-search](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0792-binary-search) |
+| [0817-linked-list-components](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0817-linked-list-components) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0890-lemonade-change](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0890-lemonade-change) |
 | [0898-transpose-matrix](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0898-transpose-matrix) |
@@ -565,6 +566,7 @@
 | [0424-longest-repeating-character-replacement](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0424-longest-repeating-character-replacement) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0560-subarray-sum-equals-k) |
+| [0817-linked-list-components](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0817-linked-list-components) |
 | [0904-fruit-into-baskets](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0904-fruit-into-baskets) |
 | [0992-subarrays-with-k-different-integers](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0992-subarrays-with-k-different-integers) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/1001-n-repeated-element-in-size-2n-array) |
@@ -888,6 +890,7 @@
 | [0234-palindrome-linked-list](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0328-odd-even-linked-list) |
+| [0817-linked-list-components](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0817-linked-list-components) |
 | [0908-middle-of-the-linked-list](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0908-middle-of-the-linked-list) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
