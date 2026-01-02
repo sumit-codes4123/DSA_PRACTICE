@@ -20,6 +20,7 @@
 | [0231-power-of-two](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0268-missing-number) |
+| [0292-nim-game](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0342-power-of-four) |
 | [0507-perfect-number](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0507-perfect-number) |
@@ -919,12 +920,14 @@
 ## Brainteaser
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0292-nim-game) |
 | [2481-strictly-palindromic-number](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2481-strictly-palindromic-number) |
 | [3462-vowels-game-in-a-string](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/3462-vowels-game-in-a-string) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 ## Game Theory
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0292-nim-game) |
 | [0909-stone-game](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0909-stone-game) |
 | [3462-vowels-game-in-a-string](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/3462-vowels-game-in-a-string) |
 | [3511-find-the-winning-player-in-coin-game](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/3511-find-the-winning-player-in-coin-game) |
