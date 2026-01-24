@@ -222,6 +222,7 @@
 | [2015-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2015-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2047-find-a-peak-element-ii](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2047-find-a-peak-element-ii) |
 | [2102-find-the-middle-index-in-array](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2102-find-the-middle-index-in-array) |
+| [2105-watering-plants-ii](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2105-watering-plants-ii) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2181-smallest-index-with-equal-value](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2181-smallest-index-with-equal-value) |
@@ -418,6 +419,7 @@
 | [0953-reverse-only-letters](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0953-reverse-only-letters) |
 | [0958-sort-array-by-parity-ii](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0958-sort-array-by-parity-ii) |
 | [1019-squares-of-a-sorted-array](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/1019-squares-of-a-sorted-array) |
+| [2105-watering-plants-ii](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2105-watering-plants-ii) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -746,6 +748,7 @@
 | [0898-transpose-matrix](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0898-transpose-matrix) |
 | [1642-water-bottles](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/1642-water-bottles) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2105-watering-plants-ii](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2105-watering-plants-ii) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2274-keep-multiplying-found-values-by-two) |
