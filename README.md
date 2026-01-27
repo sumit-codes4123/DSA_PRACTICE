@@ -418,6 +418,7 @@
 | [0344-reverse-string](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0349-intersection-of-two-arrays) |
 | [0455-assign-cookies](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0455-assign-cookies) |
+| [0481-magical-string](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0481-magical-string) |
 | [0908-middle-of-the-linked-list](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0908-middle-of-the-linked-list) |
 | [0941-sort-array-by-parity](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0941-sort-array-by-parity) |
 | [0953-reverse-only-letters](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0953-reverse-only-letters) |
@@ -476,6 +477,7 @@
 | [0402-remove-k-digits](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0402-remove-k-digits) |
 | [0409-longest-palindrome](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0409-longest-palindrome) |
 | [0424-longest-repeating-character-replacement](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0424-longest-repeating-character-replacement) |
+| [0481-magical-string](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0481-magical-string) |
 | [0657-robot-return-to-origin](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0657-robot-return-to-origin) |
 | [0812-rotate-string](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0812-rotate-string) |
 | [0953-reverse-only-letters](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0953-reverse-only-letters) |
