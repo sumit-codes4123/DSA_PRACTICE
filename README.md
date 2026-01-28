@@ -535,6 +535,7 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0945-snakes-and-ladders](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0945-snakes-and-ladders) |
@@ -886,6 +887,7 @@
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0094-binary-tree-inorder-traversal) |
+| [0100-same-tree](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -897,6 +899,7 @@
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0094-binary-tree-inorder-traversal) |
+| [0100-same-tree](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0100-same-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0144-binary-tree-preorder-traversal](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0144-binary-tree-preorder-traversal) |
@@ -906,6 +909,7 @@
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0094-binary-tree-inorder-traversal) |
+| [0100-same-tree](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0124-binary-tree-maximum-path-sum) |
