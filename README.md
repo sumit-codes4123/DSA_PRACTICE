@@ -374,6 +374,7 @@
 | [0119-pascals-triangle-ii](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0119-pascals-triangle-ii) |
 | [0120-triangle](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0131-palindrome-partitioning) |
 | [0152-maximum-product-subarray](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0198-house-robber) |
@@ -887,6 +888,7 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0094-binary-tree-inorder-traversal) |
 | [0102-binary-tree-level-order-traversal](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0144-binary-tree-preorder-traversal](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0145-binary-tree-postorder-traversal) |
@@ -895,6 +897,7 @@
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0094-binary-tree-inorder-traversal) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0144-binary-tree-preorder-traversal](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0145-binary-tree-postorder-traversal) |
@@ -905,6 +908,7 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0094-binary-tree-inorder-traversal) |
 | [0102-binary-tree-level-order-traversal](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0144-binary-tree-preorder-traversal](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0145-binary-tree-postorder-traversal) |
