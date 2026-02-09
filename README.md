@@ -439,6 +439,7 @@
 | [0455-assign-cookies](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0455-assign-cookies) |
 | [0481-magical-string](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0481-magical-string) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0532-k-diff-pairs-in-an-array) |
+| [0763-partition-labels](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0763-partition-labels) |
 | [0908-middle-of-the-linked-list](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0908-middle-of-the-linked-list) |
 | [0941-sort-array-by-parity](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0941-sort-array-by-parity) |
 | [0953-reverse-only-letters](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0953-reverse-only-letters) |
@@ -501,6 +502,7 @@
 | [0424-longest-repeating-character-replacement](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0424-longest-repeating-character-replacement) |
 | [0481-magical-string](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0481-magical-string) |
 | [0657-robot-return-to-origin](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0657-robot-return-to-origin) |
+| [0763-partition-labels](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0763-partition-labels) |
 | [0812-rotate-string](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0812-rotate-string) |
 | [0848-shifting-letters](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0848-shifting-letters) |
 | [0953-reverse-only-letters](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0953-reverse-only-letters) |
@@ -620,6 +622,7 @@
 | [0525-contiguous-array](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0525-contiguous-array) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0560-subarray-sum-equals-k) |
+| [0763-partition-labels](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0763-partition-labels) |
 | [0817-linked-list-components](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0817-linked-list-components) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0904-fruit-into-baskets](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0904-fruit-into-baskets) |
@@ -767,6 +770,7 @@
 | [0410-split-array-largest-sum](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0455-assign-cookies) |
+| [0763-partition-labels](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0763-partition-labels) |
 | [0890-lemonade-change](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0890-lemonade-change) |
 | [1018-largest-perimeter-triangle](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/1018-largest-perimeter-triangle) |
 | [1303-minimum-moves-to-reach-target-score](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/1303-minimum-moves-to-reach-target-score) |
