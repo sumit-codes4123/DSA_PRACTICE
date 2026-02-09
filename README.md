@@ -520,6 +520,7 @@
 | [2337-remove-digit-from-number-to-maximize-result](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2337-remove-digit-from-number-to-maximize-result) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2377-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2377-check-if-number-has-equal-digit-count-and-digit-value) |
+| [2405-optimal-partition-of-string](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2405-optimal-partition-of-string) |
 | [2470-removing-stars-from-a-string](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2470-removing-stars-from-a-string) |
 | [2492-length-of-the-longest-alphabetical-continuous-substring](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2492-length-of-the-longest-alphabetical-continuous-substring) |
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
@@ -641,6 +642,7 @@
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2362-minimum-rounds-to-complete-all-tasks](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2362-minimum-rounds-to-complete-all-tasks) |
 | [2377-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2377-check-if-number-has-equal-digit-count-and-digit-value) |
+| [2405-optimal-partition-of-string](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2405-optimal-partition-of-string) |
 | [2486-most-frequent-even-element](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2486-most-frequent-even-element) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2581-divide-players-into-teams-of-equal-skill) |
@@ -783,6 +785,7 @@
 | [2337-remove-digit-from-number-to-maximize-result](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2337-remove-digit-from-number-to-maximize-result) |
 | [2362-minimum-rounds-to-complete-all-tasks](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2362-minimum-rounds-to-complete-all-tasks) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
+| [2405-optimal-partition-of-string](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2405-optimal-partition-of-string) |
 | [2655-rearrange-array-to-maximize-prefix-score](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2655-rearrange-array-to-maximize-prefix-score) |
 | [2664-maximize-greatness-of-an-array](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2664-maximize-greatness-of-an-array) |
 | [2690-house-robber-iv](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2690-house-robber-iv) |
