@@ -320,6 +320,7 @@
 | [3244-minimize-length-of-array-using-operations](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/3244-minimize-length-of-array-using-operations) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3254-find-the-power-of-k-size-subarrays-i](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/3254-find-the-power-of-k-size-subarrays-i) |
+| [3255-find-the-power-of-k-size-subarrays-ii](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/3255-find-the-power-of-k-size-subarrays-ii) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3321-type-of-triangle](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/3321-type-of-triangle) |
 | [3330-modify-the-matrix](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/3330-modify-the-matrix) |
@@ -905,6 +906,7 @@
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3193-maximum-strong-pair-xor-i](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/3193-maximum-strong-pair-xor-i) |
 | [3254-find-the-power-of-k-size-subarrays-i](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/3254-find-the-power-of-k-size-subarrays-i) |
+| [3255-find-the-power-of-k-size-subarrays-ii](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/3255-find-the-power-of-k-size-subarrays-ii) |
 | [3634-minimum-removals-to-balance-array](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/3634-minimum-removals-to-balance-array) |
 ## Binary Indexed Tree
 |  |
