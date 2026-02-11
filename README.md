@@ -980,6 +980,7 @@
 | [0814-binary-tree-pruning](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0814-binary-tree-pruning) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0951-flip-equivalent-binary-trees](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0951-flip-equivalent-binary-trees) |
+| [0971-flip-binary-tree-to-match-preorder-traversal](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0971-flip-binary-tree-to-match-preorder-traversal) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 ## Depth-First Search
@@ -1001,6 +1002,7 @@
 | [0814-binary-tree-pruning](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0814-binary-tree-pruning) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0951-flip-equivalent-binary-trees](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0951-flip-equivalent-binary-trees) |
+| [0971-flip-binary-tree-to-match-preorder-traversal](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0971-flip-binary-tree-to-match-preorder-traversal) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 ## Binary Tree
@@ -1026,6 +1028,7 @@
 | [0814-binary-tree-pruning](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0814-binary-tree-pruning) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0951-flip-equivalent-binary-trees](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0951-flip-equivalent-binary-trees) |
+| [0971-flip-binary-tree-to-match-preorder-traversal](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0971-flip-binary-tree-to-match-preorder-traversal) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 ## Linked List
