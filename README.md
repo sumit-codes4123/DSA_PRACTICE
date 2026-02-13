@@ -187,6 +187,7 @@
 | [0540-single-element-in-a-sorted-array](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0628-maximum-product-of-three-numbers) |
+| [0654-maximum-binary-tree](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0654-maximum-binary-tree) |
 | [0713-subarray-product-less-than-k](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0735-asteroid-collision) |
@@ -744,6 +745,7 @@
 | [0240-search-a-2d-matrix-ii](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0240-search-a-2d-matrix-ii) |
 | [0347-top-k-frequent-elements](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0347-top-k-frequent-elements) |
 | [0493-reverse-pairs](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0493-reverse-pairs) |
+| [0654-maximum-binary-tree](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0654-maximum-binary-tree) |
 ## Counting
 |  |
 | ------- |
@@ -948,6 +950,7 @@
 | [0402-remove-k-digits](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0402-remove-k-digits) |
 | [0445-add-two-numbers-ii](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0445-add-two-numbers-ii) |
 | [0503-next-greater-element-ii](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0503-next-greater-element-ii) |
+| [0654-maximum-binary-tree](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0654-maximum-binary-tree) |
 | [0735-asteroid-collision](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0739-daily-temperatures) |
 | [0937-online-stock-span](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0937-online-stock-span) |
@@ -977,6 +980,7 @@
 | [0199-binary-tree-right-side-view](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0654-maximum-binary-tree](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0654-maximum-binary-tree) |
 | [0655-print-binary-tree](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0655-print-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0662-maximum-width-of-binary-tree) |
 | [0814-binary-tree-pruning](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0814-binary-tree-pruning) |
@@ -1026,6 +1030,7 @@
 | [0199-binary-tree-right-side-view](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0654-maximum-binary-tree](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0654-maximum-binary-tree) |
 | [0655-print-binary-tree](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0655-print-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0662-maximum-width-of-binary-tree) |
 | [0814-binary-tree-pruning](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0814-binary-tree-pruning) |
@@ -1115,6 +1120,7 @@
 | [0085-maximal-rectangle](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0085-maximal-rectangle) |
 | [0402-remove-k-digits](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0402-remove-k-digits) |
 | [0503-next-greater-element-ii](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0503-next-greater-element-ii) |
+| [0654-maximum-binary-tree](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0654-maximum-binary-tree) |
 | [0739-daily-temperatures](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0739-daily-temperatures) |
 | [0937-online-stock-span](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0937-online-stock-span) |
 | [0943-sum-of-subarray-minimums](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0943-sum-of-subarray-minimums) |
