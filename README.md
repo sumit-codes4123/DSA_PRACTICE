@@ -236,6 +236,7 @@
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1938-minimum-operations-to-make-the-array-increasing](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/1938-minimum-operations-to-make-the-array-increasing) |
+| [1944-number-of-visible-people-in-a-queue](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2015-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2015-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2047-find-a-peak-element-ii](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2047-find-a-peak-element-ii) |
@@ -960,6 +961,7 @@
 | [0937-online-stock-span](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0937-online-stock-span) |
 | [0943-sum-of-subarray-minimums](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0943-sum-of-subarray-minimums) |
 | [1441-build-an-array-with-stack-operations](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/1441-build-an-array-with-stack-operations) |
+| [1944-number-of-visible-people-in-a-queue](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [2227-sum-of-subarray-ranges](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2227-sum-of-subarray-ranges) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2470-removing-stars-from-a-string](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2470-removing-stars-from-a-string) |
@@ -1128,6 +1130,7 @@
 | [0739-daily-temperatures](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0739-daily-temperatures) |
 | [0937-online-stock-span](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0937-online-stock-span) |
 | [0943-sum-of-subarray-minimums](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0943-sum-of-subarray-minimums) |
+| [1944-number-of-visible-people-in-a-queue](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [2227-sum-of-subarray-ranges](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2227-sum-of-subarray-ranges) |
 | [2573-remove-nodes-from-linked-list](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2573-remove-nodes-from-linked-list) |
 ## Graph
