@@ -984,6 +984,7 @@
 | [0951-flip-equivalent-binary-trees](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0951-flip-equivalent-binary-trees) |
 | [0971-flip-binary-tree-to-match-preorder-traversal](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0971-flip-binary-tree-to-match-preorder-traversal) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [0998-maximum-binary-tree-ii](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0998-maximum-binary-tree-ii) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 ## Depth-First Search
 |  |
@@ -1032,6 +1033,7 @@
 | [0951-flip-equivalent-binary-trees](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0951-flip-equivalent-binary-trees) |
 | [0971-flip-binary-tree-to-match-preorder-traversal](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0971-flip-binary-tree-to-match-preorder-traversal) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [0998-maximum-binary-tree-ii](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0998-maximum-binary-tree-ii) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 ## Linked List
 |  |
