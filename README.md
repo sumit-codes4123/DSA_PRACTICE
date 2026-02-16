@@ -1007,6 +1007,7 @@
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1302-deepest-leaves-sum](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/1302-deepest-leaves-sum) |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
+| [1325-delete-leaves-with-a-given-value](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/1325-delete-leaves-with-a-given-value) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -1034,6 +1035,7 @@
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1302-deepest-leaves-sum](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/1302-deepest-leaves-sum) |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
+| [1325-delete-leaves-with-a-given-value](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/1325-delete-leaves-with-a-given-value) |
 ## Binary Tree
 |  |
 | ------- |
@@ -1067,6 +1069,7 @@
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1302-deepest-leaves-sum](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/1302-deepest-leaves-sum) |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
+| [1325-delete-leaves-with-a-given-value](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/1325-delete-leaves-with-a-given-value) |
 ## Linked List
 |  |
 | ------- |
