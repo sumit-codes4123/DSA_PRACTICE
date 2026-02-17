@@ -20,6 +20,7 @@
 | [0204-count-primes](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0258-add-digits) |
+| [0264-ugly-number-ii](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0268-missing-number) |
 | [0292-nim-game](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0326-power-of-three) |
@@ -406,6 +407,7 @@
 | [0152-maximum-product-subarray](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0213-house-robber-ii) |
+| [0264-ugly-number-ii](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0264-ugly-number-ii) |
 | [0410-split-array-largest-sum](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0410-split-array-largest-sum) |
 | [0413-arithmetic-slices](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0413-arithmetic-slices) |
 | [0435-non-overlapping-intervals](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0435-non-overlapping-intervals) |
@@ -630,6 +632,7 @@
 | [0219-contains-duplicate-ii](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0242-valid-anagram) |
+| [0264-ugly-number-ii](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0268-missing-number) |
 | [0299-bulls-and-cows](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0299-bulls-and-cows) |
 | [0347-top-k-frequent-elements](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0347-top-k-frequent-elements) |
@@ -1138,6 +1141,7 @@
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0239-sliding-window-maximum) |
+| [0264-ugly-number-ii](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0264-ugly-number-ii) |
 | [0347-top-k-frequent-elements](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0347-top-k-frequent-elements) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
