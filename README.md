@@ -235,6 +235,7 @@
 | [1646-kth-missing-positive-number](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/1646-kth-missing-positive-number) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1677-matrix-diagonal-sum](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/1677-matrix-diagonal-sum) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1742-widest-vertical-area-between-two-points-containing-no-points](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/1742-widest-vertical-area-between-two-points-containing-no-points) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/1877-minimize-maximum-pair-sum-in-array) |
@@ -462,6 +463,7 @@
 | [0953-reverse-only-letters](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0953-reverse-only-letters) |
 | [0958-sort-array-by-parity-ii](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0958-sort-array-by-parity-ii) |
 | [1019-squares-of-a-sorted-array](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/1019-squares-of-a-sorted-array) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2105-watering-plants-ii](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2105-watering-plants-ii) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
@@ -661,6 +663,7 @@
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2225-find-players-with-zero-or-one-losses) |
@@ -717,6 +720,7 @@
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1018-largest-perimeter-triangle](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/1018-largest-perimeter-triangle) |
 | [1019-squares-of-a-sorted-array](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/1019-squares-of-a-sorted-array) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1742-widest-vertical-area-between-two-points-containing-no-points](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/1742-widest-vertical-area-between-two-points-containing-no-points) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1970-sorting-the-sentence](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/1970-sorting-the-sentence) |
