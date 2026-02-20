@@ -587,6 +587,7 @@
 | [0100-same-tree](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0199-binary-tree-right-side-view](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0199-binary-tree-right-side-view) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0655-print-binary-tree](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0655-print-binary-tree) |
@@ -1006,6 +1007,7 @@
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0113-path-sum-ii](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0113-path-sum-ii) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0144-binary-tree-preorder-traversal](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0144-binary-tree-preorder-traversal) |
@@ -1037,6 +1039,7 @@
 | [0100-same-tree](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0100-same-tree) |
 | [0113-path-sum-ii](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0113-path-sum-ii) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0144-binary-tree-preorder-traversal](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0144-binary-tree-preorder-traversal) |
@@ -1070,6 +1073,7 @@
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0113-path-sum-ii](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0113-path-sum-ii) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0144-binary-tree-preorder-traversal](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0144-binary-tree-preorder-traversal) |
@@ -1104,6 +1108,7 @@
 | [0061-rotate-list](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0061-rotate-list) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0141-linked-list-cycle](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0143-reorder-list) |
