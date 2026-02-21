@@ -8,7 +8,7 @@ public:
             c--;
             if(c<0)return false;
             if(preorder[i]!='#'){
-                while(i<preorder.size()&&preorder[i]!=',')
+                if(i<preorder.size()&&preorder[i]!=',')
                i++;
                 c+=2;
             }
