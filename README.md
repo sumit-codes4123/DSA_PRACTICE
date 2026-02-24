@@ -600,6 +600,7 @@
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1302-deepest-leaves-sum](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/1302-deepest-leaves-sum) |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [2641-cousins-in-binary-tree-ii](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2641-cousins-in-binary-tree-ii) |
 ## Matrix
 |  |
@@ -1034,6 +1035,7 @@
 | [1302-deepest-leaves-sum](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/1302-deepest-leaves-sum) |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
 | [1325-delete-leaves-with-a-given-value](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/1325-delete-leaves-with-a-given-value) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [2641-cousins-in-binary-tree-ii](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2641-cousins-in-binary-tree-ii) |
 ## Depth-First Search
 |  |
@@ -1064,6 +1066,7 @@
 | [1302-deepest-leaves-sum](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/1302-deepest-leaves-sum) |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
 | [1325-delete-leaves-with-a-given-value](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/1325-delete-leaves-with-a-given-value) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [2641-cousins-in-binary-tree-ii](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2641-cousins-in-binary-tree-ii) |
 ## Binary Tree
 |  |
@@ -1101,6 +1104,7 @@
 | [1302-deepest-leaves-sum](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/1302-deepest-leaves-sum) |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
 | [1325-delete-leaves-with-a-given-value](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/1325-delete-leaves-with-a-given-value) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [2641-cousins-in-binary-tree-ii](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2641-cousins-in-binary-tree-ii) |
 ## Linked List
 |  |
