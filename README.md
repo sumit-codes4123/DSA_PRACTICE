@@ -459,6 +459,7 @@
 | [0455-assign-cookies](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0455-assign-cookies) |
 | [0481-magical-string](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0481-magical-string) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0532-k-diff-pairs-in-an-array) |
+| [0567-permutation-in-string](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0567-permutation-in-string) |
 | [0763-partition-labels](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0763-partition-labels) |
 | [0845-longest-mountain-in-array](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0845-longest-mountain-in-array) |
 | [0908-middle-of-the-linked-list](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0908-middle-of-the-linked-list) |
@@ -525,6 +526,7 @@
 | [0424-longest-repeating-character-replacement](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0481-magical-string](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0481-magical-string) |
+| [0567-permutation-in-string](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0567-permutation-in-string) |
 | [0657-robot-return-to-origin](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0657-robot-return-to-origin) |
 | [0763-partition-labels](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0763-partition-labels) |
 | [0812-rotate-string](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0812-rotate-string) |
@@ -658,6 +660,7 @@
 | [0525-contiguous-array](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0525-contiguous-array) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0560-subarray-sum-equals-k) |
+| [0567-permutation-in-string](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0567-permutation-in-string) |
 | [0763-partition-labels](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0763-partition-labels) |
 | [0817-linked-list-components](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0817-linked-list-components) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
@@ -938,6 +941,7 @@
 | [0413-arithmetic-slices](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0413-arithmetic-slices) |
 | [0424-longest-repeating-character-replacement](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0567-permutation-in-string](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0567-permutation-in-string) |
 | [0713-subarray-product-less-than-k](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0713-subarray-product-less-than-k) |
 | [0904-fruit-into-baskets](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0904-fruit-into-baskets) |
 | [0992-subarrays-with-k-different-integers](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0992-subarrays-with-k-different-integers) |
