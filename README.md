@@ -49,6 +49,7 @@
 | [2032-largest-odd-number-in-string](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2032-largest-odd-number-in-string) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2174-next-greater-numerically-balanced-number) |
+| [2183-count-array-pairs-divisible-by-k](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2183-count-array-pairs-divisible-by-k) |
 | [2238-a-number-after-a-double-reversal](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2238-a-number-after-a-double-reversal) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
@@ -258,6 +259,7 @@
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2181-smallest-index-with-equal-value](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2181-smallest-index-with-equal-value) |
+| [2183-count-array-pairs-divisible-by-k](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2183-count-array-pairs-divisible-by-k) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2212-removing-minimum-and-maximum-from-array](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2212-removing-minimum-and-maximum-from-array) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2219-maximum-number-of-words-found-in-sentences) |
@@ -692,6 +694,7 @@
 | [1679-max-number-of-k-sum-pairs](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2174-next-greater-numerically-balanced-number) |
+| [2183-count-array-pairs-divisible-by-k](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2183-count-array-pairs-divisible-by-k) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2260-minimum-consecutive-cards-to-pick-up](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2260-minimum-consecutive-cards-to-pick-up) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2274-keep-multiplying-found-values-by-two) |
@@ -812,6 +815,7 @@
 | [1510-find-lucky-integer-in-an-array](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1657-determine-if-two-strings-are-close](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/1657-determine-if-two-strings-are-close) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2174-next-greater-numerically-balanced-number) |
+| [2183-count-array-pairs-divisible-by-k](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2183-count-array-pairs-divisible-by-k) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2269-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2269-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
@@ -1173,6 +1177,7 @@
 | ------- |
 | [0204-count-primes](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0258-add-digits) |
+| [2183-count-array-pairs-divisible-by-k](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2183-count-array-pairs-divisible-by-k) |
 | [2722-prime-in-diagonal](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2722-prime-in-diagonal) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
