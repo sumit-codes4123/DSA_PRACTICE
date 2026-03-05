@@ -1072,6 +1072,7 @@
 | [1325-delete-leaves-with-a-given-value](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/1325-delete-leaves-with-a-given-value) |
 | [1367-linked-list-in-binary-tree](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/1367-linked-list-in-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/1448-count-good-nodes-in-binary-tree) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 | [2641-cousins-in-binary-tree-ii](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2641-cousins-in-binary-tree-ii) |
 ## Depth-First Search
@@ -1105,6 +1106,7 @@
 | [1325-delete-leaves-with-a-given-value](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/1325-delete-leaves-with-a-given-value) |
 | [1367-linked-list-in-binary-tree](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/1367-linked-list-in-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/1448-count-good-nodes-in-binary-tree) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2641-cousins-in-binary-tree-ii](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2641-cousins-in-binary-tree-ii) |
 ## Binary Tree
 |  |
@@ -1144,6 +1146,7 @@
 | [1325-delete-leaves-with-a-given-value](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/1325-delete-leaves-with-a-given-value) |
 | [1367-linked-list-in-binary-tree](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/1367-linked-list-in-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/1448-count-good-nodes-in-binary-tree) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 | [2641-cousins-in-binary-tree-ii](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2641-cousins-in-binary-tree-ii) |
 ## Linked List
