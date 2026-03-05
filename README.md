@@ -618,6 +618,7 @@
 | [1302-deepest-leaves-sum](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/1302-deepest-leaves-sum) |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/1448-count-good-nodes-in-binary-tree) |
+| [2583-kth-largest-sum-in-a-binary-tree](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 | [2641-cousins-in-binary-tree-ii](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2641-cousins-in-binary-tree-ii) |
 ## Matrix
 |  |
@@ -768,6 +769,7 @@
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2545-sort-the-students-by-their-kth-score) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [2583-kth-largest-sum-in-a-binary-tree](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 | [2655-rearrange-array-to-maximize-prefix-score](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2655-rearrange-array-to-maximize-prefix-score) |
 | [2664-maximize-greatness-of-an-array](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2664-maximize-greatness-of-an-array) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
@@ -1070,6 +1072,7 @@
 | [1325-delete-leaves-with-a-given-value](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/1325-delete-leaves-with-a-given-value) |
 | [1367-linked-list-in-binary-tree](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/1367-linked-list-in-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/1448-count-good-nodes-in-binary-tree) |
+| [2583-kth-largest-sum-in-a-binary-tree](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 | [2641-cousins-in-binary-tree-ii](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2641-cousins-in-binary-tree-ii) |
 ## Depth-First Search
 |  |
@@ -1141,6 +1144,7 @@
 | [1325-delete-leaves-with-a-given-value](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/1325-delete-leaves-with-a-given-value) |
 | [1367-linked-list-in-binary-tree](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/1367-linked-list-in-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/1448-count-good-nodes-in-binary-tree) |
+| [2583-kth-largest-sum-in-a-binary-tree](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 | [2641-cousins-in-binary-tree-ii](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2641-cousins-in-binary-tree-ii) |
 ## Linked List
 |  |
