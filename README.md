@@ -333,6 +333,7 @@
 | [3176-minimum-sum-of-mountain-triplets-i](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/3176-minimum-sum-of-mountain-triplets-i) |
 | [3185-count-pairs-that-form-a-complete-day-ii](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/3185-count-pairs-that-form-a-complete-day-ii) |
 | [3186-minimum-sum-of-mountain-triplets-ii](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/3186-minimum-sum-of-mountain-triplets-ii) |
+| [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3193-maximum-strong-pair-xor-i](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/3193-maximum-strong-pair-xor-i) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/3206-find-common-elements-between-two-arrays) |
 | [3215-matrix-similarity-after-cyclic-shifts](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/3215-matrix-similarity-after-cyclic-shifts) |
@@ -516,6 +517,7 @@
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2401-longest-nice-subarray](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2401-longest-nice-subarray) |
 | [2754-maximum-strength-of-a-group](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2754-maximum-strength-of-a-group) |
+| [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3193-maximum-strong-pair-xor-i](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/3193-maximum-strong-pair-xor-i) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/3676-smallest-number-with-all-set-bits) |
 ## String
@@ -965,6 +967,7 @@
 | [2691-count-vowel-strings-in-ranges](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3034-points-that-intersect-with-cars](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/3034-points-that-intersect-with-cars) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
+| [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3355-minimum-levels-to-gain-more-points](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/3355-minimum-levels-to-gain-more-points) |
 | [3422-find-the-n-th-value-after-k-seconds](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/3422-find-the-n-th-value-after-k-seconds) |
 | [3862-find-the-smallest-balanced-index](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/3862-find-the-smallest-balanced-index) |
@@ -992,6 +995,7 @@
 | [2260-minimum-consecutive-cards-to-pick-up](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2260-minimum-consecutive-cards-to-pick-up) |
 | [2401-longest-nice-subarray](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2401-longest-nice-subarray) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3193-maximum-strong-pair-xor-i](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/3193-maximum-strong-pair-xor-i) |
 | [3254-find-the-power-of-k-size-subarrays-i](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/3254-find-the-power-of-k-size-subarrays-i) |
 | [3255-find-the-power-of-k-size-subarrays-ii](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/3255-find-the-power-of-k-size-subarrays-ii) |
@@ -1295,6 +1299,7 @@
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0239-sliding-window-maximum) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Design
 |  |
 | ------- |
