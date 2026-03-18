@@ -319,6 +319,7 @@
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3034-points-that-intersect-with-cars](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/3034-points-that-intersect-with-cars) |
+| [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3081-minimum-array-length-after-pair-removals](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/3081-minimum-array-length-after-pair-removals) |
 | [3094-minimum-number-of-operations-to-make-array-empty](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/3094-minimum-number-of-operations-to-make-array-empty) |
@@ -646,6 +647,7 @@
 | [2643-row-with-maximum-ones](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2643-row-with-maximum-ones) |
 | [2722-prime-in-diagonal](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2722-prime-in-diagonal) |
 | [2728-sum-in-a-matrix](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2728-sum-in-a-matrix) |
+| [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3215-matrix-similarity-after-cyclic-shifts](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/3215-matrix-similarity-after-cyclic-shifts) |
 | [3330-modify-the-matrix](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/3330-modify-the-matrix) |
 ## Hash Table
@@ -962,6 +964,7 @@
 | [2676-find-the-score-of-all-prefixes-of-an-array](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2676-find-the-score-of-all-prefixes-of-an-array) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3034-points-that-intersect-with-cars](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/3034-points-that-intersect-with-cars) |
+| [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3355-minimum-levels-to-gain-more-points](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/3355-minimum-levels-to-gain-more-points) |
 | [3422-find-the-n-th-value-after-k-seconds](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/3422-find-the-n-th-value-after-k-seconds) |
 | [3862-find-the-smallest-balanced-index](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/3862-find-the-smallest-balanced-index) |
