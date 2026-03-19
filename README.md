@@ -336,6 +336,7 @@
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3193-maximum-strong-pair-xor-i](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/3193-maximum-strong-pair-xor-i) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/3206-find-common-elements-between-two-arrays) |
+| [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3215-matrix-similarity-after-cyclic-shifts](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/3215-matrix-similarity-after-cyclic-shifts) |
 | [3220-count-tested-devices-after-test-operations](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/3220-count-tested-devices-after-test-operations) |
 | [3221-find-the-peaks](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/3221-find-the-peaks) |
@@ -650,6 +651,7 @@
 | [2722-prime-in-diagonal](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2722-prime-in-diagonal) |
 | [2728-sum-in-a-matrix](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2728-sum-in-a-matrix) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
+| [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3215-matrix-similarity-after-cyclic-shifts](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/3215-matrix-similarity-after-cyclic-shifts) |
 | [3330-modify-the-matrix](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/3330-modify-the-matrix) |
 ## Hash Table
@@ -968,6 +970,7 @@
 | [3034-points-that-intersect-with-cars](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/3034-points-that-intersect-with-cars) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+| [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3355-minimum-levels-to-gain-more-points](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/3355-minimum-levels-to-gain-more-points) |
 | [3422-find-the-n-th-value-after-k-seconds](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/3422-find-the-n-th-value-after-k-seconds) |
 | [3862-find-the-smallest-balanced-index](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/3862-find-the-smallest-balanced-index) |
