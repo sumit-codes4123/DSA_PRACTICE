@@ -434,6 +434,7 @@
 | [0410-split-array-largest-sum](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0410-split-array-largest-sum) |
 | [0413-arithmetic-slices](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0413-arithmetic-slices) |
 | [0435-non-overlapping-intervals](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0435-non-overlapping-intervals) |
+| [0516-longest-palindromic-subsequence](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0516-longest-palindromic-subsequence) |
 | [0845-longest-mountain-in-array](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0845-longest-mountain-in-array) |
 | [0909-stone-game](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0909-stone-game) |
 | [0943-sum-of-subarray-minimums](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0943-sum-of-subarray-minimums) |
@@ -549,6 +550,7 @@
 | [0424-longest-repeating-character-replacement](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0481-magical-string](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0481-magical-string) |
+| [0516-longest-palindromic-subsequence](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0516-longest-palindromic-subsequence) |
 | [0556-next-greater-element-iii](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0556-next-greater-element-iii) |
 | [0567-permutation-in-string](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0567-permutation-in-string) |
 | [0649-dota2-senate](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0649-dota2-senate) |
