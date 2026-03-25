@@ -423,6 +423,7 @@
 | [0042-trapping-rain-water](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0062-unique-paths) |
+| [0072-edit-distance](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0072-edit-distance) |
 | [0085-maximal-rectangle](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0085-maximal-rectangle) |
 | [0118-pascals-triangle](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0119-pascals-triangle-ii) |
@@ -541,6 +542,7 @@
 | [0022-generate-parentheses](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0058-length-of-last-word) |
+| [0072-edit-distance](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0076-minimum-window-substring) |
 | [0131-palindrome-partitioning](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0131-palindrome-partitioning) |
 | [0179-largest-number](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0179-largest-number) |
