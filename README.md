@@ -454,6 +454,7 @@
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2690-house-robber-iv](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2690-house-robber-iv) |
 | [2754-maximum-strength-of-a-group](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2754-maximum-strength-of-a-group) |
+| [3579-minimum-steps-to-convert-string-with-operations](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/3579-minimum-steps-to-convert-string-with-operations) |
 ## Memoization
 |  |
 | ------- |
@@ -603,6 +604,7 @@
 | [3447-clear-digits](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/3447-clear-digits) |
 | [3462-vowels-game-in-a-string](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/3462-vowels-game-in-a-string) |
 | [3553-check-if-two-chessboard-squares-have-the-same-color](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/3553-check-if-two-chessboard-squares-have-the-same-color) |
+| [3579-minimum-steps-to-convert-string-with-operations](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/3579-minimum-steps-to-convert-string-with-operations) |
 | [3811-reverse-degree-of-a-string](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/3811-reverse-degree-of-a-string) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Combinatorics
