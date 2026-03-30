@@ -188,6 +188,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0349-intersection-of-two-arrays) |
 | [0410-split-array-largest-sum](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0410-split-array-largest-sum) |
 | [0413-arithmetic-slices](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0413-arithmetic-slices) |
+| [0416-partition-equal-subset-sum](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0435-non-overlapping-intervals) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0455-assign-cookies](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0455-assign-cookies) |
@@ -444,6 +445,7 @@
 | [0322-coin-change](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0322-coin-change) |
 | [0410-split-array-largest-sum](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0410-split-array-largest-sum) |
 | [0413-arithmetic-slices](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0413-arithmetic-slices) |
+| [0416-partition-equal-subset-sum](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0435-non-overlapping-intervals) |
 | [0516-longest-palindromic-subsequence](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0583-delete-operation-for-two-strings) |
