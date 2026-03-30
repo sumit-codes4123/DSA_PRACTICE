@@ -194,6 +194,7 @@
 | [0455-assign-cookies](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0493-reverse-pairs) |
+| [0494-target-sum](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0494-target-sum) |
 | [0503-next-greater-element-ii](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0503-next-greater-element-ii) |
 | [0523-continuous-subarray-sum](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0525-contiguous-array) |
@@ -447,6 +448,7 @@
 | [0413-arithmetic-slices](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0413-arithmetic-slices) |
 | [0416-partition-equal-subset-sum](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0435-non-overlapping-intervals) |
+| [0494-target-sum](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0494-target-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0583-delete-operation-for-two-strings) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
@@ -1336,6 +1338,7 @@
 | [0078-subsets](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0078-subsets) |
 | [0113-path-sum-ii](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0113-path-sum-ii) |
 | [0131-palindrome-partitioning](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0131-palindrome-partitioning) |
+| [0494-target-sum](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0494-target-sum) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2754-maximum-strength-of-a-group](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2754-maximum-strength-of-a-group) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2802-find-the-punishment-number-of-an-integer) |
