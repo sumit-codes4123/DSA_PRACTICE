@@ -462,6 +462,7 @@
 | [1035-uncrossed-lines](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/1035-uncrossed-lines) |
 | [1143-longest-common-subsequence](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/1143-longest-common-subsequence) |
 | [1289-minimum-falling-path-sum-ii](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/1289-minimum-falling-path-sum-ii) |
+| [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
@@ -588,6 +589,7 @@
 | [1143-longest-common-subsequence](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/1143-longest-common-subsequence) |
 | [1205-defanging-an-ip-address](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/1205-defanging-an-ip-address) |
 | [1247-minimum-swaps-to-make-strings-equal](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/1247-minimum-swaps-to-make-strings-equal) |
+| [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1657-determine-if-two-strings-are-close](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/1657-determine-if-two-strings-are-close) |
