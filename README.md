@@ -237,6 +237,7 @@
 | [1031-add-to-array-form-of-integer](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/1031-add-to-array-form-of-integer) |
 | [1035-uncrossed-lines](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/1035-uncrossed-lines) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/1056-capacity-to-ship-packages-within-d-days) |
+| [1094-car-pooling](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/1094-car-pooling) |
 | [1110-delete-nodes-and-return-forest](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/1110-delete-nodes-and-return-forest) |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [1289-minimum-falling-path-sum-ii](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/1289-minimum-falling-path-sum-ii) |
@@ -807,6 +808,7 @@
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1018-largest-perimeter-triangle](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/1018-largest-perimeter-triangle) |
 | [1019-squares-of-a-sorted-array](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/1019-squares-of-a-sorted-array) |
+| [1094-car-pooling](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/1094-car-pooling) |
 | [1657-determine-if-two-strings-are-close](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/1657-determine-if-two-strings-are-close) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1742-widest-vertical-area-between-two-points-containing-no-points](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/1742-widest-vertical-area-between-two-points-containing-no-points) |
@@ -946,6 +948,7 @@
 | [0657-robot-return-to-origin](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0657-robot-return-to-origin) |
 | [0735-asteroid-collision](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0735-asteroid-collision) |
 | [0898-transpose-matrix](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0898-transpose-matrix) |
+| [1094-car-pooling](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/1094-car-pooling) |
 | [1441-build-an-array-with-stack-operations](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/1441-build-an-array-with-stack-operations) |
 | [1642-water-bottles](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/1642-water-bottles) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/1951-find-the-winner-of-the-circular-game) |
@@ -1000,6 +1003,7 @@
 | [0848-shifting-letters](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0848-shifting-letters) |
 | [1004-max-consecutive-ones-iii](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/1004-max-consecutive-ones-iii) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/1016-subarray-sums-divisible-by-k) |
+| [1094-car-pooling](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/1094-car-pooling) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1603-running-sum-of-1d-array](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/1603-running-sum-of-1d-array) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -1307,6 +1311,7 @@
 | [0239-sliding-window-maximum](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0239-sliding-window-maximum) |
 | [0264-ugly-number-ii](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0264-ugly-number-ii) |
 | [0347-top-k-frequent-elements](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0347-top-k-frequent-elements) |
+| [1094-car-pooling](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/1094-car-pooling) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2728-sum-in-a-matrix](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2728-sum-in-a-matrix) |
