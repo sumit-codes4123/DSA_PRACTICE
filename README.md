@@ -462,6 +462,7 @@
 | [0943-sum-of-subarray-minimums](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0943-sum-of-subarray-minimums) |
 | [1013-fibonacci-number](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/1013-fibonacci-number) |
 | [1035-uncrossed-lines](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/1035-uncrossed-lines) |
+| [1092-shortest-common-supersequence](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/1143-longest-common-subsequence) |
 | [1289-minimum-falling-path-sum-ii](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/1289-minimum-falling-path-sum-ii) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
@@ -588,6 +589,7 @@
 | [0812-rotate-string](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0812-rotate-string) |
 | [0848-shifting-letters](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0848-shifting-letters) |
 | [0953-reverse-only-letters](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0953-reverse-only-letters) |
+| [1092-shortest-common-supersequence](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/1143-longest-common-subsequence) |
 | [1205-defanging-an-ip-address](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/1205-defanging-an-ip-address) |
 | [1247-minimum-swaps-to-make-strings-equal](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/1247-minimum-swaps-to-make-strings-equal) |
