@@ -436,6 +436,7 @@
 | [0064-minimum-path-sum](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0064-minimum-path-sum) |
 | [0072-edit-distance](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0072-edit-distance) |
 | [0085-maximal-rectangle](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0085-maximal-rectangle) |
+| [0115-distinct-subsequences](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0115-distinct-subsequences) |
 | [0118-pascals-triangle](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0119-pascals-triangle-ii) |
 | [0120-triangle](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0120-triangle) |
@@ -565,6 +566,7 @@
 | [0058-length-of-last-word](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0058-length-of-last-word) |
 | [0072-edit-distance](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0076-minimum-window-substring) |
+| [0115-distinct-subsequences](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0115-distinct-subsequences) |
 | [0131-palindrome-partitioning](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0131-palindrome-partitioning) |
 | [0179-largest-number](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0179-largest-number) |
 | [0242-valid-anagram](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0242-valid-anagram) |
