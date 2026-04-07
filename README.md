@@ -474,6 +474,7 @@
 | [1289-minimum-falling-path-sum-ii](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/1289-minimum-falling-path-sum-ii) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+| [1653-minimum-deletions-to-make-string-balanced](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2690-house-robber-iv](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2690-house-robber-iv) |
@@ -605,6 +606,7 @@
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1653-minimum-deletions-to-make-string-balanced](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1657-determine-if-two-strings-are-close](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/1657-determine-if-two-strings-are-close) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/1700-minimum-time-to-make-rope-colorful) |
@@ -1112,6 +1114,7 @@
 | [0937-online-stock-span](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0937-online-stock-span) |
 | [0943-sum-of-subarray-minimums](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0943-sum-of-subarray-minimums) |
 | [1441-build-an-array-with-stack-operations](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/1441-build-an-array-with-stack-operations) |
+| [1653-minimum-deletions-to-make-string-balanced](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [2227-sum-of-subarray-ranges](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2227-sum-of-subarray-ranges) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
