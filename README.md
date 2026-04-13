@@ -460,6 +460,7 @@
 | [0264-ugly-number-ii](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0264-ugly-number-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0322-coin-change) |
+| [0397-integer-replacement](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0397-integer-replacement) |
 | [0410-split-array-largest-sum](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0410-split-array-largest-sum) |
 | [0413-arithmetic-slices](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0413-arithmetic-slices) |
 | [0416-partition-equal-subset-sum](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0416-partition-equal-subset-sum) |
@@ -489,6 +490,7 @@
 ## Memoization
 |  |
 | ------- |
+| [0397-integer-replacement](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0397-integer-replacement) |
 | [1013-fibonacci-number](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/1013-fibonacci-number) |
 ## Two Pointers
 |  |
@@ -560,6 +562,7 @@
 | [0287-find-the-duplicate-number](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0287-find-the-duplicate-number) |
 | [0342-power-of-four](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0389-find-the-difference) |
+| [0397-integer-replacement](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0397-integer-replacement) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2401-longest-nice-subarray](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2401-longest-nice-subarray) |
 | [2754-maximum-strength-of-a-group](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2754-maximum-strength-of-a-group) |
@@ -923,6 +926,7 @@
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0135-candy](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0135-candy) |
 | [0179-largest-number](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0179-largest-number) |
+| [0397-integer-replacement](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0397-integer-replacement) |
 | [0402-remove-k-digits](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0402-remove-k-digits) |
 | [0409-longest-palindrome](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0409-longest-palindrome) |
 | [0410-split-array-largest-sum](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0410-split-array-largest-sum) |
