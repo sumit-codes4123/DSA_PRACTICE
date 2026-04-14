@@ -27,6 +27,7 @@
 | [0326-power-of-three](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0367-valid-perfect-square) |
+| [0396-rotate-function](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0396-rotate-function) |
 | [0445-add-two-numbers-ii](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0445-add-two-numbers-ii) |
 | [0507-perfect-number](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0507-perfect-number) |
 | [0523-continuous-subarray-sum](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0523-continuous-subarray-sum) |
@@ -191,6 +192,7 @@
 | [0322-coin-change](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0349-intersection-of-two-arrays) |
+| [0396-rotate-function](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0396-rotate-function) |
 | [0410-split-array-largest-sum](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0410-split-array-largest-sum) |
 | [0413-arithmetic-slices](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0413-arithmetic-slices) |
 | [0416-partition-equal-subset-sum](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0416-partition-equal-subset-sum) |
@@ -460,6 +462,7 @@
 | [0264-ugly-number-ii](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0264-ugly-number-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0322-coin-change) |
+| [0396-rotate-function](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0396-rotate-function) |
 | [0397-integer-replacement](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0397-integer-replacement) |
 | [0410-split-array-largest-sum](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0410-split-array-largest-sum) |
 | [0413-arithmetic-slices](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0413-arithmetic-slices) |
