@@ -610,6 +610,7 @@
 | [0556-next-greater-element-iii](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0556-next-greater-element-iii) |
 | [0567-permutation-in-string](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0567-permutation-in-string) |
 | [0583-delete-operation-for-two-strings](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0583-delete-operation-for-two-strings) |
+| [0606-construct-string-from-binary-tree](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0606-construct-string-from-binary-tree) |
 | [0649-dota2-senate](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0649-dota2-senate) |
 | [0657-robot-return-to-origin](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0657-robot-return-to-origin) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
@@ -1171,6 +1172,7 @@
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 | [0449-serialize-and-deserialize-bst](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0449-serialize-and-deserialize-bst) |
 | [0450-delete-node-in-a-bst](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0450-delete-node-in-a-bst) |
+| [0606-construct-string-from-binary-tree](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0606-construct-string-from-binary-tree) |
 | [0654-maximum-binary-tree](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0654-maximum-binary-tree) |
 | [0655-print-binary-tree](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0655-print-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0662-maximum-width-of-binary-tree) |
@@ -1215,6 +1217,7 @@
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0449-serialize-and-deserialize-bst](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0449-serialize-and-deserialize-bst) |
+| [0606-construct-string-from-binary-tree](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0606-construct-string-from-binary-tree) |
 | [0655-print-binary-tree](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0655-print-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0662-maximum-width-of-binary-tree) |
 | [0687-longest-univalue-path](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0687-longest-univalue-path) |
@@ -1261,6 +1264,7 @@
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 | [0449-serialize-and-deserialize-bst](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0449-serialize-and-deserialize-bst) |
 | [0450-delete-node-in-a-bst](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0450-delete-node-in-a-bst) |
+| [0606-construct-string-from-binary-tree](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0606-construct-string-from-binary-tree) |
 | [0654-maximum-binary-tree](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0654-maximum-binary-tree) |
 | [0655-print-binary-tree](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0655-print-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0662-maximum-width-of-binary-tree) |
