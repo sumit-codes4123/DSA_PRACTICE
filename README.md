@@ -95,6 +95,7 @@
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/3676-smallest-number-with-all-set-bits) |
+| [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3830-find-closest-person](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/3830-find-closest-person) |
 | [3859-maximum-product-of-two-digits](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/3859-maximum-product-of-two-digits) |
 | [3918-check-divisibility-by-digit-sum-and-product](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/3918-check-divisibility-by-digit-sum-and-product) |
@@ -384,6 +385,7 @@
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3634-minimum-removals-to-balance-array](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/3634-minimum-removals-to-balance-array) |
+| [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3778-transform-array-by-parity](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/3778-transform-array-by-parity) |
 | [3862-find-the-smallest-balanced-index](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/3862-find-the-smallest-balanced-index) |
 ## Binary Search
@@ -808,6 +810,7 @@
 | [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+| [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Sorting
 |  |
