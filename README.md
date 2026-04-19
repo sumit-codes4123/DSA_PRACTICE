@@ -31,6 +31,7 @@
 | [0445-add-two-numbers-ii](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0445-add-two-numbers-ii) |
 | [0507-perfect-number](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0507-perfect-number) |
 | [0523-continuous-subarray-sum](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0523-continuous-subarray-sum) |
+| [0553-optimal-division](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0553-optimal-division) |
 | [0556-next-greater-element-iii](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0556-next-greater-element-iii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0628-maximum-product-of-three-numbers) |
 | [0728-self-dividing-numbers](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0728-self-dividing-numbers) |
@@ -211,6 +212,7 @@
 | [0525-contiguous-array](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0525-contiguous-array) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0540-single-element-in-a-sorted-array) |
+| [0553-optimal-division](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0553-optimal-division) |
 | [0560-subarray-sum-equals-k](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0560-subarray-sum-equals-k) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0628-maximum-product-of-three-numbers](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0628-maximum-product-of-three-numbers) |
@@ -478,6 +480,7 @@
 | [0494-target-sum](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0494-target-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0518-coin-change-ii) |
+| [0553-optimal-division](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0553-optimal-division) |
 | [0583-delete-operation-for-two-strings](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0583-delete-operation-for-two-strings) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0845-longest-mountain-in-array](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0845-longest-mountain-in-array) |
