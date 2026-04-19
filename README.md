@@ -539,6 +539,7 @@
 | [0567-permutation-in-string](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0567-permutation-in-string) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0763-partition-labels](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0763-partition-labels) |
+| [0777-swap-adjacent-in-lr-string](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0777-swap-adjacent-in-lr-string) |
 | [0845-longest-mountain-in-array](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0845-longest-mountain-in-array) |
 | [0908-middle-of-the-linked-list](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0908-middle-of-the-linked-list) |
 | [0941-sort-array-by-parity](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0941-sort-array-by-parity) |
@@ -622,6 +623,7 @@
 | [0657-robot-return-to-origin](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0657-robot-return-to-origin) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0763-partition-labels](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0763-partition-labels) |
+| [0777-swap-adjacent-in-lr-string](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0777-swap-adjacent-in-lr-string) |
 | [0812-rotate-string](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0812-rotate-string) |
 | [0848-shifting-letters](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0848-shifting-letters) |
 | [0953-reverse-only-letters](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0953-reverse-only-letters) |
