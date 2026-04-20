@@ -34,6 +34,7 @@
 | [0553-optimal-division](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0553-optimal-division) |
 | [0556-next-greater-element-iii](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0556-next-greater-element-iii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0628-maximum-product-of-three-numbers) |
+| [0650-2-keys-keyboard](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0650-2-keys-keyboard) |
 | [0728-self-dividing-numbers](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0728-self-dividing-numbers) |
 | [0909-stone-game](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0909-stone-game) |
 | [1013-fibonacci-number](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/1013-fibonacci-number) |
@@ -482,6 +483,7 @@
 | [0518-coin-change-ii](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0518-coin-change-ii) |
 | [0553-optimal-division](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0553-optimal-division) |
 | [0583-delete-operation-for-two-strings](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0583-delete-operation-for-two-strings) |
+| [0650-2-keys-keyboard](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0650-2-keys-keyboard) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0845-longest-mountain-in-array](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0845-longest-mountain-in-array) |
 | [0909-stone-game](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0909-stone-game) |
