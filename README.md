@@ -362,6 +362,7 @@
 | [3185-count-pairs-that-form-a-complete-day-ii](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/3185-count-pairs-that-form-a-complete-day-ii) |
 | [3186-minimum-sum-of-mountain-triplets-ii](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/3186-minimum-sum-of-mountain-triplets-ii) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+| [3192-minimum-operations-to-make-binary-array-elements-equal-to-one-ii](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/3192-minimum-operations-to-make-binary-array-elements-equal-to-one-ii) |
 | [3193-maximum-strong-pair-xor-i](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/3193-maximum-strong-pair-xor-i) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/3206-find-common-elements-between-two-arrays) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
@@ -501,6 +502,7 @@
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2690-house-robber-iv](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2690-house-robber-iv) |
 | [2754-maximum-strength-of-a-group](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2754-maximum-strength-of-a-group) |
+| [3192-minimum-operations-to-make-binary-array-elements-equal-to-one-ii](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/3192-minimum-operations-to-make-binary-array-elements-equal-to-one-ii) |
 | [3579-minimum-steps-to-convert-string-with-operations](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/3579-minimum-steps-to-convert-string-with-operations) |
 ## Memoization
 |  |
@@ -990,6 +992,7 @@
 | [3094-minimum-number-of-operations-to-make-array-empty](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/3094-minimum-number-of-operations-to-make-array-empty) |
 | [3151-minimum-processing-time](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/3151-minimum-processing-time) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
+| [3192-minimum-operations-to-make-binary-array-elements-equal-to-one-ii](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/3192-minimum-operations-to-make-binary-array-elements-equal-to-one-ii) |
 | [3195-separate-black-and-white-balls](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/3195-separate-black-and-white-balls) |
 | [3244-minimize-length-of-array-using-operations](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/3244-minimize-length-of-array-using-operations) |
 | [3334-apple-redistribution-into-boxes](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/3334-apple-redistribution-into-boxes) |
