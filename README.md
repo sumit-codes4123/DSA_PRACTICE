@@ -636,6 +636,7 @@
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1529-minimum-suffix-flips](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/1529-minimum-suffix-flips) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1657-determine-if-two-strings-are-close](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/1657-determine-if-two-strings-are-close) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
@@ -963,6 +964,7 @@
 | [1247-minimum-swaps-to-make-strings-equal](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/1247-minimum-swaps-to-make-strings-equal) |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [1303-minimum-moves-to-reach-target-score](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/1303-minimum-moves-to-reach-target-score) |
+| [1529-minimum-suffix-flips](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/1529-minimum-suffix-flips) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/1877-minimize-maximum-pair-sum-in-array) |
