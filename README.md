@@ -310,6 +310,7 @@
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2398-check-if-matrix-is-x-matrix](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2398-check-if-matrix-is-x-matrix) |
 | [2401-longest-nice-subarray](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2401-longest-nice-subarray) |
+| [2452-words-within-two-edits-of-dictionary](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2486-most-frequent-even-element](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2486-most-frequent-even-element) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
@@ -655,6 +656,7 @@
 | [2346-largest-3-same-digit-number-in-string](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2377-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2377-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2405-optimal-partition-of-string](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2405-optimal-partition-of-string) |
+| [2452-words-within-two-edits-of-dictionary](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2470-removing-stars-from-a-string](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2470-removing-stars-from-a-string) |
 | [2492-length-of-the-longest-alphabetical-continuous-substring](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2492-length-of-the-longest-alphabetical-continuous-substring) |
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
@@ -1351,6 +1353,7 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0014-longest-common-prefix) |
+| [2452-words-within-two-edits-of-dictionary](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [3193-maximum-strong-pair-xor-i](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/3193-maximum-strong-pair-xor-i) |
 ## Brainteaser
 |  |
