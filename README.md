@@ -372,6 +372,7 @@
 | [3215-matrix-similarity-after-cyclic-shifts](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/3215-matrix-similarity-after-cyclic-shifts) |
 | [3220-count-tested-devices-after-test-operations](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/3220-count-tested-devices-after-test-operations) |
 | [3221-find-the-peaks](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/3221-find-the-peaks) |
+| [3225-maximum-score-from-grid-operations](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/3225-maximum-score-from-grid-operations) |
 | [3226-minimum-number-game](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/3226-minimum-number-game) |
 | [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/3242-count-elements-with-maximum-frequency) |
@@ -506,6 +507,7 @@
 | [2690-house-robber-iv](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2690-house-robber-iv) |
 | [2754-maximum-strength-of-a-group](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2754-maximum-strength-of-a-group) |
 | [3192-minimum-operations-to-make-binary-array-elements-equal-to-one-ii](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/3192-minimum-operations-to-make-binary-array-elements-equal-to-one-ii) |
+| [3225-maximum-score-from-grid-operations](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/3225-maximum-score-from-grid-operations) |
 | [3579-minimum-steps-to-convert-string-with-operations](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/3579-minimum-steps-to-convert-string-with-operations) |
 ## Memoization
 |  |
@@ -750,6 +752,7 @@
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3215-matrix-similarity-after-cyclic-shifts](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/3215-matrix-similarity-after-cyclic-shifts) |
+| [3225-maximum-score-from-grid-operations](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/3225-maximum-score-from-grid-operations) |
 | [3330-modify-the-matrix](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/3330-modify-the-matrix) |
 ## Hash Table
 |  |
@@ -1084,6 +1087,7 @@
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
+| [3225-maximum-score-from-grid-operations](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/3225-maximum-score-from-grid-operations) |
 | [3355-minimum-levels-to-gain-more-points](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/3355-minimum-levels-to-gain-more-points) |
 | [3422-find-the-n-th-value-after-k-seconds](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/3422-find-the-n-th-value-after-k-seconds) |
 | [3862-find-the-smallest-balanced-index](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/3862-find-the-smallest-balanced-index) |
