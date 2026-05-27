@@ -670,6 +670,7 @@
 | [2887-sort-vowels-in-a-string](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2887-sort-vowels-in-a-string) |
 | [3019-furthest-point-from-origin](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/3019-furthest-point-from-origin) |
 | [3046-minimum-operations-to-make-a-special-number](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/3046-minimum-operations-to-make-a-special-number) |
+| [3121-count-the-number-of-special-characters-ii](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3195-separate-black-and-white-balls](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/3195-separate-black-and-white-balls) |
 | [3447-clear-digits](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/3447-clear-digits) |
 | [3462-vowels-game-in-a-string](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/3462-vowels-game-in-a-string) |
@@ -828,6 +829,7 @@
 | [3034-points-that-intersect-with-cars](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/3034-points-that-intersect-with-cars) |
 | [3081-minimum-array-length-after-pair-removals](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/3081-minimum-array-length-after-pair-removals) |
 | [3094-minimum-number-of-operations-to-make-array-empty](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/3094-minimum-number-of-operations-to-make-array-empty) |
+| [3121-count-the-number-of-special-characters-ii](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3164-find-the-number-of-good-pairs-ii](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/3164-find-the-number-of-good-pairs-ii) |
 | [3185-count-pairs-that-form-a-complete-day-ii](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/3185-count-pairs-that-form-a-complete-day-ii) |
 | [3193-maximum-strong-pair-xor-i](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/3193-maximum-strong-pair-xor-i) |
