@@ -678,6 +678,7 @@
 | [3579-minimum-steps-to-convert-string-with-operations](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/3579-minimum-steps-to-convert-string-with-operations) |
 | [3811-reverse-degree-of-a-string](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/3811-reverse-degree-of-a-string) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/3872-find-most-frequent-vowel-and-consonant) |
+| [3922-minimum-flips-to-make-binary-string-coherent](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/3922-minimum-flips-to-make-binary-string-coherent) |
 ## Combinatorics
 |  |
 | ------- |
