@@ -102,6 +102,7 @@
 | [3830-find-closest-person](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/3830-find-closest-person) |
 | [3859-maximum-product-of-two-digits](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/3859-maximum-product-of-two-digits) |
 | [3918-check-divisibility-by-digit-sum-and-product](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/3918-check-divisibility-by-digit-sum-and-product) |
+| [3932-count-k-th-roots-in-a-range](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/3932-count-k-th-roots-in-a-range) |
 ## Recursion
 |  |
 | ------- |
@@ -448,6 +449,7 @@
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3081-minimum-array-length-after-pair-removals](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/3081-minimum-array-length-after-pair-removals) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
+| [3932-count-k-th-roots-in-a-range](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/3932-count-k-th-roots-in-a-range) |
 ## Dynamic Programming
 |  |
 | ------- |
