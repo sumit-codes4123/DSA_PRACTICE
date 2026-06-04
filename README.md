@@ -216,6 +216,7 @@
 | [0540-single-element-in-a-sorted-array](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0540-single-element-in-a-sorted-array) |
 | [0553-optimal-division](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0553-optimal-division) |
 | [0560-subarray-sum-equals-k](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0560-subarray-sum-equals-k) |
+| [0566-reshape-the-matrix](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0566-reshape-the-matrix) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0628-maximum-product-of-three-numbers](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0643-maximum-average-subarray-i) |
@@ -738,6 +739,7 @@
 | [0074-search-a-2d-matrix](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0074-search-a-2d-matrix) |
 | [0085-maximal-rectangle](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0085-maximal-rectangle) |
 | [0240-search-a-2d-matrix-ii](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0240-search-a-2d-matrix-ii) |
+| [0566-reshape-the-matrix](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0566-reshape-the-matrix) |
 | [0777-toeplitz-matrix](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0777-toeplitz-matrix) |
 | [0898-transpose-matrix](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0898-transpose-matrix) |
 | [0931-minimum-falling-path-sum](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0931-minimum-falling-path-sum) |
@@ -1018,6 +1020,7 @@
 | ------- |
 | [0054-spiral-matrix](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0054-spiral-matrix) |
 | [0258-add-digits](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0258-add-digits) |
+| [0566-reshape-the-matrix](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0566-reshape-the-matrix) |
 | [0657-robot-return-to-origin](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0657-robot-return-to-origin) |
 | [0735-asteroid-collision](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0735-asteroid-collision) |
 | [0898-transpose-matrix](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0898-transpose-matrix) |
