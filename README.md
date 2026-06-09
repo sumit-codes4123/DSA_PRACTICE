@@ -399,6 +399,7 @@
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3634-minimum-removals-to-balance-array](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/3634-minimum-removals-to-balance-array) |
+| [3689-maximum-total-subarray-value-i](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/3689-maximum-total-subarray-value-i) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3778-transform-array-by-parity](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/3778-transform-array-by-parity) |
 | [3862-find-the-smallest-balanced-index](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/3862-find-the-smallest-balanced-index) |
@@ -1021,6 +1022,7 @@
 | [3244-minimize-length-of-array-using-operations](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/3244-minimize-length-of-array-using-operations) |
 | [3334-apple-redistribution-into-boxes](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/3334-apple-redistribution-into-boxes) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
+| [3689-maximum-total-subarray-value-i](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/3689-maximum-total-subarray-value-i) |
 ## Simulation
 |  |
 | ------- |
