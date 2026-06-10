@@ -630,6 +630,7 @@
 | [0424-longest-repeating-character-replacement](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0449-serialize-and-deserialize-bst](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0449-serialize-and-deserialize-bst) |
+| [0459-repeated-substring-pattern](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0459-repeated-substring-pattern) |
 | [0474-ones-and-zeroes](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0474-ones-and-zeroes) |
 | [0481-magical-string](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0481-magical-string) |
 | [0516-longest-palindromic-subsequence](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0516-longest-palindromic-subsequence) |
@@ -1403,6 +1404,7 @@
 ## String Matching
 |  |
 | ------- |
+| [0459-repeated-substring-pattern](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0459-repeated-substring-pattern) |
 | [0812-rotate-string](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0812-rotate-string) |
 ## Heap (Priority Queue)
 |  |
