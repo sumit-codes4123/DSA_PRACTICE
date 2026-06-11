@@ -118,6 +118,7 @@
 | [0234-palindrome-linked-list](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0234-palindrome-linked-list) |
 | [0326-power-of-three](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0342-power-of-four) |
+| [0394-decode-string](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0394-decode-string) |
 | [1013-fibonacci-number](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/1013-fibonacci-number) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2573-remove-nodes-from-linked-list](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2573-remove-nodes-from-linked-list) |
@@ -625,6 +626,7 @@
 | [0344-reverse-string](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0389-find-the-difference) |
+| [0394-decode-string](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0402-remove-k-digits) |
 | [0409-longest-palindrome](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0409-longest-palindrome) |
 | [0424-longest-repeating-character-replacement](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0424-longest-repeating-character-replacement) |
@@ -1175,6 +1177,7 @@
 | [0173-binary-search-tree-iterator](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0173-binary-search-tree-iterator) |
 | [0234-palindrome-linked-list](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0234-palindrome-linked-list) |
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
+| [0394-decode-string](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0402-remove-k-digits) |
 | [0445-add-two-numbers-ii](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0445-add-two-numbers-ii) |
 | [0503-next-greater-element-ii](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0503-next-greater-element-ii) |
