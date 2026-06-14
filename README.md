@@ -569,6 +569,7 @@
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2105-watering-plants-ii](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2105-watering-plants-ii) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
@@ -1193,6 +1194,7 @@
 | [1441-build-an-array-with-stack-operations](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/1441-build-an-array-with-stack-operations) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/1944-number-of-visible-people-in-a-queue) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2227-sum-of-subarray-ranges](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2227-sum-of-subarray-ranges) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2470-removing-stars-from-a-string](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2470-removing-stars-from-a-string) |
@@ -1370,6 +1372,7 @@
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1367-linked-list-in-binary-tree](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/1367-linked-list-in-binary-tree) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2573-remove-nodes-from-linked-list](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2573-remove-nodes-from-linked-list) |
