@@ -728,6 +728,7 @@
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0322-coin-change](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0322-coin-change) |
 | [0449-serialize-and-deserialize-bst](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0449-serialize-and-deserialize-bst) |
+| [0547-number-of-provinces](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0547-number-of-provinces) |
 | [0655-print-binary-tree](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0655-print-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0662-maximum-width-of-binary-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
@@ -1273,6 +1274,7 @@
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0449-serialize-and-deserialize-bst](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0449-serialize-and-deserialize-bst) |
+| [0547-number-of-provinces](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0547-number-of-provinces) |
 | [0606-construct-string-from-binary-tree](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0606-construct-string-from-binary-tree) |
 | [0655-print-binary-tree](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0655-print-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0662-maximum-width-of-binary-tree) |
@@ -1511,4 +1513,12 @@
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0173-binary-search-tree-iterator) |
+## Union-Find
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0547-number-of-provinces) |
+## Graph Theory
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0547-number-of-provinces) |
 <!---LeetCode Topics End-->
