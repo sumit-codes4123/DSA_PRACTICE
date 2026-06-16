@@ -247,6 +247,7 @@
 | [0958-sort-array-by-parity-ii](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0958-sort-array-by-parity-ii) |
 | [0986-interval-list-intersections](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0986-interval-list-intersections) |
 | [0992-subarrays-with-k-different-integers](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0992-subarrays-with-k-different-integers) |
+| [0994-rotting-oranges](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0994-rotting-oranges) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/1004-max-consecutive-ones-iii) |
 | [1010-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/1010-pairs-of-songs-with-total-durations-divisible-by-60) |
@@ -735,6 +736,7 @@
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0945-snakes-and-ladders](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0945-snakes-and-ladders) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [0994-rotting-oranges](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0994-rotting-oranges) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1302-deepest-leaves-sum](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/1302-deepest-leaves-sum) |
@@ -757,6 +759,7 @@
 | [0898-transpose-matrix](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0898-transpose-matrix) |
 | [0931-minimum-falling-path-sum](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0931-minimum-falling-path-sum) |
 | [0945-snakes-and-ladders](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0945-snakes-and-ladders) |
+| [0994-rotting-oranges](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0994-rotting-oranges) |
 | [1289-minimum-falling-path-sum-ii](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/1289-minimum-falling-path-sum-ii) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1677-matrix-diagonal-sum](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/1677-matrix-diagonal-sum) |
