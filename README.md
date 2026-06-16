@@ -691,6 +691,7 @@
 | [3462-vowels-game-in-a-string](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/3462-vowels-game-in-a-string) |
 | [3553-check-if-two-chessboard-squares-have-the-same-color](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/3553-check-if-two-chessboard-squares-have-the-same-color) |
 | [3579-minimum-steps-to-convert-string-with-operations](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/3579-minimum-steps-to-convert-string-with-operations) |
+| [3612-process-string-with-special-operations-i](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/3612-process-string-with-special-operations-i) |
 | [3811-reverse-degree-of-a-string](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/3811-reverse-degree-of-a-string) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 | [3922-minimum-flips-to-make-binary-string-coherent](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/3922-minimum-flips-to-make-binary-string-coherent) |
@@ -1067,6 +1068,7 @@
 | [3447-clear-digits](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/3447-clear-digits) |
 | [3450-find-the-child-who-has-the-ball-after-k-seconds](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/3450-find-the-child-who-has-the-ball-after-k-seconds) |
 | [3511-find-the-winning-player-in-coin-game](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/3511-find-the-winning-player-in-coin-game) |
+| [3612-process-string-with-special-operations-i](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/3612-process-string-with-special-operations-i) |
 | [3811-reverse-degree-of-a-string](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/3811-reverse-degree-of-a-string) |
 ## Union Find
 |  |
