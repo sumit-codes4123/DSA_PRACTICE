@@ -215,6 +215,7 @@
 | [0525-contiguous-array](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0525-contiguous-array) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0540-single-element-in-a-sorted-array) |
+| [0542-01-matrix](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0542-01-matrix) |
 | [0553-optimal-division](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0553-optimal-division) |
 | [0560-subarray-sum-equals-k](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0560-subarray-sum-equals-k) |
 | [0566-reshape-the-matrix](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0566-reshape-the-matrix) |
@@ -495,6 +496,7 @@
 | [0494-target-sum](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0494-target-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0518-coin-change-ii) |
+| [0542-01-matrix](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0542-01-matrix) |
 | [0553-optimal-division](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0553-optimal-division) |
 | [0583-delete-operation-for-two-strings](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0583-delete-operation-for-two-strings) |
 | [0650-2-keys-keyboard](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0650-2-keys-keyboard) |
@@ -731,6 +733,7 @@
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0322-coin-change](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0322-coin-change) |
 | [0449-serialize-and-deserialize-bst](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0449-serialize-and-deserialize-bst) |
+| [0542-01-matrix](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0547-number-of-provinces) |
 | [0655-print-binary-tree](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0655-print-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0662-maximum-width-of-binary-tree) |
@@ -756,6 +759,7 @@
 | [0074-search-a-2d-matrix](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0074-search-a-2d-matrix) |
 | [0085-maximal-rectangle](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0085-maximal-rectangle) |
 | [0240-search-a-2d-matrix-ii](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0240-search-a-2d-matrix-ii) |
+| [0542-01-matrix](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0542-01-matrix) |
 | [0566-reshape-the-matrix](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0566-reshape-the-matrix) |
 | [0733-flood-fill](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0733-flood-fill) |
 | [0777-toeplitz-matrix](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0777-toeplitz-matrix) |
