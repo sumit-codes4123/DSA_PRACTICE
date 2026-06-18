@@ -226,6 +226,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0643-maximum-average-subarray-i) |
 | [0654-maximum-binary-tree](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0654-maximum-binary-tree) |
+| [0695-max-area-of-island](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0695-max-area-of-island) |
 | [0713-subarray-product-less-than-k](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0733-flood-fill) |
@@ -744,6 +745,7 @@
 | [0547-number-of-provinces](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0547-number-of-provinces) |
 | [0655-print-binary-tree](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0655-print-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0662-maximum-width-of-binary-tree) |
+| [0695-max-area-of-island](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0733-flood-fill) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0945-snakes-and-ladders](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0945-snakes-and-ladders) |
@@ -773,6 +775,7 @@
 | [0419-battleships-in-a-board](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0419-battleships-in-a-board) |
 | [0542-01-matrix](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0542-01-matrix) |
 | [0566-reshape-the-matrix](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0566-reshape-the-matrix) |
+| [0695-max-area-of-island](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0733-flood-fill) |
 | [0777-toeplitz-matrix](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0777-toeplitz-matrix) |
 | [0898-transpose-matrix](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0898-transpose-matrix) |
@@ -1308,6 +1311,7 @@
 | [0655-print-binary-tree](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0655-print-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0662-maximum-width-of-binary-tree) |
 | [0687-longest-univalue-path](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0687-longest-univalue-path) |
+| [0695-max-area-of-island](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0733-flood-fill) |
 | [0814-binary-tree-pruning](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0814-binary-tree-pruning) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
@@ -1551,6 +1555,7 @@
 | [0130-surrounded-regions](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0547-number-of-provinces) |
+| [0695-max-area-of-island](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0695-max-area-of-island) |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2658-maximum-number-of-fish-in-a-grid) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Graph Theory
