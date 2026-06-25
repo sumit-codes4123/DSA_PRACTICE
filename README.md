@@ -264,6 +264,7 @@
 | [1031-add-to-array-form-of-integer](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/1031-add-to-array-form-of-integer) |
 | [1035-uncrossed-lines](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/1035-uncrossed-lines) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/1056-capacity-to-ship-packages-within-d-days) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1094-car-pooling](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/1094-car-pooling) |
 | [1110-delete-nodes-and-return-forest](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/1110-delete-nodes-and-return-forest) |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
@@ -764,6 +765,7 @@
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0994-rotting-oranges](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/1020-number-of-enclaves) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1302-deepest-leaves-sum](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/1302-deepest-leaves-sum) |
@@ -796,6 +798,7 @@
 | [0945-snakes-and-ladders](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0945-snakes-and-ladders) |
 | [0994-rotting-oranges](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/1020-number-of-enclaves) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1289-minimum-falling-path-sum-ii](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/1289-minimum-falling-path-sum-ii) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1677-matrix-diagonal-sum](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/1677-matrix-diagonal-sum) |
