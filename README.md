@@ -512,6 +512,7 @@
 | [0583-delete-operation-for-two-strings](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0583-delete-operation-for-two-strings) |
 | [0650-2-keys-keyboard](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0650-2-keys-keyboard) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0845-longest-mountain-in-array](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0845-longest-mountain-in-array) |
 | [0909-stone-game](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0909-stone-game) |
 | [0931-minimum-falling-path-sum](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0931-minimum-falling-path-sum) |
@@ -761,6 +762,7 @@
 | [0695-max-area-of-island](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0733-flood-fill) |
 | [0785-is-graph-bipartite](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0785-is-graph-bipartite) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0802-find-eventual-safe-states) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0945-snakes-and-ladders](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0945-snakes-and-ladders) |
@@ -1342,6 +1344,7 @@
 | [0695-max-area-of-island](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0733-flood-fill) |
 | [0785-is-graph-bipartite](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0785-is-graph-bipartite) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0802-find-eventual-safe-states) |
 | [0814-binary-tree-pruning](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0814-binary-tree-pruning) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
@@ -1490,6 +1493,7 @@
 | [0239-sliding-window-maximum](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0239-sliding-window-maximum) |
 | [0264-ugly-number-ii](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0264-ugly-number-ii) |
 | [0347-top-k-frequent-elements](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0347-top-k-frequent-elements) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1094-car-pooling](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/1094-car-pooling) |
 | [1631-path-with-minimum-effort](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/1631-path-with-minimum-effort) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2692-take-gifts-from-the-richest-pile) |
@@ -1603,6 +1607,7 @@
 | [0210-course-schedule-ii](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0785-is-graph-bipartite) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0802-find-eventual-safe-states) |
 ## Topological Sort
 |  |
@@ -1610,4 +1615,8 @@
 | [0207-course-schedule](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0210-course-schedule-ii) |
 | [0802-find-eventual-safe-states](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0802-find-eventual-safe-states) |
+## Shortest Path
+|  |
+| ------- |
+| [0787-cheapest-flights-within-k-stops](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0787-cheapest-flights-within-k-stops) |
 <!---LeetCode Topics End-->
