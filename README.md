@@ -779,6 +779,7 @@
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1302-deepest-leaves-sum](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/1302-deepest-leaves-sum) |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
+| [1319-number-of-operations-to-make-network-connected](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1631-path-with-minimum-effort](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/1631-path-with-minimum-effort) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
@@ -1366,6 +1367,7 @@
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1302-deepest-leaves-sum](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/1302-deepest-leaves-sum) |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
+| [1319-number-of-operations-to-make-network-connected](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1325-delete-leaves-with-a-given-value](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/1325-delete-leaves-with-a-given-value) |
 | [1367-linked-list-in-binary-tree](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/1367-linked-list-in-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/1448-count-good-nodes-in-binary-tree) |
@@ -1606,6 +1608,7 @@
 | [0695-max-area-of-island](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0695-max-area-of-island) |
 | [0785-is-graph-bipartite](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0785-is-graph-bipartite) |
 | [1020-number-of-enclaves](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/1020-number-of-enclaves) |
+| [1319-number-of-operations-to-make-network-connected](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1584-min-cost-to-connect-all-points](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/1584-min-cost-to-connect-all-points) |
 | [1631-path-with-minimum-effort](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/1631-path-with-minimum-effort) |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2658-maximum-number-of-fish-in-a-grid) |
@@ -1620,6 +1623,7 @@
 | [0785-is-graph-bipartite](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0802-find-eventual-safe-states) |
+| [1319-number-of-operations-to-make-network-connected](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1584-min-cost-to-connect-all-points](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/1584-min-cost-to-connect-all-points) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/1976-number-of-ways-to-arrive-at-destination) |
