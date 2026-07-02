@@ -1380,6 +1380,7 @@
 | [1110-delete-nodes-and-return-forest](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/1110-delete-nodes-and-return-forest) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1192-critical-connections-in-a-network](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/1192-critical-connections-in-a-network) |
 | [1302-deepest-leaves-sum](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/1302-deepest-leaves-sum) |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/1319-number-of-operations-to-make-network-connected) |
@@ -1643,6 +1644,7 @@
 | [0787-cheapest-flights-within-k-stops](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0802-find-eventual-safe-states) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0947-most-stones-removed-with-same-row-or-column) |
+| [1192-critical-connections-in-a-network](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/1192-critical-connections-in-a-network) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1584-min-cost-to-connect-all-points](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/1584-min-cost-to-connect-all-points) |
@@ -1667,4 +1669,8 @@
 |  |
 | ------- |
 | [1584-min-cost-to-connect-all-points](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/1584-min-cost-to-connect-all-points) |
+## Biconnected Component
+|  |
+| ------- |
+| [1192-critical-connections-in-a-network](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/1192-critical-connections-in-a-network) |
 <!---LeetCode Topics End-->
