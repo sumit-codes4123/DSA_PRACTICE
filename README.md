@@ -402,6 +402,7 @@
 | [3254-find-the-power-of-k-size-subarrays-i](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/3254-find-the-power-of-k-size-subarrays-i) |
 | [3255-find-the-power-of-k-size-subarrays-ii](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/3255-find-the-power-of-k-size-subarrays-ii) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3321-type-of-triangle](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/3321-type-of-triangle) |
 | [3330-modify-the-matrix](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/3330-modify-the-matrix) |
 | [3331-minimum-operations-to-exceed-threshold-value-i](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/3331-minimum-operations-to-exceed-threshold-value-i) |
@@ -790,6 +791,7 @@
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 | [2641-cousins-in-binary-tree-ii](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2641-cousins-in-binary-tree-ii) |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2658-maximum-number-of-fish-in-a-grid) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Matrix
 |  |
@@ -834,6 +836,7 @@
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3215-matrix-similarity-after-cyclic-shifts](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/3215-matrix-similarity-after-cyclic-shifts) |
 | [3225-maximum-score-from-grid-operations](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/3225-maximum-score-from-grid-operations) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3330-modify-the-matrix](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/3330-modify-the-matrix) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Hash Table
@@ -1524,6 +1527,7 @@
 | [2728-sum-in-a-matrix](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2728-sum-in-a-matrix) |
 | [3226-minimum-number-game](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/3226-minimum-number-game) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -1643,6 +1647,7 @@
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1584-min-cost-to-connect-all-points](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/1584-min-cost-to-connect-all-points) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/1976-number-of-ways-to-arrive-at-destination) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Topological Sort
 |  |
 | ------- |
@@ -1657,6 +1662,7 @@
 | [0787-cheapest-flights-within-k-stops](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/1976-number-of-ways-to-arrive-at-destination) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Minimum Spanning Tree
 |  |
 | ------- |
