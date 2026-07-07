@@ -139,6 +139,7 @@
 | [0039-combination-sum](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0042-trapping-rain-water) |
+| [0045-jump-game-ii](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0045-jump-game-ii) |
 | [0048-rotate-image](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0053-maximum-subarray) |
@@ -484,6 +485,7 @@
 | [0022-generate-parentheses](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0042-trapping-rain-water) |
 | [0044-wildcard-matching](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0044-wildcard-matching) |
+| [0045-jump-game-ii](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0063-unique-paths-ii) |
@@ -1062,6 +1064,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0011-container-with-most-water) |
 | [0044-wildcard-matching](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0044-wildcard-matching) |
+| [0045-jump-game-ii](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0045-jump-game-ii) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0135-candy](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0135-candy) |
 | [0179-largest-number](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0179-largest-number) |
