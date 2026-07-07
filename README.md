@@ -271,6 +271,7 @@
 | [1094-car-pooling](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/1094-car-pooling) |
 | [1110-delete-nodes-and-return-forest](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/1110-delete-nodes-and-return-forest) |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
+| [1288-remove-covered-intervals](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/1288-remove-covered-intervals) |
 | [1289-minimum-falling-path-sum-ii](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/1289-minimum-falling-path-sum-ii) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -967,6 +968,7 @@
 | [1018-largest-perimeter-triangle](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/1018-largest-perimeter-triangle) |
 | [1019-squares-of-a-sorted-array](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/1019-squares-of-a-sorted-array) |
 | [1094-car-pooling](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/1094-car-pooling) |
+| [1288-remove-covered-intervals](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/1288-remove-covered-intervals) |
 | [1657-determine-if-two-strings-are-close](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/1657-determine-if-two-strings-are-close) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1742-widest-vertical-area-between-two-points-containing-no-points](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/1742-widest-vertical-area-between-two-points-containing-no-points) |
