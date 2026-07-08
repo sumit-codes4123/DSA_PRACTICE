@@ -335,6 +335,7 @@
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2398-check-if-matrix-is-x-matrix](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2398-check-if-matrix-is-x-matrix) |
 | [2401-longest-nice-subarray](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2401-longest-nice-subarray) |
+| [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2486-most-frequent-even-element](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2486-most-frequent-even-element) |
@@ -605,6 +606,7 @@
 | [2271-rearrange-array-elements-by-sign](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2392-successful-pairs-of-spells-and-potions) |
+| [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 | [2481-strictly-palindromic-number](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2481-strictly-palindromic-number) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2664-maximize-greatness-of-an-array](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2664-maximize-greatness-of-an-array) |
@@ -988,6 +990,7 @@
 | [2283-sort-even-and-odd-indices-independently](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2283-sort-even-and-odd-indices-independently) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2392-successful-pairs-of-spells-and-potions) |
+| [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2545-sort-the-students-by-their-kth-score) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
@@ -1097,6 +1100,7 @@
 | [2362-minimum-rounds-to-complete-all-tasks](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2362-minimum-rounds-to-complete-all-tasks) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2405-optimal-partition-of-string](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2405-optimal-partition-of-string) |
+| [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 | [2655-rearrange-array-to-maximize-prefix-score](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2655-rearrange-array-to-maximize-prefix-score) |
 | [2664-maximize-greatness-of-an-array](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2664-maximize-greatness-of-an-array) |
 | [2690-house-robber-iv](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2690-house-robber-iv) |
@@ -1191,6 +1195,7 @@
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2102-find-the-middle-index-in-array](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2102-find-the-middle-index-in-array) |
 | [2358-number-of-ways-to-split-array](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2358-number-of-ways-to-split-array) |
+| [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 | [2615-sum-of-distances](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2615-sum-of-distances) |
 | [2655-rearrange-array-to-maximize-prefix-score](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2655-rearrange-array-to-maximize-prefix-score) |
 | [2676-find-the-score-of-all-prefixes-of-an-array](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2676-find-the-score-of-all-prefixes-of-an-array) |
@@ -1537,6 +1542,7 @@
 | [1094-car-pooling](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/1094-car-pooling) |
 | [1631-path-with-minimum-effort](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/1631-path-with-minimum-effort) |
 | [1834-single-threaded-cpu](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/1834-single-threaded-cpu) |
+| [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2728-sum-in-a-matrix](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2728-sum-in-a-matrix) |
