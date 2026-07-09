@@ -325,6 +325,7 @@
 | [2269-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2269-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2274-keep-multiplying-found-values-by-two) |
+| [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
 | [2283-sort-even-and-odd-indices-independently](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2283-sort-even-and-odd-indices-independently) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2320-find-all-k-distant-indices-in-an-array) |
@@ -991,6 +992,7 @@
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2269-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2269-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2274-keep-multiplying-found-values-by-two) |
+| [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
 | [2283-sort-even-and-odd-indices-independently](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2283-sort-even-and-odd-indices-independently) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2392-successful-pairs-of-spells-and-potions) |
@@ -1102,6 +1104,7 @@
 | [2032-largest-odd-number-in-string](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2032-largest-odd-number-in-string) |
 | [2212-removing-minimum-and-maximum-from-array](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2212-removing-minimum-and-maximum-from-array) |
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
+| [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
 | [2337-remove-digit-from-number-to-maximize-result](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2337-remove-digit-from-number-to-maximize-result) |
 | [2362-minimum-rounds-to-complete-all-tasks](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2362-minimum-rounds-to-complete-all-tasks) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
