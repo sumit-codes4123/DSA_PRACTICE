@@ -804,6 +804,7 @@
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 | [2641-cousins-in-binary-tree-ii](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2641-cousins-in-binary-tree-ii) |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2658-maximum-number-of-fish-in-a-grid) |
+| [2685-count-the-number-of-complete-components](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2685-count-the-number-of-complete-components) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Matrix
@@ -1418,6 +1419,7 @@
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2641-cousins-in-binary-tree-ii](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2641-cousins-in-binary-tree-ii) |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2658-maximum-number-of-fish-in-a-grid) |
+| [2685-count-the-number-of-complete-components](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2685-count-the-number-of-complete-components) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Binary Tree
 |  |
@@ -1663,6 +1665,7 @@
 | [1584-min-cost-to-connect-all-points](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/1584-min-cost-to-connect-all-points) |
 | [1631-path-with-minimum-effort](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/1631-path-with-minimum-effort) |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2658-maximum-number-of-fish-in-a-grid) |
+| [2685-count-the-number-of-complete-components](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2685-count-the-number-of-complete-components) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Graph Theory
 |  |
@@ -1680,6 +1683,7 @@
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1584-min-cost-to-connect-all-points](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/1584-min-cost-to-connect-all-points) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/1976-number-of-ways-to-arrive-at-destination) |
+| [2685-count-the-number-of-complete-components](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2685-count-the-number-of-complete-components) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Topological Sort
 |  |
