@@ -706,6 +706,7 @@
 | [1970-sorting-the-sentence](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/1970-sorting-the-sentence) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2032-largest-odd-number-in-string](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2032-largest-odd-number-in-string) |
+| [2116-check-if-a-parentheses-string-can-be-valid](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2116-check-if-a-parentheses-string-can-be-valid) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2243-check-if-all-as-appears-before-all-bs](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2243-check-if-all-as-appears-before-all-bs) |
@@ -1103,6 +1104,7 @@
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1938-minimum-operations-to-make-the-array-increasing](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/1938-minimum-operations-to-make-the-array-increasing) |
 | [2032-largest-odd-number-in-string](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2032-largest-odd-number-in-string) |
+| [2116-check-if-a-parentheses-string-can-be-valid](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2116-check-if-a-parentheses-string-can-be-valid) |
 | [2212-removing-minimum-and-maximum-from-array](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2212-removing-minimum-and-maximum-from-array) |
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
@@ -1299,6 +1301,7 @@
 | [1441-build-an-array-with-stack-operations](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/1441-build-an-array-with-stack-operations) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/1944-number-of-visible-people-in-a-queue) |
+| [2116-check-if-a-parentheses-string-can-be-valid](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2116-check-if-a-parentheses-string-can-be-valid) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2227-sum-of-subarray-ranges](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2227-sum-of-subarray-ranges) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
