@@ -226,6 +226,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0560-subarray-sum-equals-k) |
 | [0566-reshape-the-matrix](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0566-reshape-the-matrix) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [0621-task-scheduler](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0621-task-scheduler) |
 | [0628-maximum-product-of-three-numbers](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0643-maximum-average-subarray-i) |
 | [0654-maximum-binary-tree](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0654-maximum-binary-tree) |
@@ -898,6 +899,7 @@
 | [0532-k-diff-pairs-in-an-array](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0567-permutation-in-string) |
+| [0621-task-scheduler](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0621-task-scheduler) |
 | [0721-accounts-merge](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0721-accounts-merge) |
 | [0763-partition-labels](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0763-partition-labels) |
 | [0817-linked-list-components](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0817-linked-list-components) |
@@ -978,6 +980,7 @@
 | [0455-assign-cookies](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0455-assign-cookies) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [0621-task-scheduler](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0621-task-scheduler) |
 | [0628-maximum-product-of-three-numbers](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0628-maximum-product-of-three-numbers) |
 | [0721-accounts-merge](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0721-accounts-merge) |
 | [0769-max-chunks-to-make-sorted](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0769-max-chunks-to-make-sorted) |
@@ -1058,6 +1061,7 @@
 | [0299-bulls-and-cows](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0299-bulls-and-cows) |
 | [0347-top-k-frequent-elements](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0383-ransom-note) |
+| [0621-task-scheduler](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0621-task-scheduler) |
 | [0992-subarrays-with-k-different-integers](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0992-subarrays-with-k-different-integers) |
 | [1010-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/1010-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
@@ -1099,6 +1103,7 @@
 | [0435-non-overlapping-intervals](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0455-assign-cookies) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [0621-task-scheduler](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0621-task-scheduler) |
 | [0649-dota2-senate](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0649-dota2-senate) |
 | [0678-valid-parenthesis-string](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0678-valid-parenthesis-string) |
 | [0763-partition-labels](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0763-partition-labels) |
@@ -1565,6 +1570,7 @@
 | [0239-sliding-window-maximum](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0239-sliding-window-maximum) |
 | [0264-ugly-number-ii](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0264-ugly-number-ii) |
 | [0347-top-k-frequent-elements](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0347-top-k-frequent-elements) |
+| [0621-task-scheduler](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0621-task-scheduler) |
 | [0743-network-delay-time](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0743-network-delay-time) |
 | [0778-swim-in-rising-water](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0778-swim-in-rising-water) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0787-cheapest-flights-within-k-stops) |
