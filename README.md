@@ -277,6 +277,7 @@
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [1288-remove-covered-intervals](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/1288-remove-covered-intervals) |
 | [1289-minimum-falling-path-sum-ii](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/1289-minimum-falling-path-sum-ii) |
+| [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
@@ -914,6 +915,7 @@
 | [1110-delete-nodes-and-return-forest](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/1110-delete-nodes-and-return-forest) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
+| [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/1510-find-lucky-integer-in-an-array) |
@@ -991,6 +993,7 @@
 | [1019-squares-of-a-sorted-array](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/1019-squares-of-a-sorted-array) |
 | [1094-car-pooling](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/1094-car-pooling) |
 | [1288-remove-covered-intervals](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/1288-remove-covered-intervals) |
+| [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1657-determine-if-two-strings-are-close](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/1657-determine-if-two-strings-are-close) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1710-maximum-units-on-a-truck](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/1710-maximum-units-on-a-truck) |
@@ -1112,6 +1115,7 @@
 | [1018-largest-perimeter-triangle](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/1018-largest-perimeter-triangle) |
 | [1247-minimum-swaps-to-make-strings-equal](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/1247-minimum-swaps-to-make-strings-equal) |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
+| [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1303-minimum-moves-to-reach-target-score](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/1303-minimum-moves-to-reach-target-score) |
 | [1529-minimum-suffix-flips](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/1529-minimum-suffix-flips) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
