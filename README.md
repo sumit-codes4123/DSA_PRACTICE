@@ -245,6 +245,7 @@
 | [0817-linked-list-components](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0817-linked-list-components) |
 | [0827-making-a-large-island](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0827-making-a-large-island) |
 | [0845-longest-mountain-in-array](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0845-longest-mountain-in-array) |
+| [0846-hand-of-straights](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0846-hand-of-straights) |
 | [0848-shifting-letters](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0848-shifting-letters) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0890-lemonade-change](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0890-lemonade-change) |
@@ -904,6 +905,7 @@
 | [0721-accounts-merge](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0721-accounts-merge) |
 | [0763-partition-labels](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0763-partition-labels) |
 | [0817-linked-list-components](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0817-linked-list-components) |
+| [0846-hand-of-straights](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0846-hand-of-straights) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0904-fruit-into-baskets](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0904-fruit-into-baskets) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0947-most-stones-removed-with-same-row-or-column) |
@@ -986,6 +988,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0628-maximum-product-of-three-numbers) |
 | [0721-accounts-merge](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0721-accounts-merge) |
 | [0769-max-chunks-to-make-sorted](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0769-max-chunks-to-make-sorted) |
+| [0846-hand-of-straights](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0846-hand-of-straights) |
 | [0941-sort-array-by-parity](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0941-sort-array-by-parity) |
 | [0958-sort-array-by-parity-ii](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0958-sort-array-by-parity-ii) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -1111,6 +1114,7 @@
 | [0678-valid-parenthesis-string](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0678-valid-parenthesis-string) |
 | [0763-partition-labels](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0763-partition-labels) |
 | [0769-max-chunks-to-make-sorted](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0769-max-chunks-to-make-sorted) |
+| [0846-hand-of-straights](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0846-hand-of-straights) |
 | [0890-lemonade-change](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0890-lemonade-change) |
 | [1018-largest-perimeter-triangle](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/1018-largest-perimeter-triangle) |
 | [1247-minimum-swaps-to-make-strings-equal](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/1247-minimum-swaps-to-make-strings-equal) |
