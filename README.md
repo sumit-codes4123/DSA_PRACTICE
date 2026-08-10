@@ -35,6 +35,7 @@
 | [0556-next-greater-element-iii](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0556-next-greater-element-iii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0628-maximum-product-of-three-numbers) |
 | [0650-2-keys-keyboard](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0650-2-keys-keyboard) |
+| [0668-kth-smallest-number-in-multiplication-table](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0668-kth-smallest-number-in-multiplication-table) |
 | [0728-self-dividing-numbers](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0728-self-dividing-numbers) |
 | [0909-stone-game](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0909-stone-game) |
 | [1013-fibonacci-number](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/1013-fibonacci-number) |
@@ -463,6 +464,7 @@
 | [0493-reverse-pairs](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0493-reverse-pairs) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0540-single-element-in-a-sorted-array) |
+| [0668-kth-smallest-number-in-multiplication-table](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0668-kth-smallest-number-in-multiplication-table) |
 | [0713-subarray-product-less-than-k](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0713-subarray-product-less-than-k) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0778-swim-in-rising-water](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0778-swim-in-rising-water) |
