@@ -243,6 +243,7 @@
 | [0769-max-chunks-to-make-sorted](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0769-max-chunks-to-make-sorted) |
 | [0777-toeplitz-matrix](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0777-toeplitz-matrix) |
 | [0778-swim-in-rising-water](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0778-swim-in-rising-water) |
+| [0786-k-th-smallest-prime-fraction](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0786-k-th-smallest-prime-fraction) |
 | [0792-binary-search](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0792-binary-search) |
 | [0817-linked-list-components](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0817-linked-list-components) |
 | [0827-making-a-large-island](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0827-making-a-large-island) |
@@ -468,6 +469,7 @@
 | [0713-subarray-product-less-than-k](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0713-subarray-product-less-than-k) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0778-swim-in-rising-water](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0778-swim-in-rising-water) |
+| [0786-k-th-smallest-prime-fraction](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0786-k-th-smallest-prime-fraction) |
 | [0792-binary-search](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0907-koko-eating-bananas](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0907-koko-eating-bananas) |
@@ -601,6 +603,7 @@
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0763-partition-labels](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0763-partition-labels) |
 | [0777-swap-adjacent-in-lr-string](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0777-swap-adjacent-in-lr-string) |
+| [0786-k-th-smallest-prime-fraction](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0786-k-th-smallest-prime-fraction) |
 | [0845-longest-mountain-in-array](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0845-longest-mountain-in-array) |
 | [0908-middle-of-the-linked-list](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0908-middle-of-the-linked-list) |
 | [0941-sort-array-by-parity](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0941-sort-array-by-parity) |
@@ -994,6 +997,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0628-maximum-product-of-three-numbers) |
 | [0721-accounts-merge](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0721-accounts-merge) |
 | [0769-max-chunks-to-make-sorted](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0769-max-chunks-to-make-sorted) |
+| [0786-k-th-smallest-prime-fraction](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0786-k-th-smallest-prime-fraction) |
 | [0846-hand-of-straights](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0846-hand-of-straights) |
 | [0941-sort-array-by-parity](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0941-sort-array-by-parity) |
 | [0958-sort-array-by-parity-ii](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0958-sort-array-by-parity-ii) |
@@ -1588,6 +1592,7 @@
 | [0621-task-scheduler](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0621-task-scheduler) |
 | [0743-network-delay-time](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0743-network-delay-time) |
 | [0778-swim-in-rising-water](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0778-swim-in-rising-water) |
+| [0786-k-th-smallest-prime-fraction](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0786-k-th-smallest-prime-fraction) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1094-car-pooling](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/1094-car-pooling) |
 | [1631-path-with-minimum-effort](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/1631-path-with-minimum-effort) |
