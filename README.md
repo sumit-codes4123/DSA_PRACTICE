@@ -47,6 +47,7 @@
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
+| [1510-stone-game-iv](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/1510-stone-game-iv) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1642-water-bottles](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/1642-water-bottles) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/1817-calculate-money-in-leetcode-bank) |
@@ -552,6 +553,7 @@
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+| [1510-stone-game-iv](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/1510-stone-game-iv) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/1976-number-of-ways-to-arrive-at-destination) |
@@ -1574,6 +1576,7 @@
 | ------- |
 | [0292-nim-game](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0292-nim-game) |
 | [0909-stone-game](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0909-stone-game) |
+| [1510-stone-game-iv](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/1510-stone-game-iv) |
 | [3462-vowels-game-in-a-string](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/3462-vowels-game-in-a-string) |
 | [3511-find-the-winning-player-in-coin-game](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/3511-find-the-winning-player-in-coin-game) |
 ## String Matching
@@ -1755,4 +1758,20 @@
 |  |
 | ------- |
 | [1192-critical-connections-in-a-network](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/1192-critical-connections-in-a-network) |
+## Minimax
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/1510-stone-game-iv) |
+## Nim Game
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/1510-stone-game-iv) |
+## Sprague–Grundy Theorem
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/1510-stone-game-iv) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/1510-stone-game-iv) |
 <!---LeetCode Topics End-->
