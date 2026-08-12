@@ -386,6 +386,7 @@
 | [2876-number-of-employees-who-met-the-target](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2876-number-of-employees-who-met-the-target) |
 | [2906-construct-product-matrix](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2906-construct-product-matrix) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3034-points-that-intersect-with-cars](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/3034-points-that-intersect-with-cars) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
@@ -953,6 +954,7 @@
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2824-check-if-the-number-is-fascinating](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2824-check-if-the-number-is-fascinating) |
 | [2834-relocate-marbles](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2834-relocate-marbles) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3034-points-that-intersect-with-cars](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/3034-points-that-intersect-with-cars) |
 | [3081-minimum-array-length-after-pair-removals](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/3081-minimum-array-length-after-pair-removals) |
@@ -1285,6 +1287,7 @@
 | [2260-minimum-consecutive-cards-to-pick-up](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2260-minimum-consecutive-cards-to-pick-up) |
 | [2401-longest-nice-subarray](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2401-longest-nice-subarray) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3193-maximum-strong-pair-xor-i](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/3193-maximum-strong-pair-xor-i) |
 | [3254-find-the-power-of-k-size-subarrays-i](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/3254-find-the-power-of-k-size-subarrays-i) |
