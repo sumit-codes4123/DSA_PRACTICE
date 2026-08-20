@@ -1380,6 +1380,7 @@
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 | [0449-serialize-and-deserialize-bst](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0449-serialize-and-deserialize-bst) |
 | [0450-delete-node-in-a-bst](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0450-delete-node-in-a-bst) |
+| [0543-diameter-of-binary-tree](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0543-diameter-of-binary-tree) |
 | [0606-construct-string-from-binary-tree](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0606-construct-string-from-binary-tree) |
 | [0654-maximum-binary-tree](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0654-maximum-binary-tree) |
 | [0655-print-binary-tree](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0655-print-binary-tree) |
@@ -1431,6 +1432,7 @@
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0419-battleships-in-a-board](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0419-battleships-in-a-board) |
 | [0449-serialize-and-deserialize-bst](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0449-serialize-and-deserialize-bst) |
+| [0543-diameter-of-binary-tree](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0547-number-of-provinces) |
 | [0606-construct-string-from-binary-tree](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0606-construct-string-from-binary-tree) |
 | [0655-print-binary-tree](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0655-print-binary-tree) |
@@ -1497,6 +1499,7 @@
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 | [0449-serialize-and-deserialize-bst](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0449-serialize-and-deserialize-bst) |
 | [0450-delete-node-in-a-bst](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0450-delete-node-in-a-bst) |
+| [0543-diameter-of-binary-tree](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0543-diameter-of-binary-tree) |
 | [0606-construct-string-from-binary-tree](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0606-construct-string-from-binary-tree) |
 | [0654-maximum-binary-tree](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0654-maximum-binary-tree) |
 | [0655-print-binary-tree](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0655-print-binary-tree) |
@@ -1782,4 +1785,8 @@
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/1510-stone-game-iv) |
+## DP on Trees
+|  |
+| ------- |
+| [0543-diameter-of-binary-tree](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0543-diameter-of-binary-tree) |
 <!---LeetCode Topics End-->
