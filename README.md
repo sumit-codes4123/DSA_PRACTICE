@@ -1053,6 +1053,7 @@
 | [3151-minimum-processing-time](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/3151-minimum-processing-time) |
 | [3226-minimum-number-game](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/3226-minimum-number-game) |
 | [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3319-k-th-largest-perfect-subtree-size-in-binary-tree](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/3319-k-th-largest-perfect-subtree-size-in-binary-tree) |
 | [3321-type-of-triangle](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/3321-type-of-triangle) |
 | [3334-apple-redistribution-into-boxes](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/3334-apple-redistribution-into-boxes) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
@@ -1406,6 +1407,7 @@
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 | [2641-cousins-in-binary-tree-ii](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2641-cousins-in-binary-tree-ii) |
+| [3319-k-th-largest-perfect-subtree-size-in-binary-tree](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/3319-k-th-largest-perfect-subtree-size-in-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -1470,6 +1472,7 @@
 | [2641-cousins-in-binary-tree-ii](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2641-cousins-in-binary-tree-ii) |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2658-maximum-number-of-fish-in-a-grid) |
 | [2685-count-the-number-of-complete-components](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2685-count-the-number-of-complete-components) |
+| [3319-k-th-largest-perfect-subtree-size-in-binary-tree](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/3319-k-th-largest-perfect-subtree-size-in-binary-tree) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Binary Tree
 |  |
@@ -1525,6 +1528,7 @@
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 | [2641-cousins-in-binary-tree-ii](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2641-cousins-in-binary-tree-ii) |
+| [3319-k-th-largest-perfect-subtree-size-in-binary-tree](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/3319-k-th-largest-perfect-subtree-size-in-binary-tree) |
 ## Linked List
 |  |
 | ------- |
