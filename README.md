@@ -52,6 +52,7 @@
 | [1642-water-bottles](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/1642-water-bottles) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [1925-count-square-sum-triples](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/1925-count-square-sum-triples) |
+| [1927-sum-game](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/1927-sum-game) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2032-largest-odd-number-in-string](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2032-largest-odd-number-in-string) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
@@ -720,6 +721,7 @@
 | [1657-determine-if-two-strings-are-close](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/1657-determine-if-two-strings-are-close) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [1927-sum-game](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/1927-sum-game) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [1970-sorting-the-sentence](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/1970-sorting-the-sentence) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
@@ -1145,6 +1147,7 @@
 | [1833-maximum-ice-cream-bars](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [1927-sum-game](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/1927-sum-game) |
 | [1938-minimum-operations-to-make-the-array-increasing](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/1938-minimum-operations-to-make-the-array-increasing) |
 | [2032-largest-odd-number-in-string](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2032-largest-odd-number-in-string) |
 | [2116-check-if-a-parentheses-string-can-be-valid](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2116-check-if-a-parentheses-string-can-be-valid) |
@@ -1592,6 +1595,7 @@
 | [0292-nim-game](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0292-nim-game) |
 | [0909-stone-game](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0909-stone-game) |
 | [1510-stone-game-iv](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/1510-stone-game-iv) |
+| [1927-sum-game](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/1927-sum-game) |
 | [3462-vowels-game-in-a-string](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/3462-vowels-game-in-a-string) |
 | [3511-find-the-winning-player-in-coin-game](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/3511-find-the-winning-player-in-coin-game) |
 ## String Matching
