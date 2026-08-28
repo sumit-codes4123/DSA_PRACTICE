@@ -746,6 +746,7 @@
 | [2713-find-the-divisibility-array-of-a-string](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2713-find-the-divisibility-array-of-a-string) |
 | [2819-remove-trailing-zeros-from-a-string](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2819-remove-trailing-zeros-from-a-string) |
 | [2887-sort-vowels-in-a-string](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2887-sort-vowels-in-a-string) |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3019-furthest-point-from-origin](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/3019-furthest-point-from-origin) |
 | [3046-minimum-operations-to-make-a-special-number](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/3046-minimum-operations-to-make-a-special-number) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/3121-count-the-number-of-special-characters-ii) |
@@ -1299,6 +1300,7 @@
 | [2260-minimum-consecutive-cards-to-pick-up](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2260-minimum-consecutive-cards-to-pick-up) |
 | [2401-longest-nice-subarray](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2401-longest-nice-subarray) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3193-maximum-strong-pair-xor-i](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/3193-maximum-strong-pair-xor-i) |
