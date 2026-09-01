@@ -252,6 +252,7 @@
 | [0786-k-th-smallest-prime-fraction](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0786-k-th-smallest-prime-fraction) |
 | [0792-binary-search](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0792-binary-search) |
 | [0817-linked-list-components](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0817-linked-list-components) |
+| [0822-card-flipping-game](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0822-card-flipping-game) |
 | [0827-making-a-large-island](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0827-making-a-large-island) |
 | [0845-longest-mountain-in-array](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0845-longest-mountain-in-array) |
 | [0846-hand-of-straights](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0846-hand-of-straights) |
@@ -930,6 +931,7 @@
 | [0721-accounts-merge](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0721-accounts-merge) |
 | [0763-partition-labels](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0763-partition-labels) |
 | [0817-linked-list-components](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0817-linked-list-components) |
+| [0822-card-flipping-game](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0822-card-flipping-game) |
 | [0846-hand-of-straights](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0846-hand-of-straights) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0904-fruit-into-baskets](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0904-fruit-into-baskets) |
