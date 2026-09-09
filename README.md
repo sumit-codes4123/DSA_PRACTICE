@@ -1672,6 +1672,7 @@
 | [0040-combination-sum-ii](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0051-n-queens) |
+| [0052-n-queens-ii](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0052-n-queens-ii) |
 | [0078-subsets](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0090-subsets-ii) |
 | [0113-path-sum-ii](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0113-path-sum-ii) |
@@ -1822,6 +1823,7 @@
 | ------- |
 | [0037-sudoku-solver](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0051-n-queens) |
+| [0052-n-queens-ii](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0052-n-queens-ii) |
 ## Dancing Links
 |  |
 | ------- |
