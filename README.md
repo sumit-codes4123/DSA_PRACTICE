@@ -14,6 +14,7 @@
 | [0062-unique-paths](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0172-factorial-trailing-zeroes](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0189-rotate-array) |
@@ -516,6 +517,7 @@
 | [0062-unique-paths](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0064-minimum-path-sum) |
+| [0070-climbing-stairs](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0072-edit-distance) |
 | [0085-maximal-rectangle](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0085-maximal-rectangle) |
 | [0115-distinct-subsequences](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0115-distinct-subsequences) |
@@ -576,6 +578,7 @@
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0070-climbing-stairs) |
 | [0397-integer-replacement](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0397-integer-replacement) |
 | [1013-fibonacci-number](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/1013-fibonacci-number) |
 ## Two Pointers
