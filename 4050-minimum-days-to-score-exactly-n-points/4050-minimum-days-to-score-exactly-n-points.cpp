@@ -1,34 +1,20 @@
 class Solution {
 public:
-    vector<int>memo;
-    int find(int n){
-        if(n==0)return 0;
-        if(memo[n]!=-1){
-            return memo[n];
-        }
-        int d=INT_MAX;
-
-        int k=1;
-
-        while(1){
-            int p=k*(k+1)/2;
-            if(p>n)break;
-            else if(p==n){
-                d=min(d,k);
-            }
-            else{
-                int rd=find(n-p);
-                if(rd!=INT_MAX){
-                    int td=k+1+rd;
-                    d=min(d,td);
+    int minDays(int n) {
+        long long curr=1;
+        vector<int>dp(n+1,1e9+7);
+        dp[0]=0;
+        for(int i=1;i<=n;i++){
+            for(long long k=1;k*(k+1)/2<=i;k++){
+                long long pt=k*(k+1)/2;
+                if(pt==i){
+                    dp[i]=k;
+                }
+                else{
+                    dp[i]=min(dp[i],dp[i-pt]+(int)k+1);
                 }
             }
-            k++;
         }
-        return memo[n]=d;
-    }
-    int minDays(int n) {
-        memo.assign(n+1,-1);
-        return find(n);
+        return dp[n];
     }
 };
