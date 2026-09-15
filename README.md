@@ -24,6 +24,7 @@
 | [0258-add-digits](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0258-add-digits) |
 | [0264-ugly-number-ii](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0268-missing-number) |
+| [0282-expression-add-operators](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0282-expression-add-operators) |
 | [0292-nim-game](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0342-power-of-four) |
@@ -690,6 +691,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0151-reverse-words-in-a-string) |
 | [0179-largest-number](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0179-largest-number) |
 | [0242-valid-anagram](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0242-valid-anagram) |
+| [0282-expression-add-operators](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0282-expression-add-operators) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0299-bulls-and-cows](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0299-bulls-and-cows) |
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
@@ -1687,6 +1689,7 @@
 | [0126-word-ladder-ii](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0126-word-ladder-ii) |
 | [0131-palindrome-partitioning](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0216-combination-sum-iii) |
+| [0282-expression-add-operators](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0282-expression-add-operators) |
 | [0494-target-sum](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0494-target-sum) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2754-maximum-strength-of-a-group](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2754-maximum-strength-of-a-group) |
