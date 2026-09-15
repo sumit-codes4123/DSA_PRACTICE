@@ -558,6 +558,7 @@
 | [0909-stone-game](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0909-stone-game) |
 | [0931-minimum-falling-path-sum](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0931-minimum-falling-path-sum) |
 | [0943-sum-of-subarray-minimums](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0943-sum-of-subarray-minimums) |
+| [0968-binary-tree-cameras](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0968-binary-tree-cameras) |
 | [1013-fibonacci-number](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/1013-fibonacci-number) |
 | [1035-uncrossed-lines](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/1035-uncrossed-lines) |
 | [1092-shortest-common-supersequence](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/1092-shortest-common-supersequence) |
@@ -1418,6 +1419,7 @@
 | [0814-binary-tree-pruning](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0814-binary-tree-pruning) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0951-flip-equivalent-binary-trees](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0951-flip-equivalent-binary-trees) |
+| [0968-binary-tree-cameras](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0968-binary-tree-cameras) |
 | [0971-flip-binary-tree-to-match-preorder-traversal](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0971-flip-binary-tree-to-match-preorder-traversal) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0998-maximum-binary-tree-ii](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0998-maximum-binary-tree-ii) |
@@ -1480,6 +1482,7 @@
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [0951-flip-equivalent-binary-trees](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0951-flip-equivalent-binary-trees) |
+| [0968-binary-tree-cameras](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0968-binary-tree-cameras) |
 | [0971-flip-binary-tree-to-match-preorder-traversal](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0971-flip-binary-tree-to-match-preorder-traversal) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1020-number-of-enclaves](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/1020-number-of-enclaves) |
@@ -1540,6 +1543,7 @@
 | [0814-binary-tree-pruning](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0814-binary-tree-pruning) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0951-flip-equivalent-binary-trees](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0951-flip-equivalent-binary-trees) |
+| [0968-binary-tree-cameras](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0968-binary-tree-cameras) |
 | [0971-flip-binary-tree-to-match-preorder-traversal](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0971-flip-binary-tree-to-match-preorder-traversal) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0998-maximum-binary-tree-ii](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0998-maximum-binary-tree-ii) |
@@ -1829,6 +1833,7 @@
 |  |
 | ------- |
 | [0543-diameter-of-binary-tree](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0543-diameter-of-binary-tree) |
+| [0968-binary-tree-cameras](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0968-binary-tree-cameras) |
 ## Algorithm X
 |  |
 | ------- |
