@@ -1421,6 +1421,7 @@
 | [0951-flip-equivalent-binary-trees](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0951-flip-equivalent-binary-trees) |
 | [0968-binary-tree-cameras](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0968-binary-tree-cameras) |
 | [0971-flip-binary-tree-to-match-preorder-traversal](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0971-flip-binary-tree-to-match-preorder-traversal) |
+| [0979-distribute-coins-in-binary-tree](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0979-distribute-coins-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0998-maximum-binary-tree-ii](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0998-maximum-binary-tree-ii) |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/1026-maximum-difference-between-node-and-ancestor) |
@@ -1484,6 +1485,7 @@
 | [0951-flip-equivalent-binary-trees](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0951-flip-equivalent-binary-trees) |
 | [0968-binary-tree-cameras](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0968-binary-tree-cameras) |
 | [0971-flip-binary-tree-to-match-preorder-traversal](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0971-flip-binary-tree-to-match-preorder-traversal) |
+| [0979-distribute-coins-in-binary-tree](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0979-distribute-coins-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1020-number-of-enclaves](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/1020-number-of-enclaves) |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/1026-maximum-difference-between-node-and-ancestor) |
@@ -1545,6 +1547,7 @@
 | [0951-flip-equivalent-binary-trees](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0951-flip-equivalent-binary-trees) |
 | [0968-binary-tree-cameras](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0968-binary-tree-cameras) |
 | [0971-flip-binary-tree-to-match-preorder-traversal](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0971-flip-binary-tree-to-match-preorder-traversal) |
+| [0979-distribute-coins-in-binary-tree](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0979-distribute-coins-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0998-maximum-binary-tree-ii](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0998-maximum-binary-tree-ii) |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/1026-maximum-difference-between-node-and-ancestor) |
@@ -1834,6 +1837,7 @@
 | ------- |
 | [0543-diameter-of-binary-tree](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0543-diameter-of-binary-tree) |
 | [0968-binary-tree-cameras](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0968-binary-tree-cameras) |
+| [0979-distribute-coins-in-binary-tree](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0979-distribute-coins-in-binary-tree) |
 ## Algorithm X
 |  |
 | ------- |
