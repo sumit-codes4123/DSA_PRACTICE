@@ -1854,4 +1854,8 @@
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0037-sudoku-solver) |
+## Longest Common Subsequence
+|  |
+| ------- |
+| [1143-longest-common-subsequence](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/1143-longest-common-subsequence) |
 <!---LeetCode Topics End-->
