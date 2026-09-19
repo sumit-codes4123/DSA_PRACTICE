@@ -1,15 +1,22 @@
 class Solution {
 public:
-    int jump(vector<int>& nums) {
-        int l = 0, r = 0, jump = 0, n = nums.size();
-        while (r < n - 1) {
-            int far=0;
-            for(int i=l;i<=r;i++){
-                far=max(i+nums[i],far);
+    int solve(int i,int n,vector<int>&nums,vector<int>&memo){
+        if(i>=n-1)return 0;
+        if (nums[i] == 0) return memo[i]=1e9; 
+        if(memo[i]!=-1)return memo[i];
+        int mini=1e9;
+        for(int j=1;j<=nums[i];j++){
+            int curr=solve(i+j,n,nums,memo);
+            if(curr!=1e9){
+                mini=min(mini,1+curr);
             }
-            l=r+1;
-            r=far;
-            jump=jump+1;
-        }return jump;
+        }
+        return memo[i]=mini;
+    }
+    int jump(vector<int>& nums) {
+        int n=nums.size();
+        vector<int>memo(n,-1);
+        return solve(0,n,nums,memo);
+        
     }
 };
