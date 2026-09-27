@@ -453,6 +453,7 @@
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3778-transform-array-by-parity](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/3778-transform-array-by-parity) |
 | [3862-find-the-smallest-balanced-index](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/3862-find-the-smallest-balanced-index) |
+| [4051-count-subarrays-with-distant-sums](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/4051-count-subarrays-with-distant-sums) |
 ## Binary Search
 |  |
 | ------- |
@@ -509,6 +510,7 @@
 | [3081-minimum-array-length-after-pair-removals](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/3081-minimum-array-length-after-pair-removals) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 | [3932-count-k-th-roots-in-a-range](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/3932-count-k-th-roots-in-a-range) |
+| [4051-count-subarrays-with-distant-sums](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/4051-count-subarrays-with-distant-sums) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -1297,6 +1299,7 @@
 | [3355-minimum-levels-to-gain-more-points](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/3355-minimum-levels-to-gain-more-points) |
 | [3422-find-the-n-th-value-after-k-seconds](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/3422-find-the-n-th-value-after-k-seconds) |
 | [3862-find-the-smallest-balanced-index](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/3862-find-the-smallest-balanced-index) |
+| [4051-count-subarrays-with-distant-sums](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/4051-count-subarrays-with-distant-sums) |
 ## Sliding Window
 |  |
 | ------- |
@@ -1334,10 +1337,12 @@
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0493-reverse-pairs) |
+| [4051-count-subarrays-with-distant-sums](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/4051-count-subarrays-with-distant-sums) |
 ## Segment Tree
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0493-reverse-pairs) |
+| [4051-count-subarrays-with-distant-sums](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/4051-count-subarrays-with-distant-sums) |
 ## Merge Sort
 |  |
 | ------- |
