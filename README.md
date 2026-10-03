@@ -324,6 +324,7 @@
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/1878-check-if-array-is-sorted-and-rotated) |
+| [1937-maximum-number-of-points-with-cost](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/1937-maximum-number-of-points-with-cost) |
 | [1938-minimum-operations-to-make-the-array-increasing](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/1938-minimum-operations-to-make-the-array-increasing) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/1951-find-the-winner-of-the-circular-game) |
@@ -575,6 +576,7 @@
 | [1510-stone-game-iv](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/1510-stone-game-iv) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [1937-maximum-number-of-points-with-cost](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/1937-maximum-number-of-points-with-cost) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2690-house-robber-iv](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2690-house-robber-iv) |
@@ -890,6 +892,7 @@
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1631-path-with-minimum-effort](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/1631-path-with-minimum-effort) |
 | [1677-matrix-diagonal-sum](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/1677-matrix-diagonal-sum) |
+| [1937-maximum-number-of-points-with-cost](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/1937-maximum-number-of-points-with-cost) |
 | [2015-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2015-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2047-find-a-peak-element-ii](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2047-find-a-peak-element-ii) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2244-number-of-laser-beams-in-a-bank) |
