@@ -332,6 +332,7 @@
 | [2015-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2015-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2047-find-a-peak-element-ii](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2047-find-a-peak-element-ii) |
 | [2079-watering-plants](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2079-watering-plants) |
+| [2087-minimum-cost-homecoming-of-a-robot-in-a-grid](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2087-minimum-cost-homecoming-of-a-robot-in-a-grid) |
 | [2102-find-the-middle-index-in-array](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2102-find-the-middle-index-in-array) |
 | [2105-watering-plants-ii](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2105-watering-plants-ii) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
@@ -1189,6 +1190,7 @@
 | [1927-sum-game](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/1927-sum-game) |
 | [1938-minimum-operations-to-make-the-array-increasing](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/1938-minimum-operations-to-make-the-array-increasing) |
 | [2032-largest-odd-number-in-string](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2032-largest-odd-number-in-string) |
+| [2087-minimum-cost-homecoming-of-a-robot-in-a-grid](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2087-minimum-cost-homecoming-of-a-robot-in-a-grid) |
 | [2116-check-if-a-parentheses-string-can-be-valid](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2116-check-if-a-parentheses-string-can-be-valid) |
 | [2212-removing-minimum-and-maximum-from-array](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2212-removing-minimum-and-maximum-from-array) |
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
