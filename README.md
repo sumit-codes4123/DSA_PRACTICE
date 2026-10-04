@@ -528,6 +528,7 @@
 | [0070-climbing-stairs](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0072-edit-distance) |
 | [0085-maximal-rectangle](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0085-maximal-rectangle) |
+| [0091-decode-ways](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0091-decode-ways) |
 | [0115-distinct-subsequences](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0115-distinct-subsequences) |
 | [0118-pascals-triangle](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0119-pascals-triangle-ii) |
@@ -694,6 +695,7 @@
 | [0072-edit-distance](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0079-word-search) |
+| [0091-decode-ways](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0091-decode-ways) |
 | [0115-distinct-subsequences](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0115-distinct-subsequences) |
 | [0126-word-ladder-ii](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0127-word-ladder) |
