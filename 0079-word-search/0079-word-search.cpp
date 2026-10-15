@@ -15,7 +15,6 @@ public:
                 nc >= 0 && nc < b[0].size() && 
                 b[nr][nc] == w[ind + 1]){
                     if(dfs(b,nr,nc,w,ind+1))return true;
-
             }
         }
         b[i][j]=temp;
