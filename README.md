@@ -1892,4 +1892,8 @@
 |  |
 | ------- |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0084-largest-rectangle-in-histogram) |
 <!---LeetCode Topics End-->
