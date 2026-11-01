@@ -31,6 +31,7 @@
 | [0367-valid-perfect-square](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0367-valid-perfect-square) |
 | [0396-rotate-function](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0396-rotate-function) |
 | [0445-add-two-numbers-ii](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0445-add-two-numbers-ii) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0507-perfect-number](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0507-perfect-number) |
 | [0523-continuous-subarray-sum](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0523-continuous-subarray-sum) |
 | [0553-optimal-division](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0553-optimal-division) |
@@ -225,6 +226,7 @@
 | [0419-battleships-in-a-board](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0419-battleships-in-a-board) |
 | [0435-non-overlapping-intervals](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0435-non-overlapping-intervals) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0455-assign-cookies](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0455-assign-cookies) |
 | [0474-ones-and-zeroes](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0474-ones-and-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/sumit-codes4123/DSA_PRACTICE/tree/master/0485-max-consecutive-ones) |
